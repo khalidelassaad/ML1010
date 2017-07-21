@@ -163,7 +163,11 @@ def run_evolution(num_generations, num_candidates, board_seeds, *starting_weight
 
 # BEST WEIGHTS YET [13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
 def main():
-	weights = run_evolution(3, 6, [1,2], [2,3,4,5,2,0],[1,1,1,1,1,1])
+	known_good_weights = [
+	[13.4, 0.2, -0.7, 5.8, 5.1, -1.0],
+	[8.7, -6.9, 6.1, 0.5, 6.2, -1.5],
+	[6.0, -5.2, 9.0, -9.6, 9.5, -4.3]]
+	weights = run_evolution(20, 20, list(range(10)) *known_good_weights)
 
 if __name__ == "__main__":
 	main_rand = Random()
