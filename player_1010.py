@@ -38,6 +38,12 @@ class Player():
         self.random = Random()
         self.seed = 0
 
+    def adopt_weights(self, weights):
+        i = 0
+        for i in range(len(weights)):
+            self.weights[i] = weights[i]
+        return
+
     def __str__(self):
         return "Player Object: {} {}".format(self.name,self.weights)
 
@@ -45,6 +51,7 @@ class Player():
         self.move_set = set()
         for shape in self.current_round:
             self.move_set = self.move_set.union(set_moves_for_shape(shape, self.board))
+        return
 
     def pick_move(self):#THE MONEY FUNCTION
         movedict = {}
@@ -80,6 +87,7 @@ class Player():
         for x in range(3):
             i = self.random.randint(0,18)
             self.current_round.append(SHAPES[i])
+        return
 
     def play(self):
         self.random.seed(self.seed)

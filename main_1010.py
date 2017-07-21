@@ -1,16 +1,5 @@
 from player_1010 import *
 
-NUM_CANDIDATES = 20# DO NOT SET LESS THAN 3, only evolves well with 10 or more (see mutate_all)
-NUM_GENERATIONS = 20
-
-#The main random number generator
-#used to mutate candidates
-main_rand = Random()
-
-#The board_seeds table decides how many games will be played
-#with its length, the seeds are arbitrary
-board_seeds = [8,9,99,999,9999,9997]
-
 #Sets player names and appends each player to the players list
 def rename(players):
 	for x in range(len(players)):
@@ -79,12 +68,12 @@ def mutate_all(old_players, scores):
 	c9 = mutate_shift(c7)
 	c10 = randomize_weights(Player())
 	players = [c1,c2,c3,c4,c5,c6,c7,c8,c9,c10]
-	if NUM_CANDIDATES < 10:
-		return players[:NUM_CANDIDATES]
-	elif NUM_CANDIDATES == 10:
+	if num_candidates < 10:
+		return players[:num_candidates]
+	elif num_candidates == 10:
 		return players
 	else:
-		for x in range(NUM_CANDIDATES-10):
+		for x in range(num_candidates-10):
 			players.append(randomize_weights(Player()))
 		return players
 
@@ -101,53 +90,81 @@ def run_sim(player, seed, scorehistory):
 		scorehistory[key] = score
 		return score
 
-#The players table contains the candidates
-players = []
-
-for x in range(NUM_CANDIDATES):
-	P = Player()
-	players.append(P)
-rename(players)
-
-SCOREDICT = dict()
-player_scores = []
-
 #The initial scrambling of all the candidates
-for player in players:
-	randomize_weights(player)
+def initial_scramble(players):
+	for player in players:
+		randomize_weights(player)
+	return 
 
-#known impressive weights
-#players[0].weights = [8.7, -6.9, 6.1, 0.5, 6.2, -1.5]
-#players[1].weights = [6.0, -5.2, 9.0, -9.6, 9.5, -4.3]
+#The players table contains the candidates
+def intialize_players_list(num_candidates):
+	players = []
+	for x in range(num_candidates):
+		P = Player()
+		players.append(P)
+	rename(players)
+	return players
 
 #Run the evolution for the desired number of generations
-for x in range(NUM_GENERATIONS):
-	print("Starting Generation",x)
+def run_evolution(num_generations, num_candidates, board_seeds, *starting_weights)
+	#initialize everything
+	main_rand = Random()
+	scoredict = dict()
+	players = intialize_players_list(num_candidates)
+	initial_scramble(players)
 	player_scores = []
-	for player in players:
-		scores = []
-		print("    "+player.name+" Weights:"+str(player.weights))
-		for seed in board_seeds:
-			score = run_sim(player, seed, SCOREDICT)
-			scores.append(score)
-		average = avg_l(scores)
-		hiscore = max(scores)
-		print("    AVERAGE =",average)
-		print("    HISCORE =",hiscore)
+	#set given starting weights
+	player_index = 0
+	for weight_list in starting_weights:
+		players[player_index].adopt_weights(weight_list)
+		player_index += 1
+	#Generation loop
+	top_hiscore = 0
+	top_average = 0
+	top_weights = []
+	for x in range(num_generations):
+		print("Starting Generation",x)
+		player_scores = []
+		for player in players:
+			scores = []
+			print("    "+player.name+" Weights:"+str(player.weights))
+			for seed in board_seeds:
+				score = run_sim(player, seed, scoredict)
+				scores.append(score)
+			average = avg_l(scores)
+			hiscore = max(scores)
+			print("    AVERAGE =",average)
+			print("    HISCORE =",hiscore)
+			print()
+			player_scores.append((average,hiscore))
+		print("Top performer of Generation",x)
+		top_player_score = max(player_scores, key=lambda x: avg(x[0],x[1]))
+		i = player_scores.index(top_player_score)
+		top = players[i]
+		top_weights = top.weights
+		top_hiscore = player_scores[i][1]
+		top_average = player_scores[i][0]
+		print("NAME:",top.name)
+		print("WEIGHTS:",top_weights)
+		print("HISCORE:",top_hiscore)
+		print("AVERAGE:",top_average)
 		print()
-		player_scores.append((average,hiscore))
-	print("Top performer of Generation",x)
-	top_player_score = max(player_scores, key=lambda x: avg(x[0],x[1]))
-	i = player_scores.index(top_player_score)
-	top = players[i]
-	print("NAME:",top.name)
-	print("WEIGHTS:",top.weights)
-	print("HISCORE:",player_scores[i][1])
-	print("AVERAGE:",player_scores[i][0])
-	print()
-	players = mutate_all(players, player_scores)
-	for player in players:
-		for x in range(len(player.weights)):
-			player.weights[x] = round(player.weights[x],1)
-	rename(players)
+		players = mutate_all(players, player_scores)
+		for player in players:
+			for x in range(len(player.weights)):
+				player.weights[x] = round(player.weights[x],1)
+		rename(players)
+	#print and return results
+	print("""Most effective weights: {}
+		Highest Score: {}
+		Average Score: {}""".format(top_weights, top_hiscore, top_average))
+	return top_weights
+
+
+# BEST WEIGHTS YET [13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+def main():
+	weights = run_evolution(3, 6, [1,2], [2,3,4,5,2,0])
+
+if __name__ == "__main__":
+	main()
 
