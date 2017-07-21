@@ -55,6 +55,7 @@ def mutate_shift(player):
 
 def mutate_all(old_players, scores):
 	"""mutates the players table (see diagram for details)"""
+	num_candidates = len(old_players)
 	ziplist = list(zip(old_players, scores))
 	ziplist.sort(reverse=True, key = lambda x: avg_l(x[1]))
 	c1 = ziplist[0][0]
@@ -106,9 +107,8 @@ def intialize_players_list(num_candidates):
 	return players
 
 #Run the evolution for the desired number of generations
-def run_evolution(num_generations, num_candidates, board_seeds, *starting_weights)
+def run_evolution(num_generations, num_candidates, board_seeds, *starting_weights):
 	#initialize everything
-	main_rand = Random()
 	scoredict = dict()
 	players = intialize_players_list(num_candidates)
 	initial_scramble(players)
@@ -163,8 +163,9 @@ def run_evolution(num_generations, num_candidates, board_seeds, *starting_weight
 
 # BEST WEIGHTS YET [13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
 def main():
-	weights = run_evolution(3, 6, [1,2], [2,3,4,5,2,0])
+	weights = run_evolution(3, 6, [1,2], [2,3,4,5,2,0],[1,1,1,1,1,1])
 
 if __name__ == "__main__":
+	main_rand = Random()
 	main()
 
