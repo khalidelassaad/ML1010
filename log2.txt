@@ -1,0 +1,3798 @@
+Starting Generation 0
+    Candidate 1 Weights:[-1.6, 0.4, 7.1, 8.3, -4.2, 7.4]
+         Candidate 1 Final Score: 56 Seed: 8
+         Candidate 1 Final Score: 44 Seed: 9
+         Candidate 1 Final Score: 52 Seed: 99
+         Candidate 1 Final Score: 36 Seed: 999
+         Candidate 1 Final Score: 84 Seed: 9999
+         Candidate 1 Final Score: 121 Seed: 9997
+    AVERAGE = 65.5
+    HISCORE = 121
+
+    Candidate 2 Weights:[-2.9, -8.8, -1.9, -4.0, 2.2, -0.2]
+         Candidate 2 Final Score: 66 Seed: 8
+         Candidate 2 Final Score: 26 Seed: 9
+         Candidate 2 Final Score: 98 Seed: 99
+         Candidate 2 Final Score: 36 Seed: 999
+         Candidate 2 Final Score: 84 Seed: 9999
+         Candidate 2 Final Score: 48 Seed: 9997
+    AVERAGE = 59.666666666666664
+    HISCORE = 98
+
+    Candidate 3 Weights:[9.4, -1.3, 0.7, 4.5, -9.4, -7.7]
+         Candidate 3 Final Score: 291 Seed: 8
+         Candidate 3 Final Score: 759 Seed: 9
+         Candidate 3 Final Score: 1348 Seed: 99
+         Candidate 3 Final Score: 569 Seed: 999
+         Candidate 3 Final Score: 255 Seed: 9999
+         Candidate 3 Final Score: 155 Seed: 9997
+    AVERAGE = 562.8333333333334
+    HISCORE = 1348
+
+    Candidate 4 Weights:[-6.0, 1.2, 0.8, -2.5, -5.2, 4.7]
+         Candidate 4 Final Score: 56 Seed: 8
+         Candidate 4 Final Score: 88 Seed: 9
+         Candidate 4 Final Score: 88 Seed: 99
+         Candidate 4 Final Score: 36 Seed: 999
+         Candidate 4 Final Score: 64 Seed: 9999
+         Candidate 4 Final Score: 80 Seed: 9997
+    AVERAGE = 68.66666666666667
+    HISCORE = 88
+
+    Candidate 5 Weights:[-1.4, -9.2, -2.1, 2.9, 6.7, -3.1]
+         Candidate 5 Final Score: 451 Seed: 8
+         Candidate 5 Final Score: 1253 Seed: 9
+         Candidate 5 Final Score: 184 Seed: 99
+         Candidate 5 Final Score: 212 Seed: 999
+         Candidate 5 Final Score: 323 Seed: 9999
+         Candidate 5 Final Score: 188 Seed: 9997
+    AVERAGE = 435.1666666666667
+    HISCORE = 1253
+
+    Candidate 6 Weights:[-2.3, -4.5, 7.7, -3.0, 3.6, 3.4]
+         Candidate 6 Final Score: 66 Seed: 8
+         Candidate 6 Final Score: 120 Seed: 9
+         Candidate 6 Final Score: 84 Seed: 99
+         Candidate 6 Final Score: 85 Seed: 999
+         Candidate 6 Final Score: 91 Seed: 9999
+         Candidate 6 Final Score: 58 Seed: 9997
+    AVERAGE = 84.0
+    HISCORE = 120
+
+    Candidate 7 Weights:[3.7, 5.2, 3.3, -3.1, -1.9, 2.4]
+         Candidate 7 Final Score: 56 Seed: 8
+         Candidate 7 Final Score: 59 Seed: 9
+         Candidate 7 Final Score: 88 Seed: 99
+         Candidate 7 Final Score: 85 Seed: 999
+         Candidate 7 Final Score: 74 Seed: 9999
+         Candidate 7 Final Score: 80 Seed: 9997
+    AVERAGE = 73.66666666666667
+    HISCORE = 88
+
+    Candidate 8 Weights:[9.8, 9.8, 3.0, -5.5, 6.3, -6.9]
+         Candidate 8 Final Score: 353 Seed: 8
+         Candidate 8 Final Score: 142 Seed: 9
+         Candidate 8 Final Score: 194 Seed: 99
+         Candidate 8 Final Score: 1059 Seed: 999
+         Candidate 8 Final Score: 188 Seed: 9999
+         Candidate 8 Final Score: 445 Seed: 9997
+    AVERAGE = 396.8333333333333
+    HISCORE = 1059
+
+    Candidate 9 Weights:[-8.2, 8.3, -9.6, 2.1, -3.5, 1.9]
+         Candidate 9 Final Score: 56 Seed: 8
+         Candidate 9 Final Score: 44 Seed: 9
+         Candidate 9 Final Score: 88 Seed: 99
+         Candidate 9 Final Score: 36 Seed: 999
+         Candidate 9 Final Score: 52 Seed: 9999
+         Candidate 9 Final Score: 70 Seed: 9997
+    AVERAGE = 57.666666666666664
+    HISCORE = 88
+
+    Candidate 10 Weights:[0.3, -6.8, -4.2, -9.1, 2.9, -7.5]
+         Candidate 10 Final Score: 118 Seed: 8
+         Candidate 10 Final Score: 659 Seed: 9
+         Candidate 10 Final Score: 309 Seed: 99
+         Candidate 10 Final Score: 151 Seed: 999
+         Candidate 10 Final Score: 220 Seed: 9999
+         Candidate 10 Final Score: 643 Seed: 9997
+    AVERAGE = 350.0
+    HISCORE = 659
+
+    Candidate 11 Weights:[1.5, 3.9, -6.3, -0.4, 2.8, 9.4]
+         Candidate 11 Final Score: 66 Seed: 8
+         Candidate 11 Final Score: 59 Seed: 9
+         Candidate 11 Final Score: 52 Seed: 99
+         Candidate 11 Final Score: 36 Seed: 999
+         Candidate 11 Final Score: 64 Seed: 9999
+         Candidate 11 Final Score: 80 Seed: 9997
+    AVERAGE = 59.5
+    HISCORE = 80
+
+    Candidate 12 Weights:[0.7, 2.2, 4.9, -9.1, -6.0, -2.8]
+         Candidate 12 Final Score: 149 Seed: 8
+         Candidate 12 Final Score: 322 Seed: 9
+         Candidate 12 Final Score: 78 Seed: 99
+         Candidate 12 Final Score: 496 Seed: 999
+         Candidate 12 Final Score: 183 Seed: 9999
+         Candidate 12 Final Score: 70 Seed: 9997
+    AVERAGE = 216.33333333333334
+    HISCORE = 496
+
+    Candidate 13 Weights:[10.0, -5.7, 1.9, 9.6, 5.8, 8.4]
+         Candidate 13 Final Score: 87 Seed: 8
+         Candidate 13 Final Score: 26 Seed: 9
+         Candidate 13 Final Score: 84 Seed: 99
+         Candidate 13 Final Score: 36 Seed: 999
+         Candidate 13 Final Score: 64 Seed: 9999
+         Candidate 13 Final Score: 71 Seed: 9997
+    AVERAGE = 61.333333333333336
+    HISCORE = 87
+
+    Candidate 14 Weights:[2.1, 8.6, -3.5, 0.2, -2.8, 0.9]
+         Candidate 14 Final Score: 45 Seed: 8
+         Candidate 14 Final Score: 44 Seed: 9
+         Candidate 14 Final Score: 52 Seed: 99
+         Candidate 14 Final Score: 57 Seed: 999
+         Candidate 14 Final Score: 64 Seed: 9999
+         Candidate 14 Final Score: 47 Seed: 9997
+    AVERAGE = 51.5
+    HISCORE = 64
+
+    Candidate 15 Weights:[-3.1, -6.5, -6.8, 3.3, 4.8, -9.7]
+         Candidate 15 Final Score: 331 Seed: 8
+         Candidate 15 Final Score: 110 Seed: 9
+         Candidate 15 Final Score: 249 Seed: 99
+         Candidate 15 Final Score: 141 Seed: 999
+         Candidate 15 Final Score: 113 Seed: 9999
+         Candidate 15 Final Score: 476 Seed: 9997
+    AVERAGE = 236.66666666666666
+    HISCORE = 476
+
+    Candidate 16 Weights:[1.5, 3.1, 6.1, 8.8, -1.4, -6.3]
+         Candidate 16 Final Score: 108 Seed: 8
+         Candidate 16 Final Score: 122 Seed: 9
+         Candidate 16 Final Score: 78 Seed: 99
+         Candidate 16 Final Score: 609 Seed: 999
+         Candidate 16 Final Score: 128 Seed: 9999
+         Candidate 16 Final Score: 248 Seed: 9997
+    AVERAGE = 215.5
+    HISCORE = 609
+
+    Candidate 17 Weights:[5.9, -4.4, 6.6, -8.0, 3.3, -3.0]
+         Candidate 17 Final Score: 570 Seed: 8
+         Candidate 17 Final Score: 485 Seed: 9
+         Candidate 17 Final Score: 309 Seed: 99
+         Candidate 17 Final Score: 549 Seed: 999
+         Candidate 17 Final Score: 222 Seed: 9999
+         Candidate 17 Final Score: 222 Seed: 9997
+    AVERAGE = 392.8333333333333
+    HISCORE = 570
+
+    Candidate 18 Weights:[5.8, 7.8, 8.5, 7.2, -3.6, 4.3]
+         Candidate 18 Final Score: 83 Seed: 8
+         Candidate 18 Final Score: 59 Seed: 9
+         Candidate 18 Final Score: 88 Seed: 99
+         Candidate 18 Final Score: 104 Seed: 999
+         Candidate 18 Final Score: 74 Seed: 9999
+         Candidate 18 Final Score: 102 Seed: 9997
+    AVERAGE = 85.0
+    HISCORE = 104
+
+    Candidate 19 Weights:[1.9, -3.4, -4.3, -1.1, 9.6, 0.3]
+         Candidate 19 Final Score: 73 Seed: 8
+         Candidate 19 Final Score: 26 Seed: 9
+         Candidate 19 Final Score: 74 Seed: 99
+         Candidate 19 Final Score: 36 Seed: 999
+         Candidate 19 Final Score: 74 Seed: 9999
+         Candidate 19 Final Score: 58 Seed: 9997
+    AVERAGE = 56.833333333333336
+    HISCORE = 74
+
+    Candidate 20 Weights:[0.3, -1.6, -4.3, 1.0, -2.1, -4.5]
+         Candidate 20 Final Score: 525 Seed: 8
+         Candidate 20 Final Score: 238 Seed: 9
+         Candidate 20 Final Score: 79 Seed: 99
+         Candidate 20 Final Score: 94 Seed: 999
+         Candidate 20 Final Score: 255 Seed: 9999
+         Candidate 20 Final Score: 476 Seed: 9997
+    AVERAGE = 277.8333333333333
+    HISCORE = 525
+
+Top performer of Generation 0
+NAME: Candidate 3
+WEIGHTS: [9.4, -1.3, 0.7, 4.5, -9.4, -7.7]
+HISCORE: 1348
+AVERAGE: 562.8333333333334
+
+Starting Generation 1
+    Candidate 1 Weights:[9.4, -1.3, 0.7, 4.5, -9.4, -7.7]
+    AVERAGE = 562.8333333333334
+    HISCORE = 1348
+
+    Candidate 2 Weights:[-1.4, -9.2, -2.1, 2.9, 6.7, -3.1]
+    AVERAGE = 435.1666666666667
+    HISCORE = 1253
+
+    Candidate 3 Weights:[9.8, 9.8, 3.0, -5.5, 6.3, -6.9]
+    AVERAGE = 396.8333333333333
+    HISCORE = 1059
+
+    Candidate 4 Weights:[0.6, -10.1, 2.2, 6.1, 6.7, -9.5]
+         Candidate 4 Final Score: 595 Seed: 8
+         Candidate 4 Final Score: 644 Seed: 9
+         Candidate 4 Final Score: 572 Seed: 99
+         Candidate 4 Final Score: 855 Seed: 999
+         Candidate 4 Final Score: 215 Seed: 9999
+         Candidate 4 Final Score: 230 Seed: 9997
+    AVERAGE = 518.5
+    HISCORE = 855
+
+    Candidate 5 Weights:[8.6, -8.3, 3.0, 2.4, 7.0, -3.4]
+         Candidate 5 Final Score: 430 Seed: 8
+         Candidate 5 Final Score: 1688 Seed: 9
+         Candidate 5 Final Score: 552 Seed: 99
+         Candidate 5 Final Score: 700 Seed: 999
+         Candidate 5 Final Score: 1276 Seed: 9999
+         Candidate 5 Final Score: 297 Seed: 9997
+    AVERAGE = 823.8333333333334
+    HISCORE = 1688
+
+    Candidate 6 Weights:[10.7, 0.5, 4.5, 3.8, -7.5, -7.3]
+         Candidate 6 Final Score: 446 Seed: 8
+         Candidate 6 Final Score: 545 Seed: 9
+         Candidate 6 Final Score: 710 Seed: 99
+         Candidate 6 Final Score: 1703 Seed: 999
+         Candidate 6 Final Score: 872 Seed: 9999
+         Candidate 6 Final Score: 248 Seed: 9997
+    AVERAGE = 754.0
+    HISCORE = 1703
+
+    Candidate 7 Weights:[10.5, -2.5, 1.7, 4.5, 5.4, -2.4]
+         Candidate 7 Final Score: 2798 Seed: 8
+         Candidate 7 Final Score: 694 Seed: 9
+         Candidate 7 Final Score: 2727 Seed: 99
+         Candidate 7 Final Score: 795 Seed: 999
+         Candidate 7 Final Score: 368 Seed: 9999
+         Candidate 7 Final Score: 375 Seed: 9997
+    AVERAGE = 1292.8333333333333
+    HISCORE = 2798
+
+    Candidate 8 Weights:[8.9, -1.4, 2.7, 4.2, -7.5, -8.8]
+         Candidate 8 Final Score: 291 Seed: 8
+         Candidate 8 Final Score: 544 Seed: 9
+         Candidate 8 Final Score: 363 Seed: 99
+         Candidate 8 Final Score: 94 Seed: 999
+         Candidate 8 Final Score: 1466 Seed: 9999
+         Candidate 8 Final Score: 420 Seed: 9997
+    AVERAGE = 529.6666666666666
+    HISCORE = 1466
+
+    Candidate 9 Weights:[11.6, -2.5, 1.4, 5.8, 7.3, -3.1]
+         Candidate 9 Final Score: 605 Seed: 8
+         Candidate 9 Final Score: 470 Seed: 9
+         Candidate 9 Final Score: 1906 Seed: 99
+         Candidate 9 Final Score: 2978 Seed: 999
+         Candidate 9 Final Score: 961 Seed: 9999
+         Candidate 9 Final Score: 232 Seed: 9997
+    AVERAGE = 1192.0
+    HISCORE = 2978
+
+    Candidate 10 Weights:[-2.2, -0.1, -8.6, 9.4, 4.8, -5.8]
+         Candidate 10 Final Score: 303 Seed: 8
+         Candidate 10 Final Score: 504 Seed: 9
+         Candidate 10 Final Score: 93 Seed: 99
+         Candidate 10 Final Score: 324 Seed: 999
+         Candidate 10 Final Score: 381 Seed: 9999
+         Candidate 10 Final Score: 111 Seed: 9997
+    AVERAGE = 286.0
+    HISCORE = 504
+
+    Candidate 11 Weights:[-4.5, -8.2, -2.5, -6.9, 6.0, 4.3]
+         Candidate 11 Final Score: 76 Seed: 8
+         Candidate 11 Final Score: 26 Seed: 9
+         Candidate 11 Final Score: 84 Seed: 99
+         Candidate 11 Final Score: 36 Seed: 999
+         Candidate 11 Final Score: 52 Seed: 9999
+         Candidate 11 Final Score: 80 Seed: 9997
+    AVERAGE = 59.0
+    HISCORE = 84
+
+    Candidate 12 Weights:[-9.4, -7.0, 8.3, 0.4, -6.5, -0.7]
+         Candidate 12 Final Score: 965 Seed: 8
+         Candidate 12 Final Score: 218 Seed: 9
+         Candidate 12 Final Score: 1011 Seed: 99
+         Candidate 12 Final Score: 618 Seed: 999
+         Candidate 12 Final Score: 356 Seed: 9999
+         Candidate 12 Final Score: 711 Seed: 9997
+    AVERAGE = 646.5
+    HISCORE = 1011
+
+    Candidate 13 Weights:[4.6, -7.4, 2.0, 8.3, -7.7, 4.0]
+         Candidate 13 Final Score: 56 Seed: 8
+         Candidate 13 Final Score: 26 Seed: 9
+         Candidate 13 Final Score: 84 Seed: 99
+         Candidate 13 Final Score: 36 Seed: 999
+         Candidate 13 Final Score: 64 Seed: 9999
+         Candidate 13 Final Score: 80 Seed: 9997
+    AVERAGE = 57.666666666666664
+    HISCORE = 84
+
+    Candidate 14 Weights:[-8.9, -9.7, 3.1, 6.8, -3.6, -6.8]
+         Candidate 14 Final Score: 98 Seed: 8
+         Candidate 14 Final Score: 142 Seed: 9
+         Candidate 14 Final Score: 404 Seed: 99
+         Candidate 14 Final Score: 550 Seed: 999
+         Candidate 14 Final Score: 235 Seed: 9999
+         Candidate 14 Final Score: 262 Seed: 9997
+    AVERAGE = 281.8333333333333
+    HISCORE = 550
+
+    Candidate 15 Weights:[5.3, -10.0, 0.9, 6.3, 2.9, -1.3]
+         Candidate 15 Final Score: 212 Seed: 8
+         Candidate 15 Final Score: 315 Seed: 9
+         Candidate 15 Final Score: 745 Seed: 99
+         Candidate 15 Final Score: 578 Seed: 999
+         Candidate 15 Final Score: 225 Seed: 9999
+         Candidate 15 Final Score: 121 Seed: 9997
+    AVERAGE = 366.0
+    HISCORE = 745
+
+    Candidate 16 Weights:[2.9, -8.6, 0.0, -0.1, 4.6, -0.9]
+         Candidate 16 Final Score: 282 Seed: 8
+         Candidate 16 Final Score: 228 Seed: 9
+         Candidate 16 Final Score: 103 Seed: 99
+         Candidate 16 Final Score: 125 Seed: 999
+         Candidate 16 Final Score: 193 Seed: 9999
+         Candidate 16 Final Score: 267 Seed: 9997
+    AVERAGE = 199.66666666666666
+    HISCORE = 282
+
+    Candidate 17 Weights:[-7.8, -7.4, -2.1, 0.6, 4.5, 5.1]
+         Candidate 17 Final Score: 56 Seed: 8
+         Candidate 17 Final Score: 26 Seed: 9
+         Candidate 17 Final Score: 98 Seed: 99
+         Candidate 17 Final Score: 36 Seed: 999
+         Candidate 17 Final Score: 64 Seed: 9999
+         Candidate 17 Final Score: 80 Seed: 9997
+    AVERAGE = 60.0
+    HISCORE = 98
+
+    Candidate 18 Weights:[-3.5, 1.7, -8.1, -0.3, -5.9, 10.0]
+         Candidate 18 Final Score: 66 Seed: 8
+         Candidate 18 Final Score: 44 Seed: 9
+         Candidate 18 Final Score: 88 Seed: 99
+         Candidate 18 Final Score: 36 Seed: 999
+         Candidate 18 Final Score: 64 Seed: 9999
+         Candidate 18 Final Score: 70 Seed: 9997
+    AVERAGE = 61.333333333333336
+    HISCORE = 88
+
+    Candidate 19 Weights:[3.8, -10.0, -1.7, -8.5, -2.9, -8.6]
+         Candidate 19 Final Score: 169 Seed: 8
+         Candidate 19 Final Score: 228 Seed: 9
+         Candidate 19 Final Score: 716 Seed: 99
+         Candidate 19 Final Score: 263 Seed: 999
+         Candidate 19 Final Score: 151 Seed: 9999
+         Candidate 19 Final Score: 175 Seed: 9997
+    AVERAGE = 283.6666666666667
+    HISCORE = 716
+
+    Candidate 20 Weights:[-1.8, 1.3, -7.5, -7.5, -5.0, -7.7]
+         Candidate 20 Final Score: 299 Seed: 8
+         Candidate 20 Final Score: 132 Seed: 9
+         Candidate 20 Final Score: 382 Seed: 99
+         Candidate 20 Final Score: 192 Seed: 999
+         Candidate 20 Final Score: 232 Seed: 9999
+         Candidate 20 Final Score: 188 Seed: 9997
+    AVERAGE = 237.5
+    HISCORE = 382
+
+Top performer of Generation 1
+NAME: Candidate 9
+WEIGHTS: [11.6, -2.5, 1.4, 5.8, 7.3, -3.1]
+HISCORE: 2978
+AVERAGE: 1192.0
+
+Starting Generation 2
+    Candidate 1 Weights:[11.6, -2.5, 1.4, 5.8, 7.3, -3.1]
+    AVERAGE = 1192.0
+    HISCORE = 2978
+
+    Candidate 2 Weights:[10.5, -2.5, 1.7, 4.5, 5.4, -2.4]
+    AVERAGE = 1292.8333333333333
+    HISCORE = 2798
+
+    Candidate 3 Weights:[8.6, -8.3, 3.0, 2.4, 7.0, -3.4]
+    AVERAGE = 823.8333333333334
+    HISCORE = 1688
+
+    Candidate 4 Weights:[11.0, -1.4, 2.1, 4.9, 5.4, -3.9]
+         Candidate 4 Final Score: 397 Seed: 8
+         Candidate 4 Final Score: 1662 Seed: 9
+         Candidate 4 Final Score: 694 Seed: 99
+         Candidate 4 Final Score: 490 Seed: 999
+         Candidate 4 Final Score: 308 Seed: 9999
+         Candidate 4 Final Score: 155 Seed: 9997
+    AVERAGE = 617.6666666666666
+    HISCORE = 1662
+
+    Candidate 5 Weights:[12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+         Candidate 5 Final Score: 982 Seed: 8
+         Candidate 5 Final Score: 649 Seed: 9
+         Candidate 5 Final Score: 2025 Seed: 99
+         Candidate 5 Final Score: 8872 Seed: 999
+         Candidate 5 Final Score: 278 Seed: 9999
+         Candidate 5 Final Score: 419 Seed: 9997
+    AVERAGE = 2204.1666666666665
+    HISCORE = 8872
+
+    Candidate 6 Weights:[11.9, -9.6, 0.0, 4.7, 5.9, -3.2]
+         Candidate 6 Final Score: 202 Seed: 8
+         Candidate 6 Final Score: 860 Seed: 9
+         Candidate 6 Final Score: 756 Seed: 99
+         Candidate 6 Final Score: 611 Seed: 999
+         Candidate 6 Final Score: 401 Seed: 9999
+         Candidate 6 Final Score: 352 Seed: 9997
+    AVERAGE = 530.3333333333334
+    HISCORE = 860
+
+    Candidate 7 Weights:[6.9, -3.0, 1.2, 5.9, 8.5, -1.7]
+         Candidate 7 Final Score: 1201 Seed: 8
+         Candidate 7 Final Score: 910 Seed: 9
+         Candidate 7 Final Score: 1915 Seed: 99
+         Candidate 7 Final Score: 618 Seed: 999
+         Candidate 7 Final Score: 1194 Seed: 9999
+         Candidate 7 Final Score: 4129 Seed: 9997
+    AVERAGE = 1661.1666666666667
+    HISCORE = 4129
+
+    Candidate 8 Weights:[9.6, -2.3, 1.0, 5.7, 6.5, -2.5]
+         Candidate 8 Final Score: 445 Seed: 8
+         Candidate 8 Final Score: 638 Seed: 9
+         Candidate 8 Final Score: 796 Seed: 99
+         Candidate 8 Final Score: 828 Seed: 999
+         Candidate 8 Final Score: 258 Seed: 9999
+         Candidate 8 Final Score: 899 Seed: 9997
+    AVERAGE = 644.0
+    HISCORE = 899
+
+    Candidate 9 Weights:[7.5, -3.6, 0.9, 5.4, 9.6, -0.2]
+         Candidate 9 Final Score: 183 Seed: 8
+         Candidate 9 Final Score: 327 Seed: 9
+         Candidate 9 Final Score: 131 Seed: 99
+         Candidate 9 Final Score: 395 Seed: 999
+         Candidate 9 Final Score: 338 Seed: 9999
+         Candidate 9 Final Score: 126 Seed: 9997
+    AVERAGE = 250.0
+    HISCORE = 395
+
+    Candidate 10 Weights:[-2.1, -4.9, 5.6, -9.9, -4.1, 2.4]
+         Candidate 10 Final Score: 56 Seed: 8
+         Candidate 10 Final Score: 88 Seed: 9
+         Candidate 10 Final Score: 84 Seed: 99
+         Candidate 10 Final Score: 36 Seed: 999
+         Candidate 10 Final Score: 91 Seed: 9999
+         Candidate 10 Final Score: 102 Seed: 9997
+    AVERAGE = 76.16666666666667
+    HISCORE = 102
+
+    Candidate 11 Weights:[-3.4, 1.9, 1.4, -3.8, 5.9, 8.7]
+         Candidate 11 Final Score: 66 Seed: 8
+         Candidate 11 Final Score: 59 Seed: 9
+         Candidate 11 Final Score: 52 Seed: 99
+         Candidate 11 Final Score: 36 Seed: 999
+         Candidate 11 Final Score: 64 Seed: 9999
+         Candidate 11 Final Score: 66 Seed: 9997
+    AVERAGE = 57.166666666666664
+    HISCORE = 66
+
+    Candidate 12 Weights:[5.6, -0.6, -7.0, 2.9, -5.1, 2.2]
+         Candidate 12 Final Score: 66 Seed: 8
+         Candidate 12 Final Score: 26 Seed: 9
+         Candidate 12 Final Score: 71 Seed: 99
+         Candidate 12 Final Score: 36 Seed: 999
+         Candidate 12 Final Score: 91 Seed: 9999
+         Candidate 12 Final Score: 80 Seed: 9997
+    AVERAGE = 61.666666666666664
+    HISCORE = 91
+
+    Candidate 13 Weights:[-6.6, -2.1, 8.1, -0.4, 8.4, -2.1]
+         Candidate 13 Final Score: 530 Seed: 8
+         Candidate 13 Final Score: 242 Seed: 9
+         Candidate 13 Final Score: 349 Seed: 99
+         Candidate 13 Final Score: 506 Seed: 999
+         Candidate 13 Final Score: 421 Seed: 9999
+         Candidate 13 Final Score: 257 Seed: 9997
+    AVERAGE = 384.1666666666667
+    HISCORE = 530
+
+    Candidate 14 Weights:[-0.8, 5.8, 6.7, 7.6, 6.7, -2.5]
+         Candidate 14 Final Score: 118 Seed: 8
+         Candidate 14 Final Score: 600 Seed: 9
+         Candidate 14 Final Score: 78 Seed: 99
+         Candidate 14 Final Score: 94 Seed: 999
+         Candidate 14 Final Score: 95 Seed: 9999
+         Candidate 14 Final Score: 70 Seed: 9997
+    AVERAGE = 175.83333333333334
+    HISCORE = 600
+
+    Candidate 15 Weights:[5.1, 1.2, 5.2, 9.6, 4.7, -1.6]
+         Candidate 15 Final Score: 247 Seed: 8
+         Candidate 15 Final Score: 615 Seed: 9
+         Candidate 15 Final Score: 706 Seed: 99
+         Candidate 15 Final Score: 712 Seed: 999
+         Candidate 15 Final Score: 288 Seed: 9999
+         Candidate 15 Final Score: 272 Seed: 9997
+    AVERAGE = 473.3333333333333
+    HISCORE = 712
+
+    Candidate 16 Weights:[8.5, 0.3, -7.4, -6.2, 8.2, -5.6]
+         Candidate 16 Final Score: 261 Seed: 8
+         Candidate 16 Final Score: 505 Seed: 9
+         Candidate 16 Final Score: 164 Seed: 99
+         Candidate 16 Final Score: 244 Seed: 999
+         Candidate 16 Final Score: 348 Seed: 9999
+         Candidate 16 Final Score: 160 Seed: 9997
+    AVERAGE = 280.3333333333333
+    HISCORE = 505
+
+    Candidate 17 Weights:[-4.3, -6.1, 1.3, 7.3, 3.5, 0.6]
+         Candidate 17 Final Score: 83 Seed: 8
+         Candidate 17 Final Score: 26 Seed: 9
+         Candidate 17 Final Score: 52 Seed: 99
+         Candidate 17 Final Score: 135 Seed: 999
+         Candidate 17 Final Score: 105 Seed: 9999
+         Candidate 17 Final Score: 71 Seed: 9997
+    AVERAGE = 78.66666666666667
+    HISCORE = 135
+
+    Candidate 18 Weights:[2.4, -4.6, 4.5, 9.5, 2.0, -5.9]
+         Candidate 18 Final Score: 387 Seed: 8
+         Candidate 18 Final Score: 416 Seed: 9
+         Candidate 18 Final Score: 392 Seed: 99
+         Candidate 18 Final Score: 436 Seed: 999
+         Candidate 18 Final Score: 378 Seed: 9999
+         Candidate 18 Final Score: 264 Seed: 9997
+    AVERAGE = 378.8333333333333
+    HISCORE = 436
+
+    Candidate 19 Weights:[-1.5, 8.1, 5.1, -5.6, -1.5, 9.8]
+         Candidate 19 Final Score: 56 Seed: 8
+         Candidate 19 Final Score: 44 Seed: 9
+         Candidate 19 Final Score: 42 Seed: 99
+         Candidate 19 Final Score: 36 Seed: 999
+         Candidate 19 Final Score: 74 Seed: 9999
+         Candidate 19 Final Score: 66 Seed: 9997
+    AVERAGE = 53.0
+    HISCORE = 74
+
+    Candidate 20 Weights:[8.0, 2.9, 9.3, 8.3, -9.7, -8.3]
+         Candidate 20 Final Score: 108 Seed: 8
+         Candidate 20 Final Score: 397 Seed: 9
+         Candidate 20 Final Score: 229 Seed: 99
+         Candidate 20 Final Score: 1063 Seed: 999
+         Candidate 20 Final Score: 202 Seed: 9999
+         Candidate 20 Final Score: 840 Seed: 9997
+    AVERAGE = 473.1666666666667
+    HISCORE = 1063
+
+Top performer of Generation 2
+NAME: Candidate 5
+WEIGHTS: [12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+HISCORE: 8872
+AVERAGE: 2204.1666666666665
+
+Starting Generation 3
+    Candidate 1 Weights:[12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+    AVERAGE = 2204.1666666666665
+    HISCORE = 8872
+
+    Candidate 2 Weights:[6.9, -3.0, 1.2, 5.9, 8.5, -1.7]
+    AVERAGE = 1661.1666666666667
+    HISCORE = 4129
+
+    Candidate 3 Weights:[11.6, -2.5, 1.4, 5.8, 7.3, -3.1]
+    AVERAGE = 1192.0
+    HISCORE = 2978
+
+    Candidate 4 Weights:[6.9, -2.0, 3.7, 4.4, 6.1, -3.1]
+         Candidate 4 Final Score: 435 Seed: 8
+         Candidate 4 Final Score: 618 Seed: 9
+         Candidate 4 Final Score: 2115 Seed: 99
+         Candidate 4 Final Score: 804 Seed: 999
+         Candidate 4 Final Score: 595 Seed: 9999
+         Candidate 4 Final Score: 178 Seed: 9997
+    AVERAGE = 790.8333333333334
+    HISCORE = 2115
+
+    Candidate 5 Weights:[5.0, -4.4, 1.1, 5.3, 6.7, -4.8]
+         Candidate 5 Final Score: 627 Seed: 8
+         Candidate 5 Final Score: 1148 Seed: 9
+         Candidate 5 Final Score: 502 Seed: 99
+         Candidate 5 Final Score: 1187 Seed: 999
+         Candidate 5 Final Score: 141 Seed: 9999
+         Candidate 5 Final Score: 188 Seed: 9997
+    AVERAGE = 632.1666666666666
+    HISCORE = 1187
+
+    Candidate 6 Weights:[13.5, -4.2, 2.8, 7.7, 4.3, -3.6]
+         Candidate 6 Final Score: 377 Seed: 8
+         Candidate 6 Final Score: 1683 Seed: 9
+         Candidate 6 Final Score: 1692 Seed: 99
+         Candidate 6 Final Score: 631 Seed: 999
+         Candidate 6 Final Score: 3540 Seed: 9999
+         Candidate 6 Final Score: 375 Seed: 9997
+    AVERAGE = 1383.0
+    HISCORE = 3540
+
+    Candidate 7 Weights:[8.5, -2.0, 2.9, 6.3, 9.1, -4.2]
+         Candidate 7 Final Score: 313 Seed: 8
+         Candidate 7 Final Score: 1722 Seed: 9
+         Candidate 7 Final Score: 1983 Seed: 99
+         Candidate 7 Final Score: 442 Seed: 999
+         Candidate 7 Final Score: 447 Seed: 9999
+         Candidate 7 Final Score: 222 Seed: 9997
+    AVERAGE = 854.8333333333334
+    HISCORE = 1983
+
+    Candidate 8 Weights:[11.1, -3.9, 1.4, 4.5, 5.5, -1.5]
+         Candidate 8 Final Score: 1065 Seed: 8
+         Candidate 8 Final Score: 810 Seed: 9
+         Candidate 8 Final Score: 1865 Seed: 99
+         Candidate 8 Final Score: 1939 Seed: 999
+         Candidate 8 Final Score: 4747 Seed: 9999
+         Candidate 8 Final Score: 2037 Seed: 9997
+    AVERAGE = 2077.1666666666665
+    HISCORE = 4747
+
+    Candidate 9 Weights:[8.7, -3.0, 1.3, 6.5, 8.7, -4.6]
+         Candidate 9 Final Score: 871 Seed: 8
+         Candidate 9 Final Score: 648 Seed: 9
+         Candidate 9 Final Score: 1168 Seed: 99
+         Candidate 9 Final Score: 795 Seed: 999
+         Candidate 9 Final Score: 258 Seed: 9999
+         Candidate 9 Final Score: 155 Seed: 9997
+    AVERAGE = 649.1666666666666
+    HISCORE = 1168
+
+    Candidate 10 Weights:[5.0, 6.4, 7.7, 1.9, 2.5, -9.6]
+         Candidate 10 Final Score: 149 Seed: 8
+         Candidate 10 Final Score: 208 Seed: 9
+         Candidate 10 Final Score: 78 Seed: 99
+         Candidate 10 Final Score: 579 Seed: 999
+         Candidate 10 Final Score: 128 Seed: 9999
+         Candidate 10 Final Score: 566 Seed: 9997
+    AVERAGE = 284.6666666666667
+    HISCORE = 579
+
+    Candidate 11 Weights:[-8.3, 3.3, -5.0, -2.9, 6.7, 6.6]
+         Candidate 11 Final Score: 66 Seed: 8
+         Candidate 11 Final Score: 44 Seed: 9
+         Candidate 11 Final Score: 88 Seed: 99
+         Candidate 11 Final Score: 36 Seed: 999
+         Candidate 11 Final Score: 64 Seed: 9999
+         Candidate 11 Final Score: 70 Seed: 9997
+    AVERAGE = 61.333333333333336
+    HISCORE = 88
+
+    Candidate 12 Weights:[-9.7, -8.8, 5.0, 1.7, -5.3, -6.9]
+         Candidate 12 Final Score: 119 Seed: 8
+         Candidate 12 Final Score: 674 Seed: 9
+         Candidate 12 Final Score: 546 Seed: 99
+         Candidate 12 Final Score: 1211 Seed: 999
+         Candidate 12 Final Score: 95 Seed: 9999
+         Candidate 12 Final Score: 352 Seed: 9997
+    AVERAGE = 499.5
+    HISCORE = 1211
+
+    Candidate 13 Weights:[-0.1, -4.3, -6.8, -1.7, 9.1, -2.6]
+         Candidate 13 Final Score: 192 Seed: 8
+         Candidate 13 Final Score: 107 Seed: 9
+         Candidate 13 Final Score: 137 Seed: 99
+         Candidate 13 Final Score: 182 Seed: 999
+         Candidate 13 Final Score: 298 Seed: 9999
+         Candidate 13 Final Score: 165 Seed: 9997
+    AVERAGE = 180.16666666666666
+    HISCORE = 298
+
+    Candidate 14 Weights:[-3.7, -6.0, -3.6, -8.6, 7.3, -4.0]
+         Candidate 14 Final Score: 480 Seed: 8
+         Candidate 14 Final Score: 265 Seed: 9
+         Candidate 14 Final Score: 97 Seed: 99
+         Candidate 14 Final Score: 490 Seed: 999
+         Candidate 14 Final Score: 113 Seed: 9999
+         Candidate 14 Final Score: 173 Seed: 9997
+    AVERAGE = 269.6666666666667
+    HISCORE = 490
+
+    Candidate 15 Weights:[-6.4, 8.0, 2.3, -2.0, -6.6, -0.8]
+         Candidate 15 Final Score: 98 Seed: 8
+         Candidate 15 Final Score: 78 Seed: 9
+         Candidate 15 Final Score: 93 Seed: 99
+         Candidate 15 Final Score: 135 Seed: 999
+         Candidate 15 Final Score: 64 Seed: 9999
+         Candidate 15 Final Score: 270 Seed: 9997
+    AVERAGE = 123.0
+    HISCORE = 270
+
+    Candidate 16 Weights:[-9.2, -1.5, -1.5, 0.1, -9.8, -7.9]
+         Candidate 16 Final Score: 159 Seed: 8
+         Candidate 16 Final Score: 233 Seed: 9
+         Candidate 16 Final Score: 93 Seed: 99
+         Candidate 16 Final Score: 215 Seed: 999
+         Candidate 16 Final Score: 386 Seed: 9999
+         Candidate 16 Final Score: 208 Seed: 9997
+    AVERAGE = 215.66666666666666
+    HISCORE = 386
+
+    Candidate 17 Weights:[-0.1, -8.8, 1.1, -9.5, 9.2, 4.2]
+         Candidate 17 Final Score: 113 Seed: 8
+         Candidate 17 Final Score: 26 Seed: 9
+         Candidate 17 Final Score: 71 Seed: 99
+         Candidate 17 Final Score: 36 Seed: 999
+         Candidate 17 Final Score: 64 Seed: 9999
+         Candidate 17 Final Score: 80 Seed: 9997
+    AVERAGE = 65.0
+    HISCORE = 113
+
+    Candidate 18 Weights:[4.0, 7.0, 6.8, -6.5, -2.5, 1.2]
+         Candidate 18 Final Score: 202 Seed: 8
+         Candidate 18 Final Score: 414 Seed: 9
+         Candidate 18 Final Score: 538 Seed: 99
+         Candidate 18 Final Score: 558 Seed: 999
+         Candidate 18 Final Score: 183 Seed: 9999
+         Candidate 18 Final Score: 277 Seed: 9997
+    AVERAGE = 362.0
+    HISCORE = 558
+
+    Candidate 19 Weights:[-4.0, -4.1, 4.5, 6.7, 5.0, -9.0]
+         Candidate 19 Final Score: 269 Seed: 8
+         Candidate 19 Final Score: 659 Seed: 9
+         Candidate 19 Final Score: 542 Seed: 99
+         Candidate 19 Final Score: 151 Seed: 999
+         Candidate 19 Final Score: 495 Seed: 9999
+         Candidate 19 Final Score: 425 Seed: 9997
+    AVERAGE = 423.5
+    HISCORE = 659
+
+    Candidate 20 Weights:[-5.3, -2.7, 6.7, -5.4, -2.4, -9.9]
+         Candidate 20 Final Score: 93 Seed: 8
+         Candidate 20 Final Score: 358 Seed: 9
+         Candidate 20 Final Score: 249 Seed: 99
+         Candidate 20 Final Score: 619 Seed: 999
+         Candidate 20 Final Score: 95 Seed: 9999
+         Candidate 20 Final Score: 165 Seed: 9997
+    AVERAGE = 263.1666666666667
+    HISCORE = 619
+
+Top performer of Generation 3
+NAME: Candidate 1
+WEIGHTS: [12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+HISCORE: 8872
+AVERAGE: 2204.1666666666665
+
+Starting Generation 4
+    Candidate 1 Weights:[12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+    AVERAGE = 2204.1666666666665
+    HISCORE = 8872
+
+    Candidate 2 Weights:[11.1, -3.9, 1.4, 4.5, 5.5, -1.5]
+    AVERAGE = 2077.1666666666665
+    HISCORE = 4747
+
+    Candidate 3 Weights:[6.9, -3.0, 1.2, 5.9, 8.5, -1.7]
+    AVERAGE = 1661.1666666666667
+    HISCORE = 4129
+
+    Candidate 4 Weights:[11.2, -2.4, 3.2, 3.8, 6.4, -4.0]
+         Candidate 4 Final Score: 604 Seed: 8
+         Candidate 4 Final Score: 654 Seed: 9
+         Candidate 4 Final Score: 760 Seed: 99
+         Candidate 4 Final Score: 621 Seed: 999
+         Candidate 4 Final Score: 779 Seed: 9999
+         Candidate 4 Final Score: 222 Seed: 9997
+    AVERAGE = 606.6666666666666
+    HISCORE = 779
+
+    Candidate 5 Weights:[13.0, -3.8, 2.5, 3.5, 5.0, -3.0]
+         Candidate 5 Final Score: 957 Seed: 8
+         Candidate 5 Final Score: 779 Seed: 9
+         Candidate 5 Final Score: 3525 Seed: 99
+         Candidate 5 Final Score: 795 Seed: 999
+         Candidate 5 Final Score: 1234 Seed: 9999
+         Candidate 5 Final Score: 2174 Seed: 9997
+    AVERAGE = 1577.3333333333333
+    HISCORE = 3525
+
+    Candidate 6 Weights:[10.9, -4.2, 0.9, 5.9, 4.8, -1.6]
+         Candidate 6 Final Score: 615 Seed: 8
+         Candidate 6 Final Score: 1619 Seed: 9
+         Candidate 6 Final Score: 1861 Seed: 99
+         Candidate 6 Final Score: 588 Seed: 999
+         Candidate 6 Final Score: 4058 Seed: 9999
+         Candidate 6 Final Score: 254 Seed: 9997
+    AVERAGE = 1499.1666666666667
+    HISCORE = 4058
+
+    Candidate 7 Weights:[6.9, -3.8, 2.7, 6.1, 6.9, 0.0]
+         Candidate 7 Final Score: 420 Seed: 8
+         Candidate 7 Final Score: 370 Seed: 9
+         Candidate 7 Final Score: 343 Seed: 99
+         Candidate 7 Final Score: 410 Seed: 999
+         Candidate 7 Final Score: 288 Seed: 9999
+         Candidate 7 Final Score: 277 Seed: 9997
+    AVERAGE = 351.3333333333333
+    HISCORE = 420
+
+    Candidate 8 Weights:[11.9, -2.2, 0.8, 3.4, 7.2, -3.3]
+         Candidate 8 Final Score: 619 Seed: 8
+         Candidate 8 Final Score: 1704 Seed: 9
+         Candidate 8 Final Score: 521 Seed: 99
+         Candidate 8 Final Score: 1319 Seed: 999
+         Candidate 8 Final Score: 258 Seed: 9999
+         Candidate 8 Final Score: 967 Seed: 9997
+    AVERAGE = 898.0
+    HISCORE = 1704
+
+    Candidate 9 Weights:[4.9, -4.5, 3.4, 4.5, 7.2, 1.0]
+         Candidate 9 Final Score: 66 Seed: 8
+         Candidate 9 Final Score: 130 Seed: 9
+         Candidate 9 Final Score: 84 Seed: 99
+         Candidate 9 Final Score: 85 Seed: 999
+         Candidate 9 Final Score: 91 Seed: 9999
+         Candidate 9 Final Score: 102 Seed: 9997
+    AVERAGE = 93.0
+    HISCORE = 130
+
+    Candidate 10 Weights:[-5.4, 8.3, 2.8, -0.5, 5.8, 6.0]
+         Candidate 10 Final Score: 45 Seed: 8
+         Candidate 10 Final Score: 44 Seed: 9
+         Candidate 10 Final Score: 52 Seed: 99
+         Candidate 10 Final Score: 57 Seed: 999
+         Candidate 10 Final Score: 64 Seed: 9999
+         Candidate 10 Final Score: 102 Seed: 9997
+    AVERAGE = 60.666666666666664
+    HISCORE = 102
+
+    Candidate 11 Weights:[-5.3, -3.3, 2.4, -9.4, 0.4, 5.4]
+         Candidate 11 Final Score: 76 Seed: 8
+         Candidate 11 Final Score: 44 Seed: 9
+         Candidate 11 Final Score: 84 Seed: 99
+         Candidate 11 Final Score: 36 Seed: 999
+         Candidate 11 Final Score: 64 Seed: 9999
+         Candidate 11 Final Score: 71 Seed: 9997
+    AVERAGE = 62.5
+    HISCORE = 84
+
+    Candidate 12 Weights:[6.5, -6.3, 10.0, 8.6, 9.9, 1.2]
+         Candidate 12 Final Score: 202 Seed: 8
+         Candidate 12 Final Score: 218 Seed: 9
+         Candidate 12 Final Score: 199 Seed: 99
+         Candidate 12 Final Score: 344 Seed: 999
+         Candidate 12 Final Score: 151 Seed: 9999
+         Candidate 12 Final Score: 188 Seed: 9997
+    AVERAGE = 217.0
+    HISCORE = 344
+
+    Candidate 13 Weights:[-9.5, -3.0, 1.4, 0.1, -6.7, 3.1]
+         Candidate 13 Final Score: 76 Seed: 8
+         Candidate 13 Final Score: 26 Seed: 9
+         Candidate 13 Final Score: 71 Seed: 99
+         Candidate 13 Final Score: 36 Seed: 999
+         Candidate 13 Final Score: 64 Seed: 9999
+         Candidate 13 Final Score: 71 Seed: 9997
+    AVERAGE = 57.333333333333336
+    HISCORE = 76
+
+    Candidate 14 Weights:[-3.1, 7.9, -1.7, 3.6, 6.7, -6.0]
+         Candidate 14 Final Score: 267 Seed: 8
+         Candidate 14 Final Score: 59 Seed: 9
+         Candidate 14 Final Score: 93 Seed: 99
+         Candidate 14 Final Score: 708 Seed: 999
+         Candidate 14 Final Score: 202 Seed: 9999
+         Candidate 14 Final Score: 70 Seed: 9997
+    AVERAGE = 233.16666666666666
+    HISCORE = 708
+
+    Candidate 15 Weights:[5.9, 7.4, -3.6, 5.3, -7.8, 5.7]
+         Candidate 15 Final Score: 66 Seed: 8
+         Candidate 15 Final Score: 59 Seed: 9
+         Candidate 15 Final Score: 88 Seed: 99
+         Candidate 15 Final Score: 36 Seed: 999
+         Candidate 15 Final Score: 64 Seed: 9999
+         Candidate 15 Final Score: 66 Seed: 9997
+    AVERAGE = 63.166666666666664
+    HISCORE = 88
+
+    Candidate 16 Weights:[-1.3, 7.2, -6.9, -8.3, -1.0, -6.9]
+         Candidate 16 Final Score: 138 Seed: 8
+         Candidate 16 Final Score: 122 Seed: 9
+         Candidate 16 Final Score: 512 Seed: 99
+         Candidate 16 Final Score: 364 Seed: 999
+         Candidate 16 Final Score: 255 Seed: 9999
+         Candidate 16 Final Score: 317 Seed: 9997
+    AVERAGE = 284.6666666666667
+    HISCORE = 512
+
+    Candidate 17 Weights:[10.0, -3.7, 9.8, -6.0, -2.1, -9.6]
+         Candidate 17 Final Score: 224 Seed: 8
+         Candidate 17 Final Score: 203 Seed: 9
+         Candidate 17 Final Score: 384 Seed: 99
+         Candidate 17 Final Score: 813 Seed: 999
+         Candidate 17 Final Score: 225 Seed: 9999
+         Candidate 17 Final Score: 264 Seed: 9997
+    AVERAGE = 352.1666666666667
+    HISCORE = 813
+
+    Candidate 18 Weights:[0.3, 6.9, -9.1, 5.0, 7.5, 0.0]
+         Candidate 18 Final Score: 66 Seed: 8
+         Candidate 18 Final Score: 44 Seed: 9
+         Candidate 18 Final Score: 52 Seed: 99
+         Candidate 18 Final Score: 36 Seed: 999
+         Candidate 18 Final Score: 52 Seed: 9999
+         Candidate 18 Final Score: 136 Seed: 9997
+    AVERAGE = 64.33333333333333
+    HISCORE = 136
+
+    Candidate 19 Weights:[8.8, 8.4, -5.9, -1.9, 3.6, 0.5]
+         Candidate 19 Final Score: 45 Seed: 8
+         Candidate 19 Final Score: 88 Seed: 9
+         Candidate 19 Final Score: 89 Seed: 99
+         Candidate 19 Final Score: 57 Seed: 999
+         Candidate 19 Final Score: 52 Seed: 9999
+         Candidate 19 Final Score: 66 Seed: 9997
+    AVERAGE = 66.16666666666667
+    HISCORE = 89
+
+    Candidate 20 Weights:[5.3, 9.5, 3.4, -6.8, 8.7, 10.0]
+         Candidate 20 Final Score: 45 Seed: 8
+         Candidate 20 Final Score: 59 Seed: 9
+         Candidate 20 Final Score: 52 Seed: 99
+         Candidate 20 Final Score: 36 Seed: 999
+         Candidate 20 Final Score: 74 Seed: 9999
+         Candidate 20 Final Score: 66 Seed: 9997
+    AVERAGE = 55.333333333333336
+    HISCORE = 74
+
+Top performer of Generation 4
+NAME: Candidate 1
+WEIGHTS: [12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+HISCORE: 8872
+AVERAGE: 2204.1666666666665
+
+Starting Generation 5
+    Candidate 1 Weights:[12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+    AVERAGE = 2204.1666666666665
+    HISCORE = 8872
+
+    Candidate 2 Weights:[11.1, -3.9, 1.4, 4.5, 5.5, -1.5]
+    AVERAGE = 2077.1666666666665
+    HISCORE = 4747
+
+    Candidate 3 Weights:[6.9, -3.0, 1.2, 5.9, 8.5, -1.7]
+    AVERAGE = 1661.1666666666667
+    HISCORE = 4129
+
+    Candidate 4 Weights:[10.3, -2.6, 1.3, 3.3, 6.6, -2.2]
+         Candidate 4 Final Score: 1257 Seed: 8
+         Candidate 4 Final Score: 811 Seed: 9
+         Candidate 4 Final Score: 821 Seed: 99
+         Candidate 4 Final Score: 1433 Seed: 999
+         Candidate 4 Final Score: 151 Seed: 9999
+         Candidate 4 Final Score: 352 Seed: 9997
+    AVERAGE = 804.1666666666666
+    HISCORE = 1433
+
+    Candidate 5 Weights:[10.0, -2.9, 1.4, 6.9, 10.5, -2.2]
+         Candidate 5 Final Score: 1105 Seed: 8
+         Candidate 5 Final Score: 1657 Seed: 9
+         Candidate 5 Final Score: 821 Seed: 99
+         Candidate 5 Final Score: 1433 Seed: 999
+         Candidate 5 Final Score: 3192 Seed: 9999
+         Candidate 5 Final Score: 415 Seed: 9997
+    AVERAGE = 1437.1666666666667
+    HISCORE = 3192
+
+    Candidate 6 Weights:[12.7, -2.6, 2.0, 6.0, 8.6, -3.7]
+         Candidate 6 Final Score: 605 Seed: 8
+         Candidate 6 Final Score: 928 Seed: 9
+         Candidate 6 Final Score: 280 Seed: 99
+         Candidate 6 Final Score: 621 Seed: 999
+         Candidate 6 Final Score: 1389 Seed: 9999
+         Candidate 6 Final Score: 232 Seed: 9997
+    AVERAGE = 675.8333333333334
+    HISCORE = 1389
+
+    Candidate 7 Weights:[6.0, -4.6, -0.8, 5.2, 5.6, 0.2]
+         Candidate 7 Final Score: 170 Seed: 8
+         Candidate 7 Final Score: 26 Seed: 9
+         Candidate 7 Final Score: 98 Seed: 99
+         Candidate 7 Final Score: 36 Seed: 999
+         Candidate 7 Final Score: 64 Seed: 9999
+         Candidate 7 Final Score: 76 Seed: 9997
+    AVERAGE = 78.33333333333333
+    HISCORE = 170
+
+    Candidate 8 Weights:[10.6, -2.5, 1.7, 4.1, 5.9, -1.3]
+         Candidate 8 Final Score: 3178 Seed: 8
+         Candidate 8 Final Score: 2709 Seed: 9
+         Candidate 8 Final Score: 2757 Seed: 99
+         Candidate 8 Final Score: 2738 Seed: 999
+         Candidate 8 Final Score: 604 Seed: 9999
+         Candidate 8 Final Score: 6757 Seed: 9997
+    AVERAGE = 3123.8333333333335
+    HISCORE = 6757
+
+    Candidate 9 Weights:[4.5, -5.1, 0.2, 3.8, 4.1, 1.0]
+         Candidate 9 Final Score: 87 Seed: 8
+         Candidate 9 Final Score: 26 Seed: 9
+         Candidate 9 Final Score: 84 Seed: 99
+         Candidate 9 Final Score: 36 Seed: 999
+         Candidate 9 Final Score: 84 Seed: 9999
+         Candidate 9 Final Score: 58 Seed: 9997
+    AVERAGE = 62.5
+    HISCORE = 87
+
+    Candidate 10 Weights:[-4.4, -8.6, -2.5, -3.3, 1.9, -0.5]
+         Candidate 10 Final Score: 103 Seed: 8
+         Candidate 10 Final Score: 26 Seed: 9
+         Candidate 10 Final Score: 98 Seed: 99
+         Candidate 10 Final Score: 36 Seed: 999
+         Candidate 10 Final Score: 84 Seed: 9999
+         Candidate 10 Final Score: 66 Seed: 9997
+    AVERAGE = 68.83333333333333
+    HISCORE = 103
+
+    Candidate 11 Weights:[-3.4, 4.3, 1.3, 4.8, 1.5, -5.1]
+         Candidate 11 Final Score: 353 Seed: 8
+         Candidate 11 Final Score: 295 Seed: 9
+         Candidate 11 Final Score: 194 Seed: 99
+         Candidate 11 Final Score: 381 Seed: 999
+         Candidate 11 Final Score: 275 Seed: 9999
+         Candidate 11 Final Score: 295 Seed: 9997
+    AVERAGE = 298.8333333333333
+    HISCORE = 381
+
+    Candidate 12 Weights:[2.2, -8.3, -9.5, 1.3, -6.4, 4.1]
+         Candidate 12 Final Score: 87 Seed: 8
+         Candidate 12 Final Score: 44 Seed: 9
+         Candidate 12 Final Score: 84 Seed: 99
+         Candidate 12 Final Score: 36 Seed: 999
+         Candidate 12 Final Score: 64 Seed: 9999
+         Candidate 12 Final Score: 81 Seed: 9997
+    AVERAGE = 66.0
+    HISCORE = 87
+
+    Candidate 13 Weights:[-4.5, -3.4, -3.6, 7.4, 4.9, -3.6]
+         Candidate 13 Final Score: 207 Seed: 8
+         Candidate 13 Final Score: 465 Seed: 9
+         Candidate 13 Final Score: 339 Seed: 99
+         Candidate 13 Final Score: 180 Seed: 999
+         Candidate 13 Final Score: 151 Seed: 9999
+         Candidate 13 Final Score: 372 Seed: 9997
+    AVERAGE = 285.6666666666667
+    HISCORE = 465
+
+    Candidate 14 Weights:[3.5, -8.4, 3.5, -4.7, -6.3, -8.1]
+         Candidate 14 Final Score: 224 Seed: 8
+         Candidate 14 Final Score: 1467 Seed: 9
+         Candidate 14 Final Score: 871 Seed: 99
+         Candidate 14 Final Score: 682 Seed: 999
+         Candidate 14 Final Score: 141 Seed: 9999
+         Candidate 14 Final Score: 188 Seed: 9997
+    AVERAGE = 595.5
+    HISCORE = 1467
+
+    Candidate 15 Weights:[9.5, 8.4, -9.0, 0.4, 8.7, 4.2]
+         Candidate 15 Final Score: 56 Seed: 8
+         Candidate 15 Final Score: 44 Seed: 9
+         Candidate 15 Final Score: 103 Seed: 99
+         Candidate 15 Final Score: 36 Seed: 999
+         Candidate 15 Final Score: 52 Seed: 9999
+         Candidate 15 Final Score: 66 Seed: 9997
+    AVERAGE = 59.5
+    HISCORE = 103
+
+    Candidate 16 Weights:[-2.9, -4.2, -1.6, -7.1, -7.1, -3.0]
+         Candidate 16 Final Score: 239 Seed: 8
+         Candidate 16 Final Score: 466 Seed: 9
+         Candidate 16 Final Score: 319 Seed: 99
+         Candidate 16 Final Score: 85 Seed: 999
+         Candidate 16 Final Score: 279 Seed: 9999
+         Candidate 16 Final Score: 92 Seed: 9997
+    AVERAGE = 246.66666666666666
+    HISCORE = 466
+
+    Candidate 17 Weights:[-7.5, -6.5, 1.1, 4.6, -1.0, -3.1]
+         Candidate 17 Final Score: 178 Seed: 8
+         Candidate 17 Final Score: 599 Seed: 9
+         Candidate 17 Final Score: 482 Seed: 99
+         Candidate 17 Final Score: 253 Seed: 999
+         Candidate 17 Final Score: 146 Seed: 9999
+         Candidate 17 Final Score: 232 Seed: 9997
+    AVERAGE = 315.0
+    HISCORE = 599
+
+    Candidate 18 Weights:[5.0, 9.3, -1.6, 4.6, -4.9, 8.0]
+         Candidate 18 Final Score: 56 Seed: 8
+         Candidate 18 Final Score: 44 Seed: 9
+         Candidate 18 Final Score: 74 Seed: 99
+         Candidate 18 Final Score: 85 Seed: 999
+         Candidate 18 Final Score: 64 Seed: 9999
+         Candidate 18 Final Score: 66 Seed: 9997
+    AVERAGE = 64.83333333333333
+    HISCORE = 85
+
+    Candidate 19 Weights:[9.7, -3.1, -5.8, 9.0, -0.5, -1.9]
+         Candidate 19 Final Score: 202 Seed: 8
+         Candidate 19 Final Score: 79 Seed: 9
+         Candidate 19 Final Score: 131 Seed: 99
+         Candidate 19 Final Score: 215 Seed: 999
+         Candidate 19 Final Score: 115 Seed: 9999
+         Candidate 19 Final Score: 150 Seed: 9997
+    AVERAGE = 148.66666666666666
+    HISCORE = 215
+
+    Candidate 20 Weights:[3.2, -2.1, -7.3, 3.9, 9.4, 9.0]
+         Candidate 20 Final Score: 76 Seed: 8
+         Candidate 20 Final Score: 26 Seed: 9
+         Candidate 20 Final Score: 84 Seed: 99
+         Candidate 20 Final Score: 36 Seed: 999
+         Candidate 20 Final Score: 60 Seed: 9999
+         Candidate 20 Final Score: 58 Seed: 9997
+    AVERAGE = 56.666666666666664
+    HISCORE = 84
+
+Top performer of Generation 5
+NAME: Candidate 1
+WEIGHTS: [12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+HISCORE: 8872
+AVERAGE: 2204.1666666666665
+
+Starting Generation 6
+    Candidate 1 Weights:[12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+    AVERAGE = 2204.1666666666665
+    HISCORE = 8872
+
+    Candidate 2 Weights:[10.6, -2.5, 1.7, 4.1, 5.9, -1.3]
+    AVERAGE = 3123.8333333333335
+    HISCORE = 6757
+
+    Candidate 3 Weights:[11.1, -3.9, 1.4, 4.5, 5.5, -1.5]
+    AVERAGE = 2077.1666666666665
+    HISCORE = 4747
+
+    Candidate 4 Weights:[10.7, -3.6, 0.9, 3.2, 3.8, -0.1]
+         Candidate 4 Final Score: 212 Seed: 8
+         Candidate 4 Final Score: 248 Seed: 9
+         Candidate 4 Final Score: 103 Seed: 99
+         Candidate 4 Final Score: 135 Seed: 999
+         Candidate 4 Final Score: 151 Seed: 9999
+         Candidate 4 Final Score: 121 Seed: 9997
+    AVERAGE = 161.66666666666666
+    HISCORE = 248
+
+    Candidate 5 Weights:[8.9, -5.9, 1.2, 5.6, 7.3, -2.4]
+         Candidate 5 Final Score: 234 Seed: 8
+         Candidate 5 Final Score: 4951 Seed: 9
+         Candidate 5 Final Score: 2564 Seed: 99
+         Candidate 5 Final Score: 3422 Seed: 999
+         Candidate 5 Final Score: 365 Seed: 9999
+         Candidate 5 Final Score: 222 Seed: 9997
+    AVERAGE = 1959.6666666666667
+    HISCORE = 4951
+
+    Candidate 6 Weights:[12.7, -4.1, 1.8, 5.9, 7.2, -3.3]
+         Candidate 6 Final Score: 377 Seed: 8
+         Candidate 6 Final Score: 1577 Seed: 9
+         Candidate 6 Final Score: 1098 Seed: 99
+         Candidate 6 Final Score: 1945 Seed: 999
+         Candidate 6 Final Score: 268 Seed: 9999
+         Candidate 6 Final Score: 415 Seed: 9997
+    AVERAGE = 946.6666666666666
+    HISCORE = 1945
+
+    Candidate 7 Weights:[11.1, -4.5, 2.4, 3.6, 4.3, 0.4]
+         Candidate 7 Final Score: 202 Seed: 8
+         Candidate 7 Final Score: 228 Seed: 9
+         Candidate 7 Final Score: 98 Seed: 99
+         Candidate 7 Final Score: 135 Seed: 999
+         Candidate 7 Final Score: 94 Seed: 9999
+         Candidate 7 Final Score: 136 Seed: 9997
+    AVERAGE = 148.83333333333334
+    HISCORE = 228
+
+    Candidate 8 Weights:[11.9, -4.9, 3.1, 3.9, 3.6, -4.0]
+         Candidate 8 Final Score: 377 Seed: 8
+         Candidate 8 Final Score: 1045 Seed: 9
+         Candidate 8 Final Score: 1871 Seed: 99
+         Candidate 8 Final Score: 631 Seed: 999
+         Candidate 8 Final Score: 655 Seed: 9999
+         Candidate 8 Final Score: 741 Seed: 9997
+    AVERAGE = 886.6666666666666
+    HISCORE = 1871
+
+    Candidate 9 Weights:[11.5, -4.1, 1.5, 4.0, 4.7, 1.0]
+         Candidate 9 Final Score: 139 Seed: 8
+         Candidate 9 Final Score: 44 Seed: 9
+         Candidate 9 Final Score: 84 Seed: 99
+         Candidate 9 Final Score: 36 Seed: 999
+         Candidate 9 Final Score: 65 Seed: 9999
+         Candidate 9 Final Score: 126 Seed: 9997
+    AVERAGE = 82.33333333333333
+    HISCORE = 139
+
+    Candidate 10 Weights:[6.3, -9.4, -3.6, 6.5, 7.1, 6.8]
+         Candidate 10 Final Score: 87 Seed: 8
+         Candidate 10 Final Score: 26 Seed: 9
+         Candidate 10 Final Score: 98 Seed: 99
+         Candidate 10 Final Score: 36 Seed: 999
+         Candidate 10 Final Score: 52 Seed: 9999
+         Candidate 10 Final Score: 71 Seed: 9997
+    AVERAGE = 61.666666666666664
+    HISCORE = 98
+
+    Candidate 11 Weights:[5.6, -8.5, 5.4, 7.0, 5.3, 6.1]
+         Candidate 11 Final Score: 97 Seed: 8
+         Candidate 11 Final Score: 44 Seed: 9
+         Candidate 11 Final Score: 88 Seed: 99
+         Candidate 11 Final Score: 36 Seed: 999
+         Candidate 11 Final Score: 101 Seed: 9999
+         Candidate 11 Final Score: 80 Seed: 9997
+    AVERAGE = 74.33333333333333
+    HISCORE = 101
+
+    Candidate 12 Weights:[-4.2, 0.9, 9.8, 3.2, -1.8, 6.6]
+         Candidate 12 Final Score: 66 Seed: 8
+         Candidate 12 Final Score: 88 Seed: 9
+         Candidate 12 Final Score: 84 Seed: 99
+         Candidate 12 Final Score: 81 Seed: 999
+         Candidate 12 Final Score: 64 Seed: 9999
+         Candidate 12 Final Score: 97 Seed: 9997
+    AVERAGE = 80.0
+    HISCORE = 97
+
+    Candidate 13 Weights:[-0.4, 4.5, 9.2, -2.4, 4.3, 0.3]
+         Candidate 13 Final Score: 213 Seed: 8
+         Candidate 13 Final Score: 122 Seed: 9
+         Candidate 13 Final Score: 131 Seed: 99
+         Candidate 13 Final Score: 669 Seed: 999
+         Candidate 13 Final Score: 105 Seed: 9999
+         Candidate 13 Final Score: 130 Seed: 9997
+    AVERAGE = 228.33333333333334
+    HISCORE = 669
+
+    Candidate 14 Weights:[-3.2, 3.8, -7.7, -8.0, -5.2, -9.0]
+         Candidate 14 Final Score: 108 Seed: 8
+         Candidate 14 Final Score: 132 Seed: 9
+         Candidate 14 Final Score: 880 Seed: 99
+         Candidate 14 Final Score: 343 Seed: 999
+         Candidate 14 Final Score: 118 Seed: 9999
+         Candidate 14 Final Score: 155 Seed: 9997
+    AVERAGE = 289.3333333333333
+    HISCORE = 880
+
+    Candidate 15 Weights:[8.9, 1.1, -7.6, 7.1, -4.8, -1.2]
+         Candidate 15 Final Score: 66 Seed: 8
+         Candidate 15 Final Score: 75 Seed: 9
+         Candidate 15 Final Score: 52 Seed: 99
+         Candidate 15 Final Score: 104 Seed: 999
+         Candidate 15 Final Score: 128 Seed: 9999
+         Candidate 15 Final Score: 112 Seed: 9997
+    AVERAGE = 89.5
+    HISCORE = 128
+
+    Candidate 16 Weights:[-4.1, -3.5, -5.6, -2.9, -1.6, -2.8]
+         Candidate 16 Final Score: 192 Seed: 8
+         Candidate 16 Final Score: 88 Seed: 9
+         Candidate 16 Final Score: 259 Seed: 99
+         Candidate 16 Final Score: 171 Seed: 999
+         Candidate 16 Final Score: 235 Seed: 9999
+         Candidate 16 Final Score: 212 Seed: 9997
+    AVERAGE = 192.83333333333334
+    HISCORE = 259
+
+    Candidate 17 Weights:[3.8, -5.3, -9.0, 7.7, 3.0, -0.3]
+         Candidate 17 Final Score: 87 Seed: 8
+         Candidate 17 Final Score: 26 Seed: 9
+         Candidate 17 Final Score: 52 Seed: 99
+         Candidate 17 Final Score: 36 Seed: 999
+         Candidate 17 Final Score: 64 Seed: 9999
+         Candidate 17 Final Score: 111 Seed: 9997
+    AVERAGE = 62.666666666666664
+    HISCORE = 111
+
+    Candidate 18 Weights:[6.9, -2.8, 1.7, 4.0, 8.4, 3.3]
+         Candidate 18 Final Score: 87 Seed: 8
+         Candidate 18 Final Score: 44 Seed: 9
+         Candidate 18 Final Score: 88 Seed: 99
+         Candidate 18 Final Score: 36 Seed: 999
+         Candidate 18 Final Score: 64 Seed: 9999
+         Candidate 18 Final Score: 71 Seed: 9997
+    AVERAGE = 65.0
+    HISCORE = 88
+
+    Candidate 19 Weights:[6.9, -3.5, 3.9, -3.1, 0.5, 8.4]
+         Candidate 19 Final Score: 66 Seed: 8
+         Candidate 19 Final Score: 44 Seed: 9
+         Candidate 19 Final Score: 74 Seed: 99
+         Candidate 19 Final Score: 36 Seed: 999
+         Candidate 19 Final Score: 101 Seed: 9999
+         Candidate 19 Final Score: 66 Seed: 9997
+    AVERAGE = 64.5
+    HISCORE = 101
+
+    Candidate 20 Weights:[9.0, 5.6, 9.2, 0.6, 6.5, 4.0]
+         Candidate 20 Final Score: 97 Seed: 8
+         Candidate 20 Final Score: 98 Seed: 9
+         Candidate 20 Final Score: 93 Seed: 99
+         Candidate 20 Final Score: 104 Seed: 999
+         Candidate 20 Final Score: 74 Seed: 9999
+         Candidate 20 Final Score: 80 Seed: 9997
+    AVERAGE = 91.0
+    HISCORE = 104
+
+Top performer of Generation 6
+NAME: Candidate 1
+WEIGHTS: [12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+HISCORE: 8872
+AVERAGE: 2204.1666666666665
+
+Starting Generation 7
+    Candidate 1 Weights:[12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+    AVERAGE = 2204.1666666666665
+    HISCORE = 8872
+
+    Candidate 2 Weights:[10.6, -2.5, 1.7, 4.1, 5.9, -1.3]
+    AVERAGE = 3123.8333333333335
+    HISCORE = 6757
+
+    Candidate 3 Weights:[8.9, -5.9, 1.2, 5.6, 7.3, -2.4]
+    AVERAGE = 1959.6666666666667
+    HISCORE = 4951
+
+    Candidate 4 Weights:[12.9, -2.5, 1.0, 3.9, 6.9, -1.2]
+         Candidate 4 Final Score: 1289 Seed: 8
+         Candidate 4 Final Score: 1707 Seed: 9
+         Candidate 4 Final Score: 3383 Seed: 99
+         Candidate 4 Final Score: 1207 Seed: 999
+         Candidate 4 Final Score: 1530 Seed: 9999
+         Candidate 4 Final Score: 3038 Seed: 9997
+    AVERAGE = 2025.6666666666667
+    HISCORE = 3383
+
+    Candidate 5 Weights:[7.2, -6.2, 0.7, 5.3, 7.5, -2.0]
+         Candidate 5 Final Score: 202 Seed: 8
+         Candidate 5 Final Score: 759 Seed: 9
+         Candidate 5 Final Score: 906 Seed: 99
+         Candidate 5 Final Score: 456 Seed: 999
+         Candidate 5 Final Score: 1419 Seed: 9999
+         Candidate 5 Final Score: 3211 Seed: 9997
+    AVERAGE = 1158.8333333333333
+    HISCORE = 3211
+
+    Candidate 6 Weights:[10.6, -4.7, 4.0, 3.9, 8.6, -0.6]
+         Candidate 6 Final Score: 1127 Seed: 8
+         Candidate 6 Final Score: 1522 Seed: 9
+         Candidate 6 Final Score: 1831 Seed: 99
+         Candidate 6 Final Score: 2366 Seed: 999
+         Candidate 6 Final Score: 1205 Seed: 9999
+         Candidate 6 Final Score: 1506 Seed: 9997
+    AVERAGE = 1592.8333333333333
+    HISCORE = 2366
+
+    Candidate 7 Weights:[8.7, -3.8, 0.7, 4.5, 5.8, -0.5]
+         Candidate 7 Final Score: 977 Seed: 8
+         Candidate 7 Final Score: 769 Seed: 9
+         Candidate 7 Final Score: 1811 Seed: 99
+         Candidate 7 Final Score: 576 Seed: 999
+         Candidate 7 Final Score: 288 Seed: 9999
+         Candidate 7 Final Score: 419 Seed: 9997
+    AVERAGE = 806.6666666666666
+    HISCORE = 1811
+
+    Candidate 8 Weights:[10.5, -3.0, 1.0, 5.1, 7.4, -1.3]
+         Candidate 8 Final Score: 2722 Seed: 8
+         Candidate 8 Final Score: 1752 Seed: 9
+         Candidate 8 Final Score: 6925 Seed: 99
+         Candidate 8 Final Score: 1040 Seed: 999
+         Candidate 8 Final Score: 1221 Seed: 9999
+         Candidate 8 Final Score: 1516 Seed: 9997
+    AVERAGE = 2529.3333333333335
+    HISCORE = 6925
+
+    Candidate 9 Weights:[8.5, -5.0, 0.6, 5.9, 4.2, -2.4]
+         Candidate 9 Final Score: 1095 Seed: 8
+         Candidate 9 Final Score: 993 Seed: 9
+         Candidate 9 Final Score: 260 Seed: 99
+         Candidate 9 Final Score: 641 Seed: 999
+         Candidate 9 Final Score: 356 Seed: 9999
+         Candidate 9 Final Score: 1915 Seed: 9997
+    AVERAGE = 876.6666666666666
+    HISCORE = 1915
+
+    Candidate 10 Weights:[6.1, 1.7, 0.8, -3.7, -1.5, 6.4]
+         Candidate 10 Final Score: 66 Seed: 8
+         Candidate 10 Final Score: 88 Seed: 9
+         Candidate 10 Final Score: 52 Seed: 99
+         Candidate 10 Final Score: 36 Seed: 999
+         Candidate 10 Final Score: 64 Seed: 9999
+         Candidate 10 Final Score: 66 Seed: 9997
+    AVERAGE = 62.0
+    HISCORE = 88
+
+    Candidate 11 Weights:[8.4, -1.9, 2.0, 6.8, -4.5, 4.5]
+         Candidate 11 Final Score: 68 Seed: 8
+         Candidate 11 Final Score: 44 Seed: 9
+         Candidate 11 Final Score: 74 Seed: 99
+         Candidate 11 Final Score: 36 Seed: 999
+         Candidate 11 Final Score: 101 Seed: 9999
+         Candidate 11 Final Score: 66 Seed: 9997
+    AVERAGE = 64.83333333333333
+    HISCORE = 101
+
+    Candidate 12 Weights:[3.2, 5.4, 6.9, -1.4, 7.7, -1.4]
+         Candidate 12 Final Score: 93 Seed: 8
+         Candidate 12 Final Score: 322 Seed: 9
+         Candidate 12 Final Score: 756 Seed: 99
+         Candidate 12 Final Score: 580 Seed: 999
+         Candidate 12 Final Score: 151 Seed: 9999
+         Candidate 12 Final Score: 70 Seed: 9997
+    AVERAGE = 328.6666666666667
+    HISCORE = 756
+
+    Candidate 13 Weights:[8.5, -4.2, 0.7, -7.0, -1.2, -6.2]
+         Candidate 13 Final Score: 366 Seed: 8
+         Candidate 13 Final Score: 766 Seed: 9
+         Candidate 13 Final Score: 800 Seed: 99
+         Candidate 13 Final Score: 351 Seed: 999
+         Candidate 13 Final Score: 141 Seed: 9999
+         Candidate 13 Final Score: 244 Seed: 9997
+    AVERAGE = 444.6666666666667
+    HISCORE = 800
+
+    Candidate 14 Weights:[-9.3, -4.4, -7.5, 2.1, -3.2, 9.7]
+         Candidate 14 Final Score: 76 Seed: 8
+         Candidate 14 Final Score: 26 Seed: 9
+         Candidate 14 Final Score: 81 Seed: 99
+         Candidate 14 Final Score: 36 Seed: 999
+         Candidate 14 Final Score: 60 Seed: 9999
+         Candidate 14 Final Score: 66 Seed: 9997
+    AVERAGE = 57.5
+    HISCORE = 81
+
+    Candidate 15 Weights:[5.2, -4.4, -2.5, 3.8, -3.1, -1.1]
+         Candidate 15 Final Score: 56 Seed: 8
+         Candidate 15 Final Score: 118 Seed: 9
+         Candidate 15 Final Score: 530 Seed: 99
+         Candidate 15 Final Score: 344 Seed: 999
+         Candidate 15 Final Score: 313 Seed: 9999
+         Candidate 15 Final Score: 384 Seed: 9997
+    AVERAGE = 290.8333333333333
+    HISCORE = 530
+
+    Candidate 16 Weights:[-5.7, -7.0, -2.4, 5.1, -7.9, -6.9]
+         Candidate 16 Final Score: 118 Seed: 8
+         Candidate 16 Final Score: 295 Seed: 9
+         Candidate 16 Final Score: 330 Seed: 99
+         Candidate 16 Final Score: 376 Seed: 999
+         Candidate 16 Final Score: 182 Seed: 9999
+         Candidate 16 Final Score: 867 Seed: 9997
+    AVERAGE = 361.3333333333333
+    HISCORE = 867
+
+    Candidate 17 Weights:[-0.5, -4.1, 2.7, 2.8, 0.5, -9.8]
+         Candidate 17 Final Score: 93 Seed: 8
+         Candidate 17 Final Score: 450 Seed: 9
+         Candidate 17 Final Score: 488 Seed: 99
+         Candidate 17 Final Score: 115 Seed: 999
+         Candidate 17 Final Score: 411 Seed: 9999
+         Candidate 17 Final Score: 242 Seed: 9997
+    AVERAGE = 299.8333333333333
+    HISCORE = 488
+
+    Candidate 18 Weights:[1.6, -9.3, -4.8, 6.3, -6.6, 5.5]
+         Candidate 18 Final Score: 66 Seed: 8
+         Candidate 18 Final Score: 26 Seed: 9
+         Candidate 18 Final Score: 84 Seed: 99
+         Candidate 18 Final Score: 36 Seed: 999
+         Candidate 18 Final Score: 64 Seed: 9999
+         Candidate 18 Final Score: 87 Seed: 9997
+    AVERAGE = 60.5
+    HISCORE = 87
+
+    Candidate 19 Weights:[4.3, 2.1, -7.1, -3.8, -6.2, 3.3]
+         Candidate 19 Final Score: 97 Seed: 8
+         Candidate 19 Final Score: 59 Seed: 9
+         Candidate 19 Final Score: 108 Seed: 99
+         Candidate 19 Final Score: 36 Seed: 999
+         Candidate 19 Final Score: 52 Seed: 9999
+         Candidate 19 Final Score: 80 Seed: 9997
+    AVERAGE = 72.0
+    HISCORE = 108
+
+    Candidate 20 Weights:[8.9, 7.3, 2.5, 5.8, 8.7, 6.4]
+         Candidate 20 Final Score: 56 Seed: 8
+         Candidate 20 Final Score: 44 Seed: 9
+         Candidate 20 Final Score: 52 Seed: 99
+         Candidate 20 Final Score: 85 Seed: 999
+         Candidate 20 Final Score: 74 Seed: 9999
+         Candidate 20 Final Score: 66 Seed: 9997
+    AVERAGE = 62.833333333333336
+    HISCORE = 85
+
+Top performer of Generation 7
+NAME: Candidate 1
+WEIGHTS: [12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+HISCORE: 8872
+AVERAGE: 2204.1666666666665
+
+Starting Generation 8
+    Candidate 1 Weights:[12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+    AVERAGE = 2204.1666666666665
+    HISCORE = 8872
+
+    Candidate 2 Weights:[10.6, -2.5, 1.7, 4.1, 5.9, -1.3]
+    AVERAGE = 3123.8333333333335
+    HISCORE = 6757
+
+    Candidate 3 Weights:[10.5, -3.0, 1.0, 5.1, 7.4, -1.3]
+    AVERAGE = 2529.3333333333335
+    HISCORE = 6925
+
+    Candidate 4 Weights:[9.2, -2.8, 0.3, 3.5, 7.4, -0.3]
+         Candidate 4 Final Score: 212 Seed: 8
+         Candidate 4 Final Score: 779 Seed: 9
+         Candidate 4 Final Score: 184 Seed: 99
+         Candidate 4 Final Score: 588 Seed: 999
+         Candidate 4 Final Score: 1025 Seed: 9999
+         Candidate 4 Final Score: 528 Seed: 9997
+    AVERAGE = 552.6666666666666
+    HISCORE = 1025
+
+    Candidate 5 Weights:[9.1, -4.8, 0.2, 4.2, 7.4, -1.0]
+         Candidate 5 Final Score: 1224 Seed: 8
+         Candidate 5 Final Score: 756 Seed: 9
+         Candidate 5 Final Score: 1771 Seed: 99
+         Candidate 5 Final Score: 1101 Seed: 999
+         Candidate 5 Final Score: 1234 Seed: 9999
+         Candidate 5 Final Score: 1492 Seed: 9997
+    AVERAGE = 1263.0
+    HISCORE = 1771
+
+    Candidate 6 Weights:[12.5, -1.9, 0.9, 5.1, 7.4, -0.8]
+         Candidate 6 Final Score: 3850 Seed: 8
+         Candidate 6 Final Score: 2038 Seed: 9
+         Candidate 6 Final Score: 791 Seed: 99
+         Candidate 6 Final Score: 1273 Seed: 999
+         Candidate 6 Final Score: 1911 Seed: 9999
+         Candidate 6 Final Score: 3166 Seed: 9997
+    AVERAGE = 2171.5
+    HISCORE = 3850
+
+    Candidate 7 Weights:[9.3, -2.3, 0.5, 5.1, 6.5, 0.3]
+         Candidate 7 Final Score: 118 Seed: 8
+         Candidate 7 Final Score: 26 Seed: 9
+         Candidate 7 Final Score: 84 Seed: 99
+         Candidate 7 Final Score: 36 Seed: 999
+         Candidate 7 Final Score: 161 Seed: 9999
+         Candidate 7 Final Score: 97 Seed: 9997
+    AVERAGE = 87.0
+    HISCORE = 161
+
+    Candidate 8 Weights:[11.1, -4.8, 0.9, 2.7, 5.3, -1.5]
+         Candidate 8 Final Score: 1036 Seed: 8
+         Candidate 8 Final Score: 1478 Seed: 9
+         Candidate 8 Final Score: 2241 Seed: 99
+         Candidate 8 Final Score: 1986 Seed: 999
+         Candidate 8 Final Score: 348 Seed: 9999
+         Candidate 8 Final Score: 415 Seed: 9997
+    AVERAGE = 1250.6666666666667
+    HISCORE = 2241
+
+    Candidate 9 Weights:[7.6, -3.7, 1.6, 4.2, 5.9, 0.2]
+         Candidate 9 Final Score: 118 Seed: 8
+         Candidate 9 Final Score: 88 Seed: 9
+         Candidate 9 Final Score: 103 Seed: 99
+         Candidate 9 Final Score: 135 Seed: 999
+         Candidate 9 Final Score: 123 Seed: 9999
+         Candidate 9 Final Score: 121 Seed: 9997
+    AVERAGE = 114.66666666666667
+    HISCORE = 135
+
+    Candidate 10 Weights:[-2.4, 6.5, 1.1, 6.8, 9.3, 5.0]
+         Candidate 10 Final Score: 45 Seed: 8
+         Candidate 10 Final Score: 44 Seed: 9
+         Candidate 10 Final Score: 84 Seed: 99
+         Candidate 10 Final Score: 57 Seed: 999
+         Candidate 10 Final Score: 64 Seed: 9999
+         Candidate 10 Final Score: 66 Seed: 9997
+    AVERAGE = 60.0
+    HISCORE = 84
+
+    Candidate 11 Weights:[-7.1, 8.3, -2.5, 9.9, -7.7, -6.9]
+         Candidate 11 Final Score: 98 Seed: 8
+         Candidate 11 Final Score: 162 Seed: 9
+         Candidate 11 Final Score: 188 Seed: 99
+         Candidate 11 Final Score: 787 Seed: 999
+         Candidate 11 Final Score: 151 Seed: 9999
+         Candidate 11 Final Score: 77 Seed: 9997
+    AVERAGE = 243.83333333333334
+    HISCORE = 787
+
+    Candidate 12 Weights:[1.7, 8.9, -7.3, 3.7, -3.0, 2.7]
+         Candidate 12 Final Score: 56 Seed: 8
+         Candidate 12 Final Score: 44 Seed: 9
+         Candidate 12 Final Score: 81 Seed: 99
+         Candidate 12 Final Score: 36 Seed: 999
+         Candidate 12 Final Score: 52 Seed: 9999
+         Candidate 12 Final Score: 70 Seed: 9997
+    AVERAGE = 56.5
+    HISCORE = 81
+
+    Candidate 13 Weights:[1.8, -0.2, 7.6, 6.8, 2.2, 7.0]
+         Candidate 13 Final Score: 56 Seed: 8
+         Candidate 13 Final Score: 44 Seed: 9
+         Candidate 13 Final Score: 88 Seed: 99
+         Candidate 13 Final Score: 85 Seed: 999
+         Candidate 13 Final Score: 101 Seed: 9999
+         Candidate 13 Final Score: 58 Seed: 9997
+    AVERAGE = 72.0
+    HISCORE = 101
+
+    Candidate 14 Weights:[-1.6, -1.8, -7.3, 4.1, -5.1, -6.2]
+         Candidate 14 Final Score: 323 Seed: 8
+         Candidate 14 Final Score: 799 Seed: 9
+         Candidate 14 Final Score: 93 Seed: 99
+         Candidate 14 Final Score: 232 Seed: 999
+         Candidate 14 Final Score: 151 Seed: 9999
+         Candidate 14 Final Score: 111 Seed: 9997
+    AVERAGE = 284.8333333333333
+    HISCORE = 799
+
+    Candidate 15 Weights:[-3.2, -6.3, -1.2, -3.3, -7.6, -2.0]
+         Candidate 15 Final Score: 88 Seed: 8
+         Candidate 15 Final Score: 203 Seed: 9
+         Candidate 15 Final Score: 801 Seed: 99
+         Candidate 15 Final Score: 212 Seed: 999
+         Candidate 15 Final Score: 495 Seed: 9999
+         Candidate 15 Final Score: 307 Seed: 9997
+    AVERAGE = 351.0
+    HISCORE = 801
+
+    Candidate 16 Weights:[-1.2, -3.9, 3.3, -5.6, 6.9, 2.8]
+         Candidate 16 Final Score: 87 Seed: 8
+         Candidate 16 Final Score: 44 Seed: 9
+         Candidate 16 Final Score: 84 Seed: 99
+         Candidate 16 Final Score: 36 Seed: 999
+         Candidate 16 Final Score: 101 Seed: 9999
+         Candidate 16 Final Score: 80 Seed: 9997
+    AVERAGE = 72.0
+    HISCORE = 101
+
+    Candidate 17 Weights:[-7.3, 9.8, -6.2, -0.3, -5.0, 3.7]
+         Candidate 17 Final Score: 45 Seed: 8
+         Candidate 17 Final Score: 70 Seed: 9
+         Candidate 17 Final Score: 81 Seed: 99
+         Candidate 17 Final Score: 57 Seed: 999
+         Candidate 17 Final Score: 64 Seed: 9999
+         Candidate 17 Final Score: 102 Seed: 9997
+    AVERAGE = 69.83333333333333
+    HISCORE = 102
+
+    Candidate 18 Weights:[7.4, 5.1, -0.4, -2.0, 8.9, 6.9]
+         Candidate 18 Final Score: 56 Seed: 8
+         Candidate 18 Final Score: 44 Seed: 9
+         Candidate 18 Final Score: 52 Seed: 99
+         Candidate 18 Final Score: 36 Seed: 999
+         Candidate 18 Final Score: 64 Seed: 9999
+         Candidate 18 Final Score: 80 Seed: 9997
+    AVERAGE = 55.333333333333336
+    HISCORE = 80
+
+    Candidate 19 Weights:[0.9, 9.0, 6.7, 6.7, 9.2, -7.5]
+         Candidate 19 Final Score: 323 Seed: 8
+         Candidate 19 Final Score: 600 Seed: 9
+         Candidate 19 Final Score: 409 Seed: 99
+         Candidate 19 Final Score: 115 Seed: 999
+         Candidate 19 Final Score: 298 Seed: 9999
+         Candidate 19 Final Score: 70 Seed: 9997
+    AVERAGE = 302.5
+    HISCORE = 600
+
+    Candidate 20 Weights:[1.7, -7.9, 6.8, 6.7, -9.1, 3.6]
+         Candidate 20 Final Score: 56 Seed: 8
+         Candidate 20 Final Score: 44 Seed: 9
+         Candidate 20 Final Score: 103 Seed: 99
+         Candidate 20 Final Score: 135 Seed: 999
+         Candidate 20 Final Score: 101 Seed: 9999
+         Candidate 20 Final Score: 66 Seed: 9997
+    AVERAGE = 84.16666666666667
+    HISCORE = 135
+
+Top performer of Generation 8
+NAME: Candidate 1
+WEIGHTS: [12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+HISCORE: 8872
+AVERAGE: 2204.1666666666665
+
+Starting Generation 9
+    Candidate 1 Weights:[12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+    AVERAGE = 2204.1666666666665
+    HISCORE = 8872
+
+    Candidate 2 Weights:[10.6, -2.5, 1.7, 4.1, 5.9, -1.3]
+    AVERAGE = 3123.8333333333335
+    HISCORE = 6757
+
+    Candidate 3 Weights:[10.5, -3.0, 1.0, 5.1, 7.4, -1.3]
+    AVERAGE = 2529.3333333333335
+    HISCORE = 6925
+
+    Candidate 4 Weights:[11.3, -3.3, 1.5, 5.1, 7.6, -2.2]
+         Candidate 4 Final Score: 957 Seed: 8
+         Candidate 4 Final Score: 3724 Seed: 9
+         Candidate 4 Final Score: 2391 Seed: 99
+         Candidate 4 Final Score: 1273 Seed: 999
+         Candidate 4 Final Score: 2944 Seed: 9999
+         Candidate 4 Final Score: 2134 Seed: 9997
+    AVERAGE = 2237.1666666666665
+    HISCORE = 3724
+
+    Candidate 5 Weights:[9.4, -2.4, 2.4, 5.4, 3.9, -1.9]
+         Candidate 5 Final Score: 1115 Seed: 8
+         Candidate 5 Final Score: 1087 Seed: 9
+         Candidate 5 Final Score: 1726 Seed: 99
+         Candidate 5 Final Score: 1219 Seed: 999
+         Candidate 5 Final Score: 1295 Seed: 9999
+         Candidate 5 Final Score: 2714 Seed: 9997
+    AVERAGE = 1526.0
+    HISCORE = 2714
+
+    Candidate 6 Weights:[10.7, -1.4, -0.1, 6.9, 6.3, -2.5]
+         Candidate 6 Final Score: 609 Seed: 8
+         Candidate 6 Final Score: 679 Seed: 9
+         Candidate 6 Final Score: 1995 Seed: 99
+         Candidate 6 Final Score: 2696 Seed: 999
+         Candidate 6 Final Score: 128 Seed: 9999
+         Candidate 6 Final Score: 222 Seed: 9997
+    AVERAGE = 1054.8333333333333
+    HISCORE = 2696
+
+    Candidate 7 Weights:[11.0, -2.6, 2.2, 3.6, 4.6, -0.5]
+         Candidate 7 Final Score: 3039 Seed: 8
+         Candidate 7 Final Score: 2000 Seed: 9
+         Candidate 7 Final Score: 3225 Seed: 99
+         Candidate 7 Final Score: 566 Seed: 999
+         Candidate 7 Final Score: 3043 Seed: 9999
+         Candidate 7 Final Score: 1486 Seed: 9997
+    AVERAGE = 2226.5
+    HISCORE = 3225
+
+    Candidate 8 Weights:[12.9, -3.1, 2.0, 4.6, 5.1, -1.2]
+         Candidate 8 Final Score: 534 Seed: 8
+         Candidate 8 Final Score: 1960 Seed: 9
+         Candidate 8 Final Score: 2704 Seed: 99
+         Candidate 8 Final Score: 1026 Seed: 999
+         Candidate 8 Final Score: 202 Seed: 9999
+         Candidate 8 Final Score: 578 Seed: 9997
+    AVERAGE = 1167.3333333333333
+    HISCORE = 2704
+
+    Candidate 9 Weights:[12.2, -1.8, 0.6, 2.5, 5.5, -1.1]
+         Candidate 9 Final Score: 2873 Seed: 8
+         Candidate 9 Final Score: 1243 Seed: 9
+         Candidate 9 Final Score: 1801 Seed: 99
+         Candidate 9 Final Score: 859 Seed: 999
+         Candidate 9 Final Score: 9210 Seed: 9999
+         Candidate 9 Final Score: 761 Seed: 9997
+    AVERAGE = 2791.1666666666665
+    HISCORE = 9210
+
+    Candidate 10 Weights:[-8.4, -2.9, 0.4, -2.4, -7.5, -5.3]
+         Candidate 10 Final Score: 323 Seed: 8
+         Candidate 10 Final Score: 78 Seed: 9
+         Candidate 10 Final Score: 78 Seed: 99
+         Candidate 10 Final Score: 115 Seed: 999
+         Candidate 10 Final Score: 183 Seed: 9999
+         Candidate 10 Final Score: 297 Seed: 9997
+    AVERAGE = 179.0
+    HISCORE = 323
+
+    Candidate 11 Weights:[3.8, 8.3, 9.6, 4.9, 1.5, -5.1]
+         Candidate 11 Final Score: 119 Seed: 8
+         Candidate 11 Final Score: 232 Seed: 9
+         Candidate 11 Final Score: 78 Seed: 99
+         Candidate 11 Final Score: 999 Seed: 999
+         Candidate 11 Final Score: 441 Seed: 9999
+         Candidate 11 Final Score: 70 Seed: 9997
+    AVERAGE = 323.1666666666667
+    HISCORE = 999
+
+    Candidate 12 Weights:[7.3, 2.8, 9.7, 1.9, -3.6, -5.3]
+         Candidate 12 Final Score: 374 Seed: 8
+         Candidate 12 Final Score: 818 Seed: 9
+         Candidate 12 Final Score: 563 Seed: 99
+         Candidate 12 Final Score: 465 Seed: 999
+         Candidate 12 Final Score: 288 Seed: 9999
+         Candidate 12 Final Score: 70 Seed: 9997
+    AVERAGE = 429.6666666666667
+    HISCORE = 818
+
+    Candidate 13 Weights:[8.3, 2.9, -0.7, -4.0, 0.1, 7.8]
+         Candidate 13 Final Score: 56 Seed: 8
+         Candidate 13 Final Score: 44 Seed: 9
+         Candidate 13 Final Score: 52 Seed: 99
+         Candidate 13 Final Score: 36 Seed: 999
+         Candidate 13 Final Score: 64 Seed: 9999
+         Candidate 13 Final Score: 66 Seed: 9997
+    AVERAGE = 53.0
+    HISCORE = 66
+
+    Candidate 14 Weights:[-8.6, -3.7, 9.8, 2.7, 4.1, 6.8]
+         Candidate 14 Final Score: 66 Seed: 8
+         Candidate 14 Final Score: 98 Seed: 9
+         Candidate 14 Final Score: 52 Seed: 99
+         Candidate 14 Final Score: 85 Seed: 999
+         Candidate 14 Final Score: 64 Seed: 9999
+         Candidate 14 Final Score: 66 Seed: 9997
+    AVERAGE = 71.83333333333333
+    HISCORE = 98
+
+    Candidate 15 Weights:[1.4, -7.0, -0.7, 3.0, 5.3, 6.5]
+         Candidate 15 Final Score: 87 Seed: 8
+         Candidate 15 Final Score: 44 Seed: 9
+         Candidate 15 Final Score: 98 Seed: 99
+         Candidate 15 Final Score: 36 Seed: 999
+         Candidate 15 Final Score: 123 Seed: 9999
+         Candidate 15 Final Score: 80 Seed: 9997
+    AVERAGE = 78.0
+    HISCORE = 123
+
+    Candidate 16 Weights:[0.0, -4.4, -0.7, -1.4, 5.3, 6.1]
+         Candidate 16 Final Score: 87 Seed: 8
+         Candidate 16 Final Score: 26 Seed: 9
+         Candidate 16 Final Score: 71 Seed: 99
+         Candidate 16 Final Score: 36 Seed: 999
+         Candidate 16 Final Score: 84 Seed: 9999
+         Candidate 16 Final Score: 71 Seed: 9997
+    AVERAGE = 62.5
+    HISCORE = 87
+
+    Candidate 17 Weights:[-0.9, -9.4, -6.4, 9.5, -2.6, -6.1]
+         Candidate 17 Final Score: 510 Seed: 8
+         Candidate 17 Final Score: 285 Seed: 9
+         Candidate 17 Final Score: 194 Seed: 99
+         Candidate 17 Final Score: 225 Seed: 999
+         Candidate 17 Final Score: 215 Seed: 9999
+         Candidate 17 Final Score: 207 Seed: 9997
+    AVERAGE = 272.6666666666667
+    HISCORE = 510
+
+    Candidate 18 Weights:[4.7, -3.9, 10.0, -7.0, -0.1, -10.0]
+         Candidate 18 Final Score: 108 Seed: 8
+         Candidate 18 Final Score: 203 Seed: 9
+         Candidate 18 Final Score: 290 Seed: 99
+         Candidate 18 Final Score: 430 Seed: 999
+         Candidate 18 Final Score: 95 Seed: 9999
+         Candidate 18 Final Score: 342 Seed: 9997
+    AVERAGE = 244.66666666666666
+    HISCORE = 430
+
+    Candidate 19 Weights:[1.7, 6.0, 7.9, -2.4, 3.4, 6.5]
+         Candidate 19 Final Score: 66 Seed: 8
+         Candidate 19 Final Score: 44 Seed: 9
+         Candidate 19 Final Score: 88 Seed: 99
+         Candidate 19 Final Score: 67 Seed: 999
+         Candidate 19 Final Score: 74 Seed: 9999
+         Candidate 19 Final Score: 87 Seed: 9997
+    AVERAGE = 71.0
+    HISCORE = 88
+
+    Candidate 20 Weights:[-7.7, -10.0, 5.6, 2.7, -3.9, -1.4]
+         Candidate 20 Final Score: 398 Seed: 8
+         Candidate 20 Final Score: 574 Seed: 9
+         Candidate 20 Final Score: 374 Seed: 99
+         Candidate 20 Final Score: 420 Seed: 999
+         Candidate 20 Final Score: 151 Seed: 9999
+         Candidate 20 Final Score: 244 Seed: 9997
+    AVERAGE = 360.1666666666667
+    HISCORE = 574
+
+Top performer of Generation 9
+NAME: Candidate 9
+WEIGHTS: [12.2, -1.8, 0.6, 2.5, 5.5, -1.1]
+HISCORE: 9210
+AVERAGE: 2791.1666666666665
+
+Starting Generation 10
+    Candidate 1 Weights:[12.2, -1.8, 0.6, 2.5, 5.5, -1.1]
+    AVERAGE = 2791.1666666666665
+    HISCORE = 9210
+
+    Candidate 2 Weights:[12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+    AVERAGE = 2204.1666666666665
+    HISCORE = 8872
+
+    Candidate 3 Weights:[10.6, -2.5, 1.7, 4.1, 5.9, -1.3]
+    AVERAGE = 3123.8333333333335
+    HISCORE = 6757
+
+    Candidate 4 Weights:[11.4, -0.5, 1.2, 4.4, 6.1, -0.4]
+         Candidate 4 Final Score: 3729 Seed: 8
+         Candidate 4 Final Score: 9042 Seed: 9
+         Candidate 4 Final Score: 1875 Seed: 99
+         Candidate 4 Final Score: 8633 Seed: 999
+         Candidate 4 Final Score: 7727 Seed: 9999
+         Candidate 4 Final Score: 1490 Seed: 9997
+    AVERAGE = 5416.0
+    HISCORE = 9042
+
+    Candidate 5 Weights:[9.1, -2.3, 0.3, 6.1, 6.0, -1.3]
+         Candidate 5 Final Score: 864 Seed: 8
+         Candidate 5 Final Score: 455 Seed: 9
+         Candidate 5 Final Score: 1773 Seed: 99
+         Candidate 5 Final Score: 1369 Seed: 999
+         Candidate 5 Final Score: 235 Seed: 9999
+         Candidate 5 Final Score: 2634 Seed: 9997
+    AVERAGE = 1221.6666666666667
+    HISCORE = 2634
+
+    Candidate 6 Weights:[11.8, -2.1, 1.4, 4.4, 5.0, 0.7]
+         Candidate 6 Final Score: 66 Seed: 8
+         Candidate 6 Final Score: 44 Seed: 9
+         Candidate 6 Final Score: 103 Seed: 99
+         Candidate 6 Final Score: 36 Seed: 999
+         Candidate 6 Final Score: 84 Seed: 9999
+         Candidate 6 Final Score: 121 Seed: 9997
+    AVERAGE = 75.66666666666667
+    HISCORE = 121
+
+    Candidate 7 Weights:[13.7, -1.9, 0.9, 5.7, 7.8, -2.2]
+         Candidate 7 Final Score: 239 Seed: 8
+         Candidate 7 Final Score: 2004 Seed: 9
+         Candidate 7 Final Score: 4445 Seed: 99
+         Candidate 7 Final Score: 2959 Seed: 999
+         Candidate 7 Final Score: 1379 Seed: 9999
+         Candidate 7 Final Score: 188 Seed: 9997
+    AVERAGE = 1869.0
+    HISCORE = 4445
+
+    Candidate 8 Weights:[13.8, -0.4, 2.3, 0.6, 4.2, -1.8]
+         Candidate 8 Final Score: 585 Seed: 8
+         Candidate 8 Final Score: 295 Seed: 9
+         Candidate 8 Final Score: 2088 Seed: 99
+         Candidate 8 Final Score: 424 Seed: 999
+         Candidate 8 Final Score: 2893 Seed: 9999
+         Candidate 8 Final Score: 337 Seed: 9997
+    AVERAGE = 1103.6666666666667
+    HISCORE = 2893
+
+    Candidate 9 Weights:[13.3, -3.7, 0.7, 5.2, 8.4, -3.4]
+         Candidate 9 Final Score: 445 Seed: 8
+         Candidate 9 Final Score: 840 Seed: 9
+         Candidate 9 Final Score: 472 Seed: 99
+         Candidate 9 Final Score: 608 Seed: 999
+         Candidate 9 Final Score: 258 Seed: 9999
+         Candidate 9 Final Score: 5217 Seed: 9997
+    AVERAGE = 1306.6666666666667
+    HISCORE = 5217
+
+    Candidate 10 Weights:[-9.6, 6.6, 4.5, 3.2, -8.7, -9.6]
+         Candidate 10 Final Score: 323 Seed: 8
+         Candidate 10 Final Score: 585 Seed: 9
+         Candidate 10 Final Score: 194 Seed: 99
+         Candidate 10 Final Score: 115 Seed: 999
+         Candidate 10 Final Score: 138 Seed: 9999
+         Candidate 10 Final Score: 218 Seed: 9997
+    AVERAGE = 262.1666666666667
+    HISCORE = 585
+
+    Candidate 11 Weights:[-8.5, 6.4, -3.0, 7.5, 3.2, 1.6]
+         Candidate 11 Final Score: 45 Seed: 8
+         Candidate 11 Final Score: 70 Seed: 9
+         Candidate 11 Final Score: 103 Seed: 99
+         Candidate 11 Final Score: 57 Seed: 999
+         Candidate 11 Final Score: 52 Seed: 9999
+         Candidate 11 Final Score: 66 Seed: 9997
+    AVERAGE = 65.5
+    HISCORE = 103
+
+    Candidate 12 Weights:[-0.2, 0.0, -8.6, -5.9, -9.5, -8.2]
+         Candidate 12 Final Score: 299 Seed: 8
+         Candidate 12 Final Score: 515 Seed: 9
+         Candidate 12 Final Score: 270 Seed: 99
+         Candidate 12 Final Score: 145 Seed: 999
+         Candidate 12 Final Score: 198 Seed: 9999
+         Candidate 12 Final Score: 307 Seed: 9997
+    AVERAGE = 289.0
+    HISCORE = 515
+
+    Candidate 13 Weights:[-1.0, 0.7, -1.5, 2.5, 6.4, 7.3]
+         Candidate 13 Final Score: 66 Seed: 8
+         Candidate 13 Final Score: 59 Seed: 9
+         Candidate 13 Final Score: 88 Seed: 99
+         Candidate 13 Final Score: 36 Seed: 999
+         Candidate 13 Final Score: 52 Seed: 9999
+         Candidate 13 Final Score: 80 Seed: 9997
+    AVERAGE = 63.5
+    HISCORE = 88
+
+    Candidate 14 Weights:[0.5, -2.7, 3.7, 5.3, -0.2, 3.2]
+         Candidate 14 Final Score: 66 Seed: 8
+         Candidate 14 Final Score: 44 Seed: 9
+         Candidate 14 Final Score: 71 Seed: 99
+         Candidate 14 Final Score: 85 Seed: 999
+         Candidate 14 Final Score: 64 Seed: 9999
+         Candidate 14 Final Score: 66 Seed: 9997
+    AVERAGE = 66.0
+    HISCORE = 85
+
+    Candidate 15 Weights:[-1.5, -4.7, -3.9, 5.6, -1.1, -8.8]
+         Candidate 15 Final Score: 118 Seed: 8
+         Candidate 15 Final Score: 78 Seed: 9
+         Candidate 15 Final Score: 249 Seed: 99
+         Candidate 15 Final Score: 214 Seed: 999
+         Candidate 15 Final Score: 183 Seed: 9999
+         Candidate 15 Final Score: 751 Seed: 9997
+    AVERAGE = 265.5
+    HISCORE = 751
+
+    Candidate 16 Weights:[8.4, -4.8, -5.2, 4.5, 6.9, -3.7]
+         Candidate 16 Final Score: 108 Seed: 8
+         Candidate 16 Final Score: 530 Seed: 9
+         Candidate 16 Final Score: 127 Seed: 99
+         Candidate 16 Final Score: 232 Seed: 999
+         Candidate 16 Final Score: 158 Seed: 9999
+         Candidate 16 Final Score: 446 Seed: 9997
+    AVERAGE = 266.8333333333333
+    HISCORE = 530
+
+    Candidate 17 Weights:[0.5, -2.4, -3.9, -2.0, 7.9, 7.6]
+         Candidate 17 Final Score: 56 Seed: 8
+         Candidate 17 Final Score: 26 Seed: 9
+         Candidate 17 Final Score: 84 Seed: 99
+         Candidate 17 Final Score: 36 Seed: 999
+         Candidate 17 Final Score: 64 Seed: 9999
+         Candidate 17 Final Score: 58 Seed: 9997
+    AVERAGE = 54.0
+    HISCORE = 84
+
+    Candidate 18 Weights:[-6.8, -5.6, -1.8, 2.4, -7.9, -1.1]
+         Candidate 18 Final Score: 135 Seed: 8
+         Candidate 18 Final Score: 44 Seed: 9
+         Candidate 18 Final Score: 88 Seed: 99
+         Candidate 18 Final Score: 125 Seed: 999
+         Candidate 18 Final Score: 183 Seed: 9999
+         Candidate 18 Final Score: 78 Seed: 9997
+    AVERAGE = 108.83333333333333
+    HISCORE = 183
+
+    Candidate 19 Weights:[-5.8, -1.8, 9.8, 3.9, 1.7, -8.4]
+         Candidate 19 Final Score: 119 Seed: 8
+         Candidate 19 Final Score: 203 Seed: 9
+         Candidate 19 Final Score: 249 Seed: 99
+         Candidate 19 Final Score: 849 Seed: 999
+         Candidate 19 Final Score: 128 Seed: 9999
+         Candidate 19 Final Score: 384 Seed: 9997
+    AVERAGE = 322.0
+    HISCORE = 849
+
+    Candidate 20 Weights:[9.8, 0.5, 3.1, 5.3, 8.0, 9.3]
+         Candidate 20 Final Score: 56 Seed: 8
+         Candidate 20 Final Score: 44 Seed: 9
+         Candidate 20 Final Score: 88 Seed: 99
+         Candidate 20 Final Score: 36 Seed: 999
+         Candidate 20 Final Score: 52 Seed: 9999
+         Candidate 20 Final Score: 66 Seed: 9997
+    AVERAGE = 57.0
+    HISCORE = 88
+
+Top performer of Generation 10
+NAME: Candidate 4
+WEIGHTS: [11.4, -0.5, 1.2, 4.4, 6.1, -0.4]
+HISCORE: 9042
+AVERAGE: 5416.0
+
+Starting Generation 11
+    Candidate 1 Weights:[11.4, -0.5, 1.2, 4.4, 6.1, -0.4]
+    AVERAGE = 5416.0
+    HISCORE = 9042
+
+    Candidate 2 Weights:[12.2, -1.8, 0.6, 2.5, 5.5, -1.1]
+    AVERAGE = 2791.1666666666665
+    HISCORE = 9210
+
+    Candidate 3 Weights:[12.1, -2.9, 2.2, 4.5, 5.5, -2.0]
+    AVERAGE = 2204.1666666666665
+    HISCORE = 8872
+
+    Candidate 4 Weights:[13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+         Candidate 4 Final Score: 3266 Seed: 8
+         Candidate 4 Final Score: 1702 Seed: 9
+         Candidate 4 Final Score: 24107 Seed: 99
+         Candidate 4 Final Score: 1966 Seed: 999
+         Candidate 4 Final Score: 1937 Seed: 9999
+         Candidate 4 Final Score: 222 Seed: 9997
+    AVERAGE = 5533.333333333333
+    HISCORE = 24107
+
+    Candidate 5 Weights:[13.1, -2.0, 2.4, 6.0, 4.5, -2.1]
+         Candidate 5 Final Score: 356 Seed: 8
+         Candidate 5 Final Score: 1604 Seed: 9
+         Candidate 5 Final Score: 701 Seed: 99
+         Candidate 5 Final Score: 652 Seed: 999
+         Candidate 5 Final Score: 437 Seed: 9999
+         Candidate 5 Final Score: 3116 Seed: 9997
+    AVERAGE = 1144.3333333333333
+    HISCORE = 3116
+
+    Candidate 6 Weights:[10.9, -2.4, 2.2, 3.8, 4.1, -2.0]
+         Candidate 6 Final Score: 957 Seed: 8
+         Candidate 6 Final Score: 696 Seed: 9
+         Candidate 6 Final Score: 2060 Seed: 99
+         Candidate 6 Final Score: 2818 Seed: 999
+         Candidate 6 Final Score: 278 Seed: 9999
+         Candidate 6 Final Score: 681 Seed: 9997
+    AVERAGE = 1248.3333333333333
+    HISCORE = 2818
+
+    Candidate 7 Weights:[11.7, -3.8, 3.7, 4.0, 8.1, -2.0]
+         Candidate 7 Final Score: 3512 Seed: 8
+         Candidate 7 Final Score: 2070 Seed: 9
+         Candidate 7 Final Score: 1941 Seed: 99
+         Candidate 7 Final Score: 815 Seed: 999
+         Candidate 7 Final Score: 1514 Seed: 9999
+         Candidate 7 Final Score: 4781 Seed: 9997
+    AVERAGE = 2438.8333333333335
+    HISCORE = 4781
+
+    Candidate 8 Weights:[12.6, 0.1, -0.5, 5.8, 7.8, 0.4]
+         Candidate 8 Final Score: 76 Seed: 8
+         Candidate 8 Final Score: 44 Seed: 9
+         Candidate 8 Final Score: 52 Seed: 99
+         Candidate 8 Final Score: 36 Seed: 999
+         Candidate 8 Final Score: 64 Seed: 9999
+         Candidate 8 Final Score: 66 Seed: 9997
+    AVERAGE = 56.333333333333336
+    HISCORE = 76
+
+    Candidate 9 Weights:[10.0, -4.3, 4.8, 3.4, 6.7, 0.0]
+         Candidate 9 Final Score: 420 Seed: 8
+         Candidate 9 Final Score: 1263 Seed: 9
+         Candidate 9 Final Score: 2172 Seed: 99
+         Candidate 9 Final Score: 642 Seed: 999
+         Candidate 9 Final Score: 328 Seed: 9999
+         Candidate 9 Final Score: 505 Seed: 9997
+    AVERAGE = 888.3333333333334
+    HISCORE = 2172
+
+    Candidate 10 Weights:[-9.5, -3.3, 0.4, -6.9, -8.5, 9.7]
+         Candidate 10 Final Score: 97 Seed: 8
+         Candidate 10 Final Score: 26 Seed: 9
+         Candidate 10 Final Score: 71 Seed: 99
+         Candidate 10 Final Score: 36 Seed: 999
+         Candidate 10 Final Score: 64 Seed: 9999
+         Candidate 10 Final Score: 66 Seed: 9997
+    AVERAGE = 60.0
+    HISCORE = 97
+
+    Candidate 11 Weights:[-8.6, -4.9, 0.5, -6.7, -9.5, 6.3]
+         Candidate 11 Final Score: 87 Seed: 8
+         Candidate 11 Final Score: 26 Seed: 9
+         Candidate 11 Final Score: 74 Seed: 99
+         Candidate 11 Final Score: 36 Seed: 999
+         Candidate 11 Final Score: 64 Seed: 9999
+         Candidate 11 Final Score: 121 Seed: 9997
+    AVERAGE = 68.0
+    HISCORE = 121
+
+    Candidate 12 Weights:[-3.8, 2.7, 4.1, 0.6, 2.4, 7.3]
+         Candidate 12 Final Score: 56 Seed: 8
+         Candidate 12 Final Score: 44 Seed: 9
+         Candidate 12 Final Score: 62 Seed: 99
+         Candidate 12 Final Score: 36 Seed: 999
+         Candidate 12 Final Score: 74 Seed: 9999
+         Candidate 12 Final Score: 66 Seed: 9997
+    AVERAGE = 56.333333333333336
+    HISCORE = 74
+
+    Candidate 13 Weights:[-4.7, -4.3, 8.8, -7.8, -2.5, -9.3]
+         Candidate 13 Final Score: 108 Seed: 8
+         Candidate 13 Final Score: 213 Seed: 9
+         Candidate 13 Final Score: 249 Seed: 99
+         Candidate 13 Final Score: 425 Seed: 999
+         Candidate 13 Final Score: 235 Seed: 9999
+         Candidate 13 Final Score: 486 Seed: 9997
+    AVERAGE = 286.0
+    HISCORE = 486
+
+    Candidate 14 Weights:[7.4, -7.4, 9.8, -5.7, 2.2, 3.9]
+         Candidate 14 Final Score: 108 Seed: 8
+         Candidate 14 Final Score: 163 Seed: 9
+         Candidate 14 Final Score: 88 Seed: 99
+         Candidate 14 Final Score: 57 Seed: 999
+         Candidate 14 Final Score: 64 Seed: 9999
+         Candidate 14 Final Score: 70 Seed: 9997
+    AVERAGE = 91.66666666666667
+    HISCORE = 163
+
+    Candidate 15 Weights:[0.5, 3.8, 9.0, -9.8, -3.8, -9.8]
+         Candidate 15 Final Score: 108 Seed: 8
+         Candidate 15 Final Score: 122 Seed: 9
+         Candidate 15 Final Score: 78 Seed: 99
+         Candidate 15 Final Score: 549 Seed: 999
+         Candidate 15 Final Score: 128 Seed: 9999
+         Candidate 15 Final Score: 111 Seed: 9997
+    AVERAGE = 182.66666666666666
+    HISCORE = 549
+
+    Candidate 16 Weights:[-2.2, 9.4, 9.6, 3.0, -6.6, -8.9]
+         Candidate 16 Final Score: 119 Seed: 8
+         Candidate 16 Final Score: 212 Seed: 9
+         Candidate 16 Final Score: 78 Seed: 99
+         Candidate 16 Final Score: 668 Seed: 999
+         Candidate 16 Final Score: 161 Seed: 9999
+         Candidate 16 Final Score: 70 Seed: 9997
+    AVERAGE = 218.0
+    HISCORE = 668
+
+    Candidate 17 Weights:[-5.2, -1.6, 2.3, -3.5, -1.1, 9.1]
+         Candidate 17 Final Score: 73 Seed: 8
+         Candidate 17 Final Score: 44 Seed: 9
+         Candidate 17 Final Score: 71 Seed: 99
+         Candidate 17 Final Score: 36 Seed: 999
+         Candidate 17 Final Score: 115 Seed: 9999
+         Candidate 17 Final Score: 66 Seed: 9997
+    AVERAGE = 67.5
+    HISCORE = 115
+
+    Candidate 18 Weights:[-4.4, -1.3, -2.3, 7.8, 2.5, 4.8]
+         Candidate 18 Final Score: 76 Seed: 8
+         Candidate 18 Final Score: 26 Seed: 9
+         Candidate 18 Final Score: 74 Seed: 99
+         Candidate 18 Final Score: 36 Seed: 999
+         Candidate 18 Final Score: 60 Seed: 9999
+         Candidate 18 Final Score: 58 Seed: 9997
+    AVERAGE = 55.0
+    HISCORE = 76
+
+    Candidate 19 Weights:[-0.9, 9.1, -4.5, 4.2, 6.5, 9.5]
+         Candidate 19 Final Score: 97 Seed: 8
+         Candidate 19 Final Score: 44 Seed: 9
+         Candidate 19 Final Score: 88 Seed: 99
+         Candidate 19 Final Score: 36 Seed: 999
+         Candidate 19 Final Score: 64 Seed: 9999
+         Candidate 19 Final Score: 80 Seed: 9997
+    AVERAGE = 68.16666666666667
+    HISCORE = 97
+
+    Candidate 20 Weights:[-9.7, -2.2, -2.4, 9.9, 0.1, 6.9]
+         Candidate 20 Final Score: 76 Seed: 8
+         Candidate 20 Final Score: 44 Seed: 9
+         Candidate 20 Final Score: 98 Seed: 99
+         Candidate 20 Final Score: 36 Seed: 999
+         Candidate 20 Final Score: 88 Seed: 9999
+         Candidate 20 Final Score: 66 Seed: 9997
+    AVERAGE = 68.0
+    HISCORE = 98
+
+Top performer of Generation 11
+NAME: Candidate 4
+WEIGHTS: [13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+HISCORE: 24107
+AVERAGE: 5533.333333333333
+
+Starting Generation 12
+    Candidate 1 Weights:[13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+    AVERAGE = 5533.333333333333
+    HISCORE = 24107
+
+    Candidate 2 Weights:[11.4, -0.5, 1.2, 4.4, 6.1, -0.4]
+    AVERAGE = 5416.0
+    HISCORE = 9042
+
+    Candidate 3 Weights:[12.2, -1.8, 0.6, 2.5, 5.5, -1.1]
+    AVERAGE = 2791.1666666666665
+    HISCORE = 9210
+
+    Candidate 4 Weights:[10.4, -1.8, 2.3, 6.9, 5.8, 0.0]
+         Candidate 4 Final Score: 500 Seed: 8
+         Candidate 4 Final Score: 1257 Seed: 9
+         Candidate 4 Final Score: 801 Seed: 99
+         Candidate 4 Final Score: 652 Seed: 999
+         Candidate 4 Final Score: 1444 Seed: 9999
+         Candidate 4 Final Score: 374 Seed: 9997
+    AVERAGE = 838.0
+    HISCORE = 1444
+
+    Candidate 5 Weights:[11.8, 0.8, 1.8, 5.3, 7.8, 1.4]
+         Candidate 5 Final Score: 66 Seed: 8
+         Candidate 5 Final Score: 88 Seed: 9
+         Candidate 5 Final Score: 103 Seed: 99
+         Candidate 5 Final Score: 81 Seed: 999
+         Candidate 5 Final Score: 106 Seed: 9999
+         Candidate 5 Final Score: 58 Seed: 9997
+    AVERAGE = 83.66666666666667
+    HISCORE = 106
+
+    Candidate 6 Weights:[11.8, -2.7, -0.6, 4.4, 3.5, -2.3]
+         Candidate 6 Final Score: 283 Seed: 8
+         Candidate 6 Final Score: 2030 Seed: 9
+         Candidate 6 Final Score: 174 Seed: 99
+         Candidate 6 Final Score: 852 Seed: 999
+         Candidate 6 Final Score: 739 Seed: 9999
+         Candidate 6 Final Score: 985 Seed: 9997
+    AVERAGE = 843.8333333333334
+    HISCORE = 2030
+
+    Candidate 7 Weights:[11.3, -2.7, 3.0, 3.3, 5.6, 0.5]
+         Candidate 7 Final Score: 183 Seed: 8
+         Candidate 7 Final Score: 182 Seed: 9
+         Candidate 7 Final Score: 164 Seed: 99
+         Candidate 7 Final Score: 410 Seed: 999
+         Candidate 7 Final Score: 288 Seed: 9999
+         Candidate 7 Final Score: 136 Seed: 9997
+    AVERAGE = 227.16666666666666
+    HISCORE = 410
+
+    Candidate 8 Weights:[12.2, 1.0, -1.8, 4.7, 5.8, -2.7]
+         Candidate 8 Final Score: 344 Seed: 8
+         Candidate 8 Final Score: 475 Seed: 9
+         Candidate 8 Final Score: 1921 Seed: 99
+         Candidate 8 Final Score: 670 Seed: 999
+         Candidate 8 Final Score: 269 Seed: 9999
+         Candidate 8 Final Score: 362 Seed: 9997
+    AVERAGE = 673.5
+    HISCORE = 1921
+
+    Candidate 9 Weights:[13.1, -2.0, 1.3, 3.9, 4.9, 0.4]
+         Candidate 9 Final Score: 202 Seed: 8
+         Candidate 9 Final Score: 142 Seed: 9
+         Candidate 9 Final Score: 84 Seed: 99
+         Candidate 9 Final Score: 125 Seed: 999
+         Candidate 9 Final Score: 101 Seed: 9999
+         Candidate 9 Final Score: 102 Seed: 9997
+    AVERAGE = 126.0
+    HISCORE = 202
+
+    Candidate 10 Weights:[9.7, -7.4, -7.9, -9.9, -7.4, 7.1]
+         Candidate 10 Final Score: 98 Seed: 8
+         Candidate 10 Final Score: 26 Seed: 9
+         Candidate 10 Final Score: 84 Seed: 99
+         Candidate 10 Final Score: 36 Seed: 999
+         Candidate 10 Final Score: 64 Seed: 9999
+         Candidate 10 Final Score: 81 Seed: 9997
+    AVERAGE = 64.83333333333333
+    HISCORE = 98
+
+    Candidate 11 Weights:[-7.7, -1.7, -6.4, -3.8, 9.4, -2.1]
+         Candidate 11 Final Score: 83 Seed: 8
+         Candidate 11 Final Score: 130 Seed: 9
+         Candidate 11 Final Score: 88 Seed: 99
+         Candidate 11 Final Score: 137 Seed: 999
+         Candidate 11 Final Score: 151 Seed: 9999
+         Candidate 11 Final Score: 102 Seed: 9997
+    AVERAGE = 115.16666666666667
+    HISCORE = 151
+
+    Candidate 12 Weights:[6.8, -5.2, 3.8, -4.0, -2.6, 3.1]
+         Candidate 12 Final Score: 87 Seed: 8
+         Candidate 12 Final Score: 44 Seed: 9
+         Candidate 12 Final Score: 113 Seed: 99
+         Candidate 12 Final Score: 36 Seed: 999
+         Candidate 12 Final Score: 64 Seed: 9999
+         Candidate 12 Final Score: 80 Seed: 9997
+    AVERAGE = 70.66666666666667
+    HISCORE = 113
+
+    Candidate 13 Weights:[-1.4, -0.1, -7.3, 3.7, 6.7, -1.6]
+         Candidate 13 Final Score: 149 Seed: 8
+         Candidate 13 Final Score: 26 Seed: 9
+         Candidate 13 Final Score: 188 Seed: 99
+         Candidate 13 Final Score: 67 Seed: 999
+         Candidate 13 Final Score: 52 Seed: 9999
+         Candidate 13 Final Score: 68 Seed: 9997
+    AVERAGE = 91.66666666666667
+    HISCORE = 188
+
+    Candidate 14 Weights:[-1.9, 9.5, -8.7, -4.2, -7.6, 3.8]
+         Candidate 14 Final Score: 45 Seed: 8
+         Candidate 14 Final Score: 70 Seed: 9
+         Candidate 14 Final Score: 52 Seed: 99
+         Candidate 14 Final Score: 36 Seed: 999
+         Candidate 14 Final Score: 105 Seed: 9999
+         Candidate 14 Final Score: 66 Seed: 9997
+    AVERAGE = 62.333333333333336
+    HISCORE = 105
+
+    Candidate 15 Weights:[4.1, -6.2, -3.2, -3.4, -0.8, 8.5]
+         Candidate 15 Final Score: 87 Seed: 8
+         Candidate 15 Final Score: 26 Seed: 9
+         Candidate 15 Final Score: 71 Seed: 99
+         Candidate 15 Final Score: 36 Seed: 999
+         Candidate 15 Final Score: 52 Seed: 9999
+         Candidate 15 Final Score: 87 Seed: 9997
+    AVERAGE = 59.833333333333336
+    HISCORE = 87
+
+    Candidate 16 Weights:[3.0, 1.8, 9.5, 2.4, 4.0, -7.2]
+         Candidate 16 Final Score: 488 Seed: 8
+         Candidate 16 Final Score: 906 Seed: 9
+         Candidate 16 Final Score: 229 Seed: 99
+         Candidate 16 Final Score: 925 Seed: 999
+         Candidate 16 Final Score: 193 Seed: 9999
+         Candidate 16 Final Score: 360 Seed: 9997
+    AVERAGE = 516.8333333333334
+    HISCORE = 925
+
+    Candidate 17 Weights:[-0.4, -9.5, -9.1, -3.3, 2.1, 5.5]
+         Candidate 17 Final Score: 66 Seed: 8
+         Candidate 17 Final Score: 26 Seed: 9
+         Candidate 17 Final Score: 84 Seed: 99
+         Candidate 17 Final Score: 36 Seed: 999
+         Candidate 17 Final Score: 64 Seed: 9999
+         Candidate 17 Final Score: 81 Seed: 9997
+    AVERAGE = 59.5
+    HISCORE = 84
+
+    Candidate 18 Weights:[-6.3, -6.1, -1.7, -9.5, 4.7, 9.9]
+         Candidate 18 Final Score: 87 Seed: 8
+         Candidate 18 Final Score: 26 Seed: 9
+         Candidate 18 Final Score: 71 Seed: 99
+         Candidate 18 Final Score: 36 Seed: 999
+         Candidate 18 Final Score: 52 Seed: 9999
+         Candidate 18 Final Score: 71 Seed: 9997
+    AVERAGE = 57.166666666666664
+    HISCORE = 87
+
+    Candidate 19 Weights:[-7.8, -9.8, 3.3, -5.3, 9.7, 8.5]
+         Candidate 19 Final Score: 87 Seed: 8
+         Candidate 19 Final Score: 26 Seed: 9
+         Candidate 19 Final Score: 88 Seed: 99
+         Candidate 19 Final Score: 36 Seed: 999
+         Candidate 19 Final Score: 64 Seed: 9999
+         Candidate 19 Final Score: 126 Seed: 9997
+    AVERAGE = 71.16666666666667
+    HISCORE = 126
+
+    Candidate 20 Weights:[4.3, -0.8, -2.6, 5.7, 5.0, 8.2]
+         Candidate 20 Final Score: 87 Seed: 8
+         Candidate 20 Final Score: 26 Seed: 9
+         Candidate 20 Final Score: 81 Seed: 99
+         Candidate 20 Final Score: 36 Seed: 999
+         Candidate 20 Final Score: 52 Seed: 9999
+         Candidate 20 Final Score: 66 Seed: 9997
+    AVERAGE = 58.0
+    HISCORE = 87
+
+Top performer of Generation 12
+NAME: Candidate 1
+WEIGHTS: [13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+HISCORE: 24107
+AVERAGE: 5533.333333333333
+
+Starting Generation 13
+    Candidate 1 Weights:[13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+    AVERAGE = 5533.333333333333
+    HISCORE = 24107
+
+    Candidate 2 Weights:[11.4, -0.5, 1.2, 4.4, 6.1, -0.4]
+    AVERAGE = 5416.0
+    HISCORE = 9042
+
+    Candidate 3 Weights:[12.2, -1.8, 0.6, 2.5, 5.5, -1.1]
+    AVERAGE = 2791.1666666666665
+    HISCORE = 9210
+
+    Candidate 4 Weights:[12.7, 0.5, 0.1, 6.2, 5.5, 0.5]
+         Candidate 4 Final Score: 66 Seed: 8
+         Candidate 4 Final Score: 44 Seed: 9
+         Candidate 4 Final Score: 52 Seed: 99
+         Candidate 4 Final Score: 57 Seed: 999
+         Candidate 4 Final Score: 105 Seed: 9999
+         Candidate 4 Final Score: 66 Seed: 9997
+    AVERAGE = 65.0
+    HISCORE = 105
+
+    Candidate 5 Weights:[10.3, 0.6, 0.7, 5.2, 5.1, -1.7]
+         Candidate 5 Final Score: 777 Seed: 8
+         Candidate 5 Final Score: 455 Seed: 9
+         Candidate 5 Final Score: 1891 Seed: 99
+         Candidate 5 Final Score: 3230 Seed: 999
+         Candidate 5 Final Score: 1279 Seed: 9999
+         Candidate 5 Final Score: 1273 Seed: 9997
+    AVERAGE = 1484.1666666666667
+    HISCORE = 3230
+
+    Candidate 6 Weights:[13.0, -3.0, 1.6, 3.8, 5.1, -1.3]
+         Candidate 6 Final Score: 1055 Seed: 8
+         Candidate 6 Final Score: 3074 Seed: 9
+         Candidate 6 Final Score: 3669 Seed: 99
+         Candidate 6 Final Score: 2718 Seed: 999
+         Candidate 6 Final Score: 1464 Seed: 9999
+         Candidate 6 Final Score: 1402 Seed: 9997
+    AVERAGE = 2230.3333333333335
+    HISCORE = 3669
+
+    Candidate 7 Weights:[11.0, 0.8, -2.3, 4.1, 6.8, 0.0]
+         Candidate 7 Final Score: 76 Seed: 8
+         Candidate 7 Final Score: 88 Seed: 9
+         Candidate 7 Final Score: 88 Seed: 99
+         Candidate 7 Final Score: 36 Seed: 999
+         Candidate 7 Final Score: 52 Seed: 9999
+         Candidate 7 Final Score: 66 Seed: 9997
+    AVERAGE = 67.66666666666667
+    HISCORE = 88
+
+    Candidate 8 Weights:[14.9, 2.1, -0.7, 7.5, 5.1, -2.9]
+         Candidate 8 Final Score: 1117 Seed: 8
+         Candidate 8 Final Score: 426 Seed: 9
+         Candidate 8 Final Score: 2065 Seed: 99
+         Candidate 8 Final Score: 252 Seed: 999
+         Candidate 8 Final Score: 4324 Seed: 9999
+         Candidate 8 Final Score: 198 Seed: 9997
+    AVERAGE = 1397.0
+    HISCORE = 4324
+
+    Candidate 9 Weights:[11.5, 2.1, -2.6, 2.3, 6.0, 2.0]
+         Candidate 9 Final Score: 56 Seed: 8
+         Candidate 9 Final Score: 44 Seed: 9
+         Candidate 9 Final Score: 62 Seed: 99
+         Candidate 9 Final Score: 36 Seed: 999
+         Candidate 9 Final Score: 128 Seed: 9999
+         Candidate 9 Final Score: 80 Seed: 9997
+    AVERAGE = 67.66666666666667
+    HISCORE = 128
+
+    Candidate 10 Weights:[2.6, 6.1, 9.9, 8.7, 1.2, 5.7]
+         Candidate 10 Final Score: 56 Seed: 8
+         Candidate 10 Final Score: 85 Seed: 9
+         Candidate 10 Final Score: 52 Seed: 99
+         Candidate 10 Final Score: 85 Seed: 999
+         Candidate 10 Final Score: 52 Seed: 9999
+         Candidate 10 Final Score: 121 Seed: 9997
+    AVERAGE = 75.16666666666667
+    HISCORE = 121
+
+    Candidate 11 Weights:[4.2, -9.8, 5.2, 3.0, -9.8, 1.8]
+         Candidate 11 Final Score: 76 Seed: 8
+         Candidate 11 Final Score: 44 Seed: 9
+         Candidate 11 Final Score: 88 Seed: 99
+         Candidate 11 Final Score: 36 Seed: 999
+         Candidate 11 Final Score: 64 Seed: 9999
+         Candidate 11 Final Score: 66 Seed: 9997
+    AVERAGE = 62.333333333333336
+    HISCORE = 88
+
+    Candidate 12 Weights:[-3.3, -1.5, -3.3, -6.4, -2.3, 0.8]
+         Candidate 12 Final Score: 76 Seed: 8
+         Candidate 12 Final Score: 44 Seed: 9
+         Candidate 12 Final Score: 71 Seed: 99
+         Candidate 12 Final Score: 36 Seed: 999
+         Candidate 12 Final Score: 91 Seed: 9999
+         Candidate 12 Final Score: 80 Seed: 9997
+    AVERAGE = 66.33333333333333
+    HISCORE = 91
+
+    Candidate 13 Weights:[-7.0, 7.6, 9.0, 2.7, -3.4, -3.6]
+         Candidate 13 Final Score: 299 Seed: 8
+         Candidate 13 Final Score: 122 Seed: 9
+         Candidate 13 Final Score: 78 Seed: 99
+         Candidate 13 Final Score: 94 Seed: 999
+         Candidate 13 Final Score: 95 Seed: 9999
+         Candidate 13 Final Score: 70 Seed: 9997
+    AVERAGE = 126.33333333333333
+    HISCORE = 299
+
+    Candidate 14 Weights:[1.0, 8.4, -0.8, 0.5, 3.4, 4.0]
+         Candidate 14 Final Score: 56 Seed: 8
+         Candidate 14 Final Score: 44 Seed: 9
+         Candidate 14 Final Score: 74 Seed: 99
+         Candidate 14 Final Score: 85 Seed: 999
+         Candidate 14 Final Score: 52 Seed: 9999
+         Candidate 14 Final Score: 58 Seed: 9997
+    AVERAGE = 61.5
+    HISCORE = 85
+
+    Candidate 15 Weights:[3.9, -9.9, 5.7, -2.6, -6.7, 0.7]
+         Candidate 15 Final Score: 187 Seed: 8
+         Candidate 15 Final Score: 142 Seed: 9
+         Candidate 15 Final Score: 113 Seed: 99
+         Candidate 15 Final Score: 135 Seed: 999
+         Candidate 15 Final Score: 106 Seed: 9999
+         Candidate 15 Final Score: 121 Seed: 9997
+    AVERAGE = 134.0
+    HISCORE = 187
+
+    Candidate 16 Weights:[1.5, 2.3, -8.8, 3.2, 6.8, 8.9]
+         Candidate 16 Final Score: 56 Seed: 8
+         Candidate 16 Final Score: 44 Seed: 9
+         Candidate 16 Final Score: 88 Seed: 99
+         Candidate 16 Final Score: 36 Seed: 999
+         Candidate 16 Final Score: 64 Seed: 9999
+         Candidate 16 Final Score: 80 Seed: 9997
+    AVERAGE = 61.333333333333336
+    HISCORE = 88
+
+    Candidate 17 Weights:[2.2, 6.1, -5.3, -9.1, -9.3, 8.8]
+         Candidate 17 Final Score: 56 Seed: 8
+         Candidate 17 Final Score: 44 Seed: 9
+         Candidate 17 Final Score: 88 Seed: 99
+         Candidate 17 Final Score: 36 Seed: 999
+         Candidate 17 Final Score: 64 Seed: 9999
+         Candidate 17 Final Score: 80 Seed: 9997
+    AVERAGE = 61.333333333333336
+    HISCORE = 88
+
+    Candidate 18 Weights:[-8.5, 8.8, -2.3, 8.3, 1.4, 5.3]
+         Candidate 18 Final Score: 56 Seed: 8
+         Candidate 18 Final Score: 44 Seed: 9
+         Candidate 18 Final Score: 74 Seed: 99
+         Candidate 18 Final Score: 85 Seed: 999
+         Candidate 18 Final Score: 123 Seed: 9999
+         Candidate 18 Final Score: 58 Seed: 9997
+    AVERAGE = 73.33333333333333
+    HISCORE = 123
+
+    Candidate 19 Weights:[4.1, 4.0, -8.3, 0.4, 8.2, 9.3]
+         Candidate 19 Final Score: 56 Seed: 8
+         Candidate 19 Final Score: 44 Seed: 9
+         Candidate 19 Final Score: 52 Seed: 99
+         Candidate 19 Final Score: 36 Seed: 999
+         Candidate 19 Final Score: 64 Seed: 9999
+         Candidate 19 Final Score: 70 Seed: 9997
+    AVERAGE = 53.666666666666664
+    HISCORE = 70
+
+    Candidate 20 Weights:[4.8, -10.0, 8.3, -0.5, -1.9, 0.8]
+         Candidate 20 Final Score: 187 Seed: 8
+         Candidate 20 Final Score: 228 Seed: 9
+         Candidate 20 Final Score: 133 Seed: 99
+         Candidate 20 Final Score: 172 Seed: 999
+         Candidate 20 Final Score: 278 Seed: 9999
+         Candidate 20 Final Score: 136 Seed: 9997
+    AVERAGE = 189.0
+    HISCORE = 278
+
+Top performer of Generation 13
+NAME: Candidate 1
+WEIGHTS: [13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+HISCORE: 24107
+AVERAGE: 5533.333333333333
+
+Starting Generation 14
+    Candidate 1 Weights:[13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+    AVERAGE = 5533.333333333333
+    HISCORE = 24107
+
+    Candidate 2 Weights:[11.4, -0.5, 1.2, 4.4, 6.1, -0.4]
+    AVERAGE = 5416.0
+    HISCORE = 9042
+
+    Candidate 3 Weights:[12.2, -1.8, 0.6, 2.5, 5.5, -1.1]
+    AVERAGE = 2791.1666666666665
+    HISCORE = 9210
+
+    Candidate 4 Weights:[12.7, -0.8, 0.0, 5.9, 6.5, -2.2]
+         Candidate 4 Final Score: 534 Seed: 8
+         Candidate 4 Final Score: 1015 Seed: 9
+         Candidate 4 Final Score: 1886 Seed: 99
+         Candidate 4 Final Score: 273 Seed: 999
+         Candidate 4 Final Score: 6579 Seed: 9999
+         Candidate 4 Final Score: 1129 Seed: 9997
+    AVERAGE = 1902.6666666666667
+    HISCORE = 6579
+
+    Candidate 5 Weights:[11.3, -1.8, -0.6, 0.9, 5.5, 0.1]
+         Candidate 5 Final Score: 139 Seed: 8
+         Candidate 5 Final Score: 26 Seed: 9
+         Candidate 5 Final Score: 88 Seed: 99
+         Candidate 5 Final Score: 104 Seed: 999
+         Candidate 5 Final Score: 106 Seed: 9999
+         Candidate 5 Final Score: 70 Seed: 9997
+    AVERAGE = 88.83333333333333
+    HISCORE = 139
+
+    Candidate 6 Weights:[13.9, -0.2, -2.2, 2.1, 4.6, -1.0]
+         Candidate 6 Final Score: 1515 Seed: 8
+         Candidate 6 Final Score: 295 Seed: 9
+         Candidate 6 Final Score: 1773 Seed: 99
+         Candidate 6 Final Score: 1263 Seed: 999
+         Candidate 6 Final Score: 529 Seed: 9999
+         Candidate 6 Final Score: 1088 Seed: 9997
+    AVERAGE = 1077.1666666666667
+    HISCORE = 1773
+
+    Candidate 7 Weights:[12.2, 1.3, 1.4, 6.3, 3.2, -2.1]
+         Candidate 7 Final Score: 1057 Seed: 8
+         Candidate 7 Final Score: 540 Seed: 9
+         Candidate 7 Final Score: 700 Seed: 99
+         Candidate 7 Final Score: 1709 Seed: 999
+         Candidate 7 Final Score: 2032 Seed: 9999
+         Candidate 7 Final Score: 658 Seed: 9997
+    AVERAGE = 1116.0
+    HISCORE = 2032
+
+    Candidate 8 Weights:[12.1, -0.4, 1.3, 6.3, 6.4, -1.0]
+         Candidate 8 Final Score: 356 Seed: 8
+         Candidate 8 Final Score: 5444 Seed: 9
+         Candidate 8 Final Score: 1945 Seed: 99
+         Candidate 8 Final Score: 1299 Seed: 999
+         Candidate 8 Final Score: 3158 Seed: 9999
+         Candidate 8 Final Score: 3734 Seed: 9997
+    AVERAGE = 2656.0
+    HISCORE = 5444
+
+    Candidate 9 Weights:[12.1, -0.1, 0.4, 6.4, 2.8, -2.6]
+         Candidate 9 Final Score: 1107 Seed: 8
+         Candidate 9 Final Score: 699 Seed: 9
+         Candidate 9 Final Score: 2104 Seed: 99
+         Candidate 9 Final Score: 549 Seed: 999
+         Candidate 9 Final Score: 2067 Seed: 9999
+         Candidate 9 Final Score: 415 Seed: 9997
+    AVERAGE = 1156.8333333333333
+    HISCORE = 2104
+
+    Candidate 10 Weights:[-4.0, 1.1, -5.0, -0.4, -2.1, -2.7]
+         Candidate 10 Final Score: 128 Seed: 8
+         Candidate 10 Final Score: 325 Seed: 9
+         Candidate 10 Final Score: 161 Seed: 99
+         Candidate 10 Final Score: 125 Seed: 999
+         Candidate 10 Final Score: 497 Seed: 9999
+         Candidate 10 Final Score: 185 Seed: 9997
+    AVERAGE = 236.83333333333334
+    HISCORE = 497
+
+    Candidate 11 Weights:[0.8, 1.4, 10.0, -9.2, 2.2, -9.0]
+         Candidate 11 Final Score: 108 Seed: 8
+         Candidate 11 Final Score: 322 Seed: 9
+         Candidate 11 Final Score: 78 Seed: 99
+         Candidate 11 Final Score: 765 Seed: 999
+         Candidate 11 Final Score: 183 Seed: 9999
+         Candidate 11 Final Score: 111 Seed: 9997
+    AVERAGE = 261.1666666666667
+    HISCORE = 765
+
+    Candidate 12 Weights:[-1.4, 5.1, -8.9, 9.5, -4.1, 1.1]
+         Candidate 12 Final Score: 56 Seed: 8
+         Candidate 12 Final Score: 44 Seed: 9
+         Candidate 12 Final Score: 52 Seed: 99
+         Candidate 12 Final Score: 36 Seed: 999
+         Candidate 12 Final Score: 52 Seed: 9999
+         Candidate 12 Final Score: 66 Seed: 9997
+    AVERAGE = 51.0
+    HISCORE = 66
+
+    Candidate 13 Weights:[0.9, 7.0, -4.1, 1.5, 4.6, -3.8]
+         Candidate 13 Final Score: 248 Seed: 8
+         Candidate 13 Final Score: 232 Seed: 9
+         Candidate 13 Final Score: 179 Seed: 99
+         Candidate 13 Final Score: 115 Seed: 999
+         Candidate 13 Final Score: 210 Seed: 9999
+         Candidate 13 Final Score: 145 Seed: 9997
+    AVERAGE = 188.16666666666666
+    HISCORE = 248
+
+    Candidate 14 Weights:[-3.4, 9.1, 6.1, -2.6, -3.6, -8.5]
+         Candidate 14 Final Score: 323 Seed: 8
+         Candidate 14 Final Score: 142 Seed: 9
+         Candidate 14 Final Score: 107 Seed: 99
+         Candidate 14 Final Score: 255 Seed: 999
+         Candidate 14 Final Score: 212 Seed: 9999
+         Candidate 14 Final Score: 70 Seed: 9997
+    AVERAGE = 184.83333333333334
+    HISCORE = 323
+
+    Candidate 15 Weights:[-9.9, 2.5, -4.0, -4.4, 4.8, 2.3]
+         Candidate 15 Final Score: 87 Seed: 8
+         Candidate 15 Final Score: 70 Seed: 9
+         Candidate 15 Final Score: 52 Seed: 99
+         Candidate 15 Final Score: 36 Seed: 999
+         Candidate 15 Final Score: 64 Seed: 9999
+         Candidate 15 Final Score: 66 Seed: 9997
+    AVERAGE = 62.5
+    HISCORE = 87
+
+    Candidate 16 Weights:[-1.4, 4.9, 8.8, 3.1, -8.8, -2.2]
+         Candidate 16 Final Score: 119 Seed: 8
+         Candidate 16 Final Score: 258 Seed: 9
+         Candidate 16 Final Score: 78 Seed: 99
+         Candidate 16 Final Score: 796 Seed: 999
+         Candidate 16 Final Score: 156 Seed: 9999
+         Candidate 16 Final Score: 70 Seed: 9997
+    AVERAGE = 246.16666666666666
+    HISCORE = 796
+
+    Candidate 17 Weights:[-3.0, -1.4, -7.3, 8.3, -4.1, 0.6]
+         Candidate 17 Final Score: 76 Seed: 8
+         Candidate 17 Final Score: 26 Seed: 9
+         Candidate 17 Final Score: 71 Seed: 99
+         Candidate 17 Final Score: 36 Seed: 999
+         Candidate 17 Final Score: 91 Seed: 9999
+         Candidate 17 Final Score: 80 Seed: 9997
+    AVERAGE = 63.333333333333336
+    HISCORE = 91
+
+    Candidate 18 Weights:[8.5, -2.7, -2.7, 0.4, 3.6, 1.2]
+         Candidate 18 Final Score: 66 Seed: 8
+         Candidate 18 Final Score: 26 Seed: 9
+         Candidate 18 Final Score: 89 Seed: 99
+         Candidate 18 Final Score: 36 Seed: 999
+         Candidate 18 Final Score: 64 Seed: 9999
+         Candidate 18 Final Score: 81 Seed: 9997
+    AVERAGE = 60.333333333333336
+    HISCORE = 89
+
+    Candidate 19 Weights:[2.4, -2.7, 1.0, 6.8, 3.0, -3.7]
+         Candidate 19 Final Score: 466 Seed: 8
+         Candidate 19 Final Score: 440 Seed: 9
+         Candidate 19 Final Score: 1533 Seed: 99
+         Candidate 19 Final Score: 242 Seed: 999
+         Candidate 19 Final Score: 141 Seed: 9999
+         Candidate 19 Final Score: 135 Seed: 9997
+    AVERAGE = 492.8333333333333
+    HISCORE = 1533
+
+    Candidate 20 Weights:[-4.6, 6.3, -7.3, 3.9, 6.8, 2.3]
+         Candidate 20 Final Score: 45 Seed: 8
+         Candidate 20 Final Score: 70 Seed: 9
+         Candidate 20 Final Score: 88 Seed: 99
+         Candidate 20 Final Score: 36 Seed: 999
+         Candidate 20 Final Score: 64 Seed: 9999
+         Candidate 20 Final Score: 66 Seed: 9997
+    AVERAGE = 61.5
+    HISCORE = 88
+
+Top performer of Generation 14
+NAME: Candidate 1
+WEIGHTS: [13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+HISCORE: 24107
+AVERAGE: 5533.333333333333
+
+Starting Generation 15
+    Candidate 1 Weights:[13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+    AVERAGE = 5533.333333333333
+    HISCORE = 24107
+
+    Candidate 2 Weights:[11.4, -0.5, 1.2, 4.4, 6.1, -0.4]
+    AVERAGE = 5416.0
+    HISCORE = 9042
+
+    Candidate 3 Weights:[12.2, -1.8, 0.6, 2.5, 5.5, -1.1]
+    AVERAGE = 2791.1666666666665
+    HISCORE = 9210
+
+    Candidate 4 Weights:[10.5, 0.7, 0.9, 4.3, 3.6, -1.4]
+         Candidate 4 Final Score: 544 Seed: 8
+         Candidate 4 Final Score: 1025 Seed: 9
+         Candidate 4 Final Score: 1916 Seed: 99
+         Candidate 4 Final Score: 902 Seed: 999
+         Candidate 4 Final Score: 1952 Seed: 9999
+         Candidate 4 Final Score: 3066 Seed: 9997
+    AVERAGE = 1567.5
+    HISCORE = 3066
+
+    Candidate 5 Weights:[10.8, -2.3, -0.7, 5.8, 7.6, 1.6]
+         Candidate 5 Final Score: 66 Seed: 8
+         Candidate 5 Final Score: 26 Seed: 9
+         Candidate 5 Final Score: 84 Seed: 99
+         Candidate 5 Final Score: 36 Seed: 999
+         Candidate 5 Final Score: 64 Seed: 9999
+         Candidate 5 Final Score: 80 Seed: 9997
+    AVERAGE = 59.333333333333336
+    HISCORE = 84
+
+    Candidate 6 Weights:[14.2, -2.1, 0.7, 0.8, 3.1, -1.4]
+         Candidate 6 Final Score: 3118 Seed: 8
+         Candidate 6 Final Score: 3892 Seed: 9
+         Candidate 6 Final Score: 2643 Seed: 99
+         Candidate 6 Final Score: 795 Seed: 999
+         Candidate 6 Final Score: 1429 Seed: 9999
+         Candidate 6 Final Score: 395 Seed: 9997
+    AVERAGE = 2045.3333333333333
+    HISCORE = 3892
+
+    Candidate 7 Weights:[10.2, 1.5, 0.2, 7.7, 7.2, -1.0]
+         Candidate 7 Final Score: 470 Seed: 8
+         Candidate 7 Final Score: 689 Seed: 9
+         Candidate 7 Final Score: 5120 Seed: 99
+         Candidate 7 Final Score: 671 Seed: 999
+         Candidate 7 Final Score: 3324 Seed: 9999
+         Candidate 7 Final Score: 264 Seed: 9997
+    AVERAGE = 1756.3333333333333
+    HISCORE = 5120
+
+    Candidate 8 Weights:[11.7, -1.3, -0.5, 7.1, 7.1, -2.9]
+         Candidate 8 Final Score: 373 Seed: 8
+         Candidate 8 Final Score: 684 Seed: 9
+         Candidate 8 Final Score: 179 Seed: 99
+         Candidate 8 Final Score: 439 Seed: 999
+         Candidate 8 Final Score: 158 Seed: 9999
+         Candidate 8 Final Score: 751 Seed: 9997
+    AVERAGE = 430.6666666666667
+    HISCORE = 751
+
+    Candidate 9 Weights:[10.2, 2.1, 1.5, 9.3, 7.8, 0.1]
+         Candidate 9 Final Score: 496 Seed: 8
+         Candidate 9 Final Score: 2008 Seed: 9
+         Candidate 9 Final Score: 1811 Seed: 99
+         Candidate 9 Final Score: 8655 Seed: 999
+         Candidate 9 Final Score: 2903 Seed: 9999
+         Candidate 9 Final Score: 8850 Seed: 9997
+    AVERAGE = 4120.5
+    HISCORE = 8850
+
+    Candidate 10 Weights:[-5.3, -7.5, -0.3, -8.4, 9.4, 8.0]
+         Candidate 10 Final Score: 87 Seed: 8
+         Candidate 10 Final Score: 26 Seed: 9
+         Candidate 10 Final Score: 74 Seed: 99
+         Candidate 10 Final Score: 36 Seed: 999
+         Candidate 10 Final Score: 123 Seed: 9999
+         Candidate 10 Final Score: 71 Seed: 9997
+    AVERAGE = 69.5
+    HISCORE = 123
+
+    Candidate 11 Weights:[-5.8, 9.2, -5.5, 6.6, 0.5, -8.8]
+         Candidate 11 Final Score: 108 Seed: 8
+         Candidate 11 Final Score: 213 Seed: 9
+         Candidate 11 Final Score: 279 Seed: 99
+         Candidate 11 Final Score: 294 Seed: 999
+         Candidate 11 Final Score: 95 Seed: 9999
+         Candidate 11 Final Score: 198 Seed: 9997
+    AVERAGE = 197.83333333333334
+    HISCORE = 294
+
+    Candidate 12 Weights:[-5.5, -5.5, 3.9, -3.6, 4.8, 5.8]
+         Candidate 12 Final Score: 103 Seed: 8
+         Candidate 12 Final Score: 44 Seed: 9
+         Candidate 12 Final Score: 74 Seed: 99
+         Candidate 12 Final Score: 36 Seed: 999
+         Candidate 12 Final Score: 101 Seed: 9999
+         Candidate 12 Final Score: 188 Seed: 9997
+    AVERAGE = 91.0
+    HISCORE = 188
+
+    Candidate 13 Weights:[-2.1, -3.8, 3.7, -2.1, -5.3, -5.5]
+         Candidate 13 Final Score: 506 Seed: 8
+         Candidate 13 Final Score: 355 Seed: 9
+         Candidate 13 Final Score: 488 Seed: 99
+         Candidate 13 Final Score: 115 Seed: 999
+         Candidate 13 Final Score: 235 Seed: 9999
+         Candidate 13 Final Score: 183 Seed: 9997
+    AVERAGE = 313.6666666666667
+    HISCORE = 506
+
+    Candidate 14 Weights:[5.2, -6.8, -4.1, -6.5, -10.0, -5.3]
+         Candidate 14 Final Score: 298 Seed: 8
+         Candidate 14 Final Score: 786 Seed: 9
+         Candidate 14 Final Score: 154 Seed: 99
+         Candidate 14 Final Score: 730 Seed: 999
+         Candidate 14 Final Score: 381 Seed: 9999
+         Candidate 14 Final Score: 364 Seed: 9997
+    AVERAGE = 452.1666666666667
+    HISCORE = 786
+
+    Candidate 15 Weights:[-2.9, 0.8, 5.4, -2.2, 6.0, 8.7]
+         Candidate 15 Final Score: 63 Seed: 8
+         Candidate 15 Final Score: 44 Seed: 9
+         Candidate 15 Final Score: 74 Seed: 99
+         Candidate 15 Final Score: 36 Seed: 999
+         Candidate 15 Final Score: 74 Seed: 9999
+         Candidate 15 Final Score: 66 Seed: 9997
+    AVERAGE = 59.5
+    HISCORE = 74
+
+    Candidate 16 Weights:[5.7, -8.0, -5.4, -7.8, -1.9, 6.7]
+         Candidate 16 Final Score: 66 Seed: 8
+         Candidate 16 Final Score: 44 Seed: 9
+         Candidate 16 Final Score: 71 Seed: 99
+         Candidate 16 Final Score: 36 Seed: 999
+         Candidate 16 Final Score: 52 Seed: 9999
+         Candidate 16 Final Score: 97 Seed: 9997
+    AVERAGE = 61.0
+    HISCORE = 97
+
+    Candidate 17 Weights:[2.0, 0.6, -2.8, 1.7, -1.3, -5.8]
+         Candidate 17 Final Score: 202 Seed: 8
+         Candidate 17 Final Score: 856 Seed: 9
+         Candidate 17 Final Score: 409 Seed: 99
+         Candidate 17 Final Score: 519 Seed: 999
+         Candidate 17 Final Score: 319 Seed: 9999
+         Candidate 17 Final Score: 183 Seed: 9997
+    AVERAGE = 414.6666666666667
+    HISCORE = 856
+
+    Candidate 18 Weights:[2.9, -0.6, 5.3, -2.9, 1.8, 0.0]
+         Candidate 18 Final Score: 813 Seed: 8
+         Candidate 18 Final Score: 1654 Seed: 9
+         Candidate 18 Final Score: 488 Seed: 99
+         Candidate 18 Final Score: 732 Seed: 999
+         Candidate 18 Final Score: 308 Seed: 9999
+         Candidate 18 Final Score: 429 Seed: 9997
+    AVERAGE = 737.3333333333334
+    HISCORE = 1654
+
+    Candidate 19 Weights:[-8.0, 9.2, 5.0, 0.0, -5.8, -8.2]
+         Candidate 19 Final Score: 353 Seed: 8
+         Candidate 19 Final Score: 305 Seed: 9
+         Candidate 19 Final Score: 194 Seed: 99
+         Candidate 19 Final Score: 859 Seed: 999
+         Candidate 19 Final Score: 193 Seed: 9999
+         Candidate 19 Final Score: 70 Seed: 9997
+    AVERAGE = 329.0
+    HISCORE = 859
+
+    Candidate 20 Weights:[-2.5, 9.3, 9.2, -4.4, -0.3, 0.4]
+         Candidate 20 Final Score: 121 Seed: 8
+         Candidate 20 Final Score: 218 Seed: 9
+         Candidate 20 Final Score: 78 Seed: 99
+         Candidate 20 Final Score: 115 Seed: 999
+         Candidate 20 Final Score: 64 Seed: 9999
+         Candidate 20 Final Score: 70 Seed: 9997
+    AVERAGE = 111.0
+    HISCORE = 218
+
+Top performer of Generation 15
+NAME: Candidate 1
+WEIGHTS: [13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+HISCORE: 24107
+AVERAGE: 5533.333333333333
+
+Starting Generation 16
+    Candidate 1 Weights:[13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+    AVERAGE = 5533.333333333333
+    HISCORE = 24107
+
+    Candidate 2 Weights:[11.4, -0.5, 1.2, 4.4, 6.1, -0.4]
+    AVERAGE = 5416.0
+    HISCORE = 9042
+
+    Candidate 3 Weights:[10.2, 2.1, 1.5, 9.3, 7.8, 0.1]
+    AVERAGE = 4120.5
+    HISCORE = 8850
+
+    Candidate 4 Weights:[12.6, 1.8, -0.9, 3.9, 4.8, 0.1]
+         Candidate 4 Final Score: 155 Seed: 8
+         Candidate 4 Final Score: 98 Seed: 9
+         Candidate 4 Final Score: 42 Seed: 99
+         Candidate 4 Final Score: 95 Seed: 999
+         Candidate 4 Final Score: 52 Seed: 9999
+         Candidate 4 Final Score: 132 Seed: 9997
+    AVERAGE = 95.66666666666667
+    HISCORE = 155
+
+    Candidate 5 Weights:[9.7, 0.9, 2.0, 10.8, 7.0, 0.9]
+         Candidate 5 Final Score: 118 Seed: 8
+         Candidate 5 Final Score: 98 Seed: 9
+         Candidate 5 Final Score: 103 Seed: 99
+         Candidate 5 Final Score: 77 Seed: 999
+         Candidate 5 Final Score: 105 Seed: 9999
+         Candidate 5 Final Score: 121 Seed: 9997
+    AVERAGE = 103.66666666666667
+    HISCORE = 121
+
+    Candidate 6 Weights:[9.2, 2.3, -1.8, 5.2, 6.7, -1.5]
+         Candidate 6 Final Score: 540 Seed: 8
+         Candidate 6 Final Score: 1667 Seed: 9
+         Candidate 6 Final Score: 844 Seed: 99
+         Candidate 6 Final Score: 1810 Seed: 999
+         Candidate 6 Final Score: 850 Seed: 9999
+         Candidate 6 Final Score: 784 Seed: 9997
+    AVERAGE = 1082.5
+    HISCORE = 1810
+
+    Candidate 7 Weights:[14.9, 0.8, 3.0, 4.3, 3.5, -0.9]
+         Candidate 7 Final Score: 346 Seed: 8
+         Candidate 7 Final Score: 2834 Seed: 9
+         Candidate 7 Final Score: 5423 Seed: 99
+         Candidate 7 Final Score: 1423 Seed: 999
+         Candidate 7 Final Score: 338 Seed: 9999
+         Candidate 7 Final Score: 277 Seed: 9997
+    AVERAGE = 1773.5
+    HISCORE = 5423
+
+    Candidate 8 Weights:[12.1, -0.1, -2.1, 5.2, 5.1, -2.2]
+         Candidate 8 Final Score: 287 Seed: 8
+         Candidate 8 Final Score: 892 Seed: 9
+         Candidate 8 Final Score: 794 Seed: 99
+         Candidate 8 Final Score: 215 Seed: 999
+         Candidate 8 Final Score: 2751 Seed: 9999
+         Candidate 8 Final Score: 2253 Seed: 9997
+    AVERAGE = 1198.6666666666667
+    HISCORE = 2751
+
+    Candidate 9 Weights:[15.4, 2.1, 2.4, 4.8, 5.5, -0.8]
+         Candidate 9 Final Score: 7382 Seed: 8
+         Candidate 9 Final Score: 1338 Seed: 9
+         Candidate 9 Final Score: 6335 Seed: 99
+         Candidate 9 Final Score: 3765 Seed: 999
+         Candidate 9 Final Score: 4099 Seed: 9999
+         Candidate 9 Final Score: 3095 Seed: 9997
+    AVERAGE = 4335.666666666667
+    HISCORE = 7382
+
+    Candidate 10 Weights:[3.5, 8.9, -1.7, -1.2, -4.2, 5.0]
+         Candidate 10 Final Score: 56 Seed: 8
+         Candidate 10 Final Score: 44 Seed: 9
+         Candidate 10 Final Score: 74 Seed: 99
+         Candidate 10 Final Score: 57 Seed: 999
+         Candidate 10 Final Score: 65 Seed: 9999
+         Candidate 10 Final Score: 58 Seed: 9997
+    AVERAGE = 59.0
+    HISCORE = 74
+
+    Candidate 11 Weights:[7.9, -3.5, 10.0, 6.8, 1.4, 0.9]
+         Candidate 11 Final Score: 430 Seed: 8
+         Candidate 11 Final Score: 426 Seed: 9
+         Candidate 11 Final Score: 656 Seed: 99
+         Candidate 11 Final Score: 409 Seed: 999
+         Candidate 11 Final Score: 202 Seed: 9999
+         Candidate 11 Final Score: 505 Seed: 9997
+    AVERAGE = 438.0
+    HISCORE = 656
+
+    Candidate 12 Weights:[-7.2, -6.2, -1.9, 5.9, 0.4, 4.0]
+         Candidate 12 Final Score: 66 Seed: 8
+         Candidate 12 Final Score: 26 Seed: 9
+         Candidate 12 Final Score: 88 Seed: 99
+         Candidate 12 Final Score: 36 Seed: 999
+         Candidate 12 Final Score: 52 Seed: 9999
+         Candidate 12 Final Score: 71 Seed: 9997
+    AVERAGE = 56.5
+    HISCORE = 88
+
+    Candidate 13 Weights:[-2.5, 0.8, 3.1, -7.0, -6.6, -4.5]
+         Candidate 13 Final Score: 108 Seed: 8
+         Candidate 13 Final Score: 420 Seed: 9
+         Candidate 13 Final Score: 78 Seed: 99
+         Candidate 13 Final Score: 518 Seed: 999
+         Candidate 13 Final Score: 288 Seed: 9999
+         Candidate 13 Final Score: 465 Seed: 9997
+    AVERAGE = 312.8333333333333
+    HISCORE = 518
+
+    Candidate 14 Weights:[6.2, -8.0, 8.7, 5.7, 6.0, -9.5]
+         Candidate 14 Final Score: 224 Seed: 8
+         Candidate 14 Final Score: 203 Seed: 9
+         Candidate 14 Final Score: 392 Seed: 99
+         Candidate 14 Final Score: 420 Seed: 999
+         Candidate 14 Final Score: 487 Seed: 9999
+         Candidate 14 Final Score: 264 Seed: 9997
+    AVERAGE = 331.6666666666667
+    HISCORE = 487
+
+    Candidate 15 Weights:[-1.1, 1.3, 8.3, -1.7, -2.6, 7.7]
+         Candidate 15 Final Score: 66 Seed: 8
+         Candidate 15 Final Score: 128 Seed: 9
+         Candidate 15 Final Score: 88 Seed: 99
+         Candidate 15 Final Score: 36 Seed: 999
+         Candidate 15 Final Score: 60 Seed: 9999
+         Candidate 15 Final Score: 58 Seed: 9997
+    AVERAGE = 72.66666666666667
+    HISCORE = 128
+
+    Candidate 16 Weights:[-2.0, -6.0, -1.0, -1.6, -3.9, 7.6]
+         Candidate 16 Final Score: 87 Seed: 8
+         Candidate 16 Final Score: 26 Seed: 9
+         Candidate 16 Final Score: 88 Seed: 99
+         Candidate 16 Final Score: 36 Seed: 999
+         Candidate 16 Final Score: 52 Seed: 9999
+         Candidate 16 Final Score: 71 Seed: 9997
+    AVERAGE = 60.0
+    HISCORE = 88
+
+    Candidate 17 Weights:[9.8, 5.7, 8.3, 7.9, -7.9, -7.6]
+         Candidate 17 Final Score: 149 Seed: 8
+         Candidate 17 Final Score: 778 Seed: 9
+         Candidate 17 Final Score: 229 Seed: 99
+         Candidate 17 Final Score: 688 Seed: 999
+         Candidate 17 Final Score: 128 Seed: 9999
+         Candidate 17 Final Score: 566 Seed: 9997
+    AVERAGE = 423.0
+    HISCORE = 778
+
+    Candidate 18 Weights:[2.8, 8.9, -4.0, 2.8, 1.1, 1.1]
+         Candidate 18 Final Score: 45 Seed: 8
+         Candidate 18 Final Score: 44 Seed: 9
+         Candidate 18 Final Score: 52 Seed: 99
+         Candidate 18 Final Score: 57 Seed: 999
+         Candidate 18 Final Score: 64 Seed: 9999
+         Candidate 18 Final Score: 66 Seed: 9997
+    AVERAGE = 54.666666666666664
+    HISCORE = 66
+
+    Candidate 19 Weights:[2.2, 2.7, 3.2, 2.3, 3.1, 2.7]
+         Candidate 19 Final Score: 66 Seed: 8
+         Candidate 19 Final Score: 59 Seed: 9
+         Candidate 19 Final Score: 88 Seed: 99
+         Candidate 19 Final Score: 67 Seed: 999
+         Candidate 19 Final Score: 106 Seed: 9999
+         Candidate 19 Final Score: 87 Seed: 9997
+    AVERAGE = 78.83333333333333
+    HISCORE = 106
+
+    Candidate 20 Weights:[-0.1, -4.8, -1.5, 7.1, 6.6, -1.9]
+         Candidate 20 Final Score: 430 Seed: 8
+         Candidate 20 Final Score: 223 Seed: 9
+         Candidate 20 Final Score: 149 Seed: 99
+         Candidate 20 Final Score: 400 Seed: 999
+         Candidate 20 Final Score: 894 Seed: 9999
+         Candidate 20 Final Score: 165 Seed: 9997
+    AVERAGE = 376.8333333333333
+    HISCORE = 894
+
+Top performer of Generation 16
+NAME: Candidate 1
+WEIGHTS: [13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+HISCORE: 24107
+AVERAGE: 5533.333333333333
+
+Starting Generation 17
+    Candidate 1 Weights:[13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+    AVERAGE = 5533.333333333333
+    HISCORE = 24107
+
+    Candidate 2 Weights:[11.4, -0.5, 1.2, 4.4, 6.1, -0.4]
+    AVERAGE = 5416.0
+    HISCORE = 9042
+
+    Candidate 3 Weights:[10.2, 2.1, 1.5, 9.3, 7.8, 0.1]
+    AVERAGE = 4120.5
+    HISCORE = 8850
+
+    Candidate 4 Weights:[12.6, -2.3, 2.2, 6.4, 5.9, -1.4]
+         Candidate 4 Final Score: 955 Seed: 8
+         Candidate 4 Final Score: 415 Seed: 9
+         Candidate 4 Final Score: 1851 Seed: 99
+         Candidate 4 Final Score: 662 Seed: 999
+         Candidate 4 Final Score: 4603 Seed: 9999
+         Candidate 4 Final Score: 791 Seed: 9997
+    AVERAGE = 1546.1666666666667
+    HISCORE = 4603
+
+    Candidate 5 Weights:[12.1, 1.9, 1.1, 4.9, 5.8, 1.8]
+         Candidate 5 Final Score: 56 Seed: 8
+         Candidate 5 Final Score: 44 Seed: 9
+         Candidate 5 Final Score: 52 Seed: 99
+         Candidate 5 Final Score: 36 Seed: 999
+         Candidate 5 Final Score: 74 Seed: 9999
+         Candidate 5 Final Score: 92 Seed: 9997
+    AVERAGE = 59.0
+    HISCORE = 92
+
+    Candidate 6 Weights:[11.9, 2.0, -1.3, 5.9, 7.0, -2.6]
+         Candidate 6 Final Score: 1035 Seed: 8
+         Candidate 6 Final Score: 963 Seed: 9
+         Candidate 6 Final Score: 734 Seed: 99
+         Candidate 6 Final Score: 1413 Seed: 999
+         Candidate 6 Final Score: 225 Seed: 9999
+         Candidate 6 Final Score: 165 Seed: 9997
+    AVERAGE = 755.8333333333334
+    HISCORE = 1413
+
+    Candidate 7 Weights:[12.0, 0.4, 0.4, 6.8, 5.9, -1.1]
+         Candidate 7 Final Score: 456 Seed: 8
+         Candidate 7 Final Score: 1604 Seed: 9
+         Candidate 7 Final Score: 1965 Seed: 99
+         Candidate 7 Final Score: 2838 Seed: 999
+         Candidate 7 Final Score: 3190 Seed: 9999
+         Candidate 7 Final Score: 2654 Seed: 9997
+    AVERAGE = 2117.8333333333335
+    HISCORE = 3190
+
+    Candidate 8 Weights:[15.0, -1.3, -1.1, 4.0, 4.8, -1.7]
+         Candidate 8 Final Score: 1486 Seed: 8
+         Candidate 8 Final Score: 3614 Seed: 9
+         Candidate 8 Final Score: 1875 Seed: 99
+         Candidate 8 Final Score: 1357 Seed: 999
+         Candidate 8 Final Score: 3178 Seed: 9999
+         Candidate 8 Final Score: 1830 Seed: 9997
+    AVERAGE = 2223.3333333333335
+    HISCORE = 3614
+
+    Candidate 9 Weights:[10.5, 2.1, 1.2, 4.9, 4.6, 0.7]
+         Candidate 9 Final Score: 97 Seed: 8
+         Candidate 9 Final Score: 131 Seed: 9
+         Candidate 9 Final Score: 84 Seed: 99
+         Candidate 9 Final Score: 104 Seed: 999
+         Candidate 9 Final Score: 105 Seed: 9999
+         Candidate 9 Final Score: 121 Seed: 9997
+    AVERAGE = 107.0
+    HISCORE = 131
+
+    Candidate 10 Weights:[7.5, 0.1, 6.8, 2.3, -9.4, 10.0]
+         Candidate 10 Final Score: 56 Seed: 8
+         Candidate 10 Final Score: 44 Seed: 9
+         Candidate 10 Final Score: 74 Seed: 99
+         Candidate 10 Final Score: 36 Seed: 999
+         Candidate 10 Final Score: 74 Seed: 9999
+         Candidate 10 Final Score: 66 Seed: 9997
+    AVERAGE = 58.333333333333336
+    HISCORE = 74
+
+    Candidate 11 Weights:[2.1, 2.1, -0.7, 6.6, 2.3, 9.2]
+         Candidate 11 Final Score: 66 Seed: 8
+         Candidate 11 Final Score: 44 Seed: 9
+         Candidate 11 Final Score: 88 Seed: 99
+         Candidate 11 Final Score: 36 Seed: 999
+         Candidate 11 Final Score: 64 Seed: 9999
+         Candidate 11 Final Score: 66 Seed: 9997
+    AVERAGE = 60.666666666666664
+    HISCORE = 88
+
+    Candidate 12 Weights:[7.0, -1.0, 4.9, -4.0, -3.1, -3.7]
+         Candidate 12 Final Score: 187 Seed: 8
+         Candidate 12 Final Score: 435 Seed: 9
+         Candidate 12 Final Score: 384 Seed: 99
+         Candidate 12 Final Score: 1949 Seed: 999
+         Candidate 12 Final Score: 416 Seed: 9999
+         Candidate 12 Final Score: 222 Seed: 9997
+    AVERAGE = 598.8333333333334
+    HISCORE = 1949
+
+    Candidate 13 Weights:[-8.0, -9.3, 9.3, -6.8, 6.1, -2.8]
+         Candidate 13 Final Score: 298 Seed: 8
+         Candidate 13 Final Score: 1347 Seed: 9
+         Candidate 13 Final Score: 602 Seed: 99
+         Candidate 13 Final Score: 873 Seed: 999
+         Candidate 13 Final Score: 288 Seed: 9999
+         Candidate 13 Final Score: 220 Seed: 9997
+    AVERAGE = 604.6666666666666
+    HISCORE = 1347
+
+    Candidate 14 Weights:[-9.2, 0.2, -7.3, -9.5, 6.9, 2.0]
+         Candidate 14 Final Score: 66 Seed: 8
+         Candidate 14 Final Score: 44 Seed: 9
+         Candidate 14 Final Score: 88 Seed: 99
+         Candidate 14 Final Score: 36 Seed: 999
+         Candidate 14 Final Score: 64 Seed: 9999
+         Candidate 14 Final Score: 80 Seed: 9997
+    AVERAGE = 63.0
+    HISCORE = 88
+
+    Candidate 15 Weights:[-6.0, -5.1, -7.8, 6.2, -7.5, 4.9]
+         Candidate 15 Final Score: 87 Seed: 8
+         Candidate 15 Final Score: 26 Seed: 9
+         Candidate 15 Final Score: 81 Seed: 99
+         Candidate 15 Final Score: 36 Seed: 999
+         Candidate 15 Final Score: 64 Seed: 9999
+         Candidate 15 Final Score: 66 Seed: 9997
+    AVERAGE = 60.0
+    HISCORE = 87
+
+    Candidate 16 Weights:[-7.9, -3.3, 3.2, 0.9, -8.6, -9.1]
+         Candidate 16 Final Score: 269 Seed: 8
+         Candidate 16 Final Score: 749 Seed: 9
+         Candidate 16 Final Score: 219 Seed: 99
+         Candidate 16 Final Score: 361 Seed: 999
+         Candidate 16 Final Score: 95 Seed: 9999
+         Candidate 16 Final Score: 175 Seed: 9997
+    AVERAGE = 311.3333333333333
+    HISCORE = 749
+
+    Candidate 17 Weights:[9.0, -5.2, -3.6, -5.8, -8.2, 8.9]
+         Candidate 17 Final Score: 76 Seed: 8
+         Candidate 17 Final Score: 26 Seed: 9
+         Candidate 17 Final Score: 81 Seed: 99
+         Candidate 17 Final Score: 36 Seed: 999
+         Candidate 17 Final Score: 64 Seed: 9999
+         Candidate 17 Final Score: 87 Seed: 9997
+    AVERAGE = 61.666666666666664
+    HISCORE = 87
+
+    Candidate 18 Weights:[4.8, 2.6, -8.6, 9.6, 3.3, -7.5]
+         Candidate 18 Final Score: 264 Seed: 8
+         Candidate 18 Final Score: 535 Seed: 9
+         Candidate 18 Final Score: 404 Seed: 99
+         Candidate 18 Final Score: 94 Seed: 999
+         Candidate 18 Final Score: 539 Seed: 9999
+         Candidate 18 Final Score: 342 Seed: 9997
+    AVERAGE = 363.0
+    HISCORE = 539
+
+    Candidate 19 Weights:[-9.1, 0.3, -2.5, -9.4, -1.3, 8.8]
+         Candidate 19 Final Score: 66 Seed: 8
+         Candidate 19 Final Score: 59 Seed: 9
+         Candidate 19 Final Score: 52 Seed: 99
+         Candidate 19 Final Score: 36 Seed: 999
+         Candidate 19 Final Score: 64 Seed: 9999
+         Candidate 19 Final Score: 70 Seed: 9997
+    AVERAGE = 57.833333333333336
+    HISCORE = 70
+
+    Candidate 20 Weights:[-7.8, -0.9, 8.1, -8.1, 9.3, -2.0]
+         Candidate 20 Final Score: 288 Seed: 8
+         Candidate 20 Final Score: 242 Seed: 9
+         Candidate 20 Final Score: 88 Seed: 99
+         Candidate 20 Final Score: 225 Seed: 999
+         Candidate 20 Final Score: 128 Seed: 9999
+         Candidate 20 Final Score: 126 Seed: 9997
+    AVERAGE = 182.83333333333334
+    HISCORE = 288
+
+Top performer of Generation 17
+NAME: Candidate 1
+WEIGHTS: [13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+HISCORE: 24107
+AVERAGE: 5533.333333333333
+
+Starting Generation 18
+    Candidate 1 Weights:[13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+    AVERAGE = 5533.333333333333
+    HISCORE = 24107
+
+    Candidate 2 Weights:[11.4, -0.5, 1.2, 4.4, 6.1, -0.4]
+    AVERAGE = 5416.0
+    HISCORE = 9042
+
+    Candidate 3 Weights:[10.2, 2.1, 1.5, 9.3, 7.8, 0.1]
+    AVERAGE = 4120.5
+    HISCORE = 8850
+
+    Candidate 4 Weights:[15.2, -1.4, 0.6, 4.7, 6.8, -0.1]
+         Candidate 4 Final Score: 1025 Seed: 8
+         Candidate 4 Final Score: 445 Seed: 9
+         Candidate 4 Final Score: 553 Seed: 99
+         Candidate 4 Final Score: 410 Seed: 999
+         Candidate 4 Final Score: 669 Seed: 9999
+         Candidate 4 Final Score: 866 Seed: 9997
+    AVERAGE = 661.3333333333334
+    HISCORE = 1025
+
+    Candidate 5 Weights:[13.1, 2.2, 1.0, 2.8, 7.3, -1.3]
+         Candidate 5 Final Score: 1047 Seed: 8
+         Candidate 5 Final Score: 430 Seed: 9
+         Candidate 5 Final Score: 3120 Seed: 99
+         Candidate 5 Final Score: 872 Seed: 999
+         Candidate 5 Final Score: 1801 Seed: 9999
+         Candidate 5 Final Score: 264 Seed: 9997
+    AVERAGE = 1255.6666666666667
+    HISCORE = 3120
+
+    Candidate 6 Weights:[8.3, 1.0, -2.2, 5.0, 6.6, 0.4]
+         Candidate 6 Final Score: 56 Seed: 8
+         Candidate 6 Final Score: 44 Seed: 9
+         Candidate 6 Final Score: 81 Seed: 99
+         Candidate 6 Final Score: 36 Seed: 999
+         Candidate 6 Final Score: 52 Seed: 9999
+         Candidate 6 Final Score: 66 Seed: 9997
+    AVERAGE = 55.833333333333336
+    HISCORE = 81
+
+    Candidate 7 Weights:[14.2, 0.0, -1.7, 5.6, 4.5, 0.9]
+         Candidate 7 Final Score: 63 Seed: 8
+         Candidate 7 Final Score: 44 Seed: 9
+         Candidate 7 Final Score: 52 Seed: 99
+         Candidate 7 Final Score: 36 Seed: 999
+         Candidate 7 Final Score: 91 Seed: 9999
+         Candidate 7 Final Score: 80 Seed: 9997
+    AVERAGE = 61.0
+    HISCORE = 91
+
+    Candidate 8 Weights:[14.5, -1.8, -1.4, 5.8, 3.9, -2.5]
+         Candidate 8 Final Score: 303 Seed: 8
+         Candidate 8 Final Score: 460 Seed: 9
+         Candidate 8 Final Score: 492 Seed: 99
+         Candidate 8 Final Score: 300 Seed: 999
+         Candidate 8 Final Score: 192 Seed: 9999
+         Candidate 8 Final Score: 2053 Seed: 9997
+    AVERAGE = 633.3333333333334
+    HISCORE = 2053
+
+    Candidate 9 Weights:[15.2, 0.4, -1.2, 5.0, 6.5, 2.2]
+         Candidate 9 Final Score: 76 Seed: 8
+         Candidate 9 Final Score: 44 Seed: 9
+         Candidate 9 Final Score: 52 Seed: 99
+         Candidate 9 Final Score: 36 Seed: 999
+         Candidate 9 Final Score: 52 Seed: 9999
+         Candidate 9 Final Score: 66 Seed: 9997
+    AVERAGE = 54.333333333333336
+    HISCORE = 76
+
+    Candidate 10 Weights:[-3.6, 3.1, 8.2, -1.6, 4.6, -4.5]
+         Candidate 10 Final Score: 119 Seed: 8
+         Candidate 10 Final Score: 258 Seed: 9
+         Candidate 10 Final Score: 78 Seed: 99
+         Candidate 10 Final Score: 135 Seed: 999
+         Candidate 10 Final Score: 156 Seed: 9999
+         Candidate 10 Final Score: 1007 Seed: 9997
+    AVERAGE = 292.1666666666667
+    HISCORE = 1007
+
+    Candidate 11 Weights:[-2.4, 4.7, 8.3, -2.0, -9.2, -8.1]
+         Candidate 11 Final Score: 119 Seed: 8
+         Candidate 11 Final Score: 625 Seed: 9
+         Candidate 11 Final Score: 78 Seed: 99
+         Candidate 11 Final Score: 242 Seed: 999
+         Candidate 11 Final Score: 168 Seed: 9999
+         Candidate 11 Final Score: 111 Seed: 9997
+    AVERAGE = 223.83333333333334
+    HISCORE = 625
+
+    Candidate 12 Weights:[-9.8, -9.6, -8.9, 7.9, -7.2, 7.9]
+         Candidate 12 Final Score: 66 Seed: 8
+         Candidate 12 Final Score: 26 Seed: 9
+         Candidate 12 Final Score: 84 Seed: 99
+         Candidate 12 Final Score: 36 Seed: 999
+         Candidate 12 Final Score: 64 Seed: 9999
+         Candidate 12 Final Score: 66 Seed: 9997
+    AVERAGE = 57.0
+    HISCORE = 84
+
+    Candidate 13 Weights:[5.8, 0.0, -4.7, -3.0, -0.7, -4.5]
+         Candidate 13 Final Score: 637 Seed: 8
+         Candidate 13 Final Score: 288 Seed: 9
+         Candidate 13 Final Score: 374 Seed: 99
+         Candidate 13 Final Score: 145 Seed: 999
+         Candidate 13 Final Score: 288 Seed: 9999
+         Candidate 13 Final Score: 307 Seed: 9997
+    AVERAGE = 339.8333333333333
+    HISCORE = 637
+
+    Candidate 14 Weights:[-8.6, -9.8, -4.4, -2.5, 1.7, 0.3]
+         Candidate 14 Final Score: 76 Seed: 8
+         Candidate 14 Final Score: 26 Seed: 9
+         Candidate 14 Final Score: 52 Seed: 99
+         Candidate 14 Final Score: 36 Seed: 999
+         Candidate 14 Final Score: 84 Seed: 9999
+         Candidate 14 Final Score: 81 Seed: 9997
+    AVERAGE = 59.166666666666664
+    HISCORE = 84
+
+    Candidate 15 Weights:[8.5, 7.6, 1.0, -0.4, 2.5, -9.4]
+         Candidate 15 Final Score: 417 Seed: 8
+         Candidate 15 Final Score: 570 Seed: 9
+         Candidate 15 Final Score: 194 Seed: 99
+         Candidate 15 Final Score: 611 Seed: 999
+         Candidate 15 Final Score: 95 Seed: 9999
+         Candidate 15 Final Score: 274 Seed: 9997
+    AVERAGE = 360.1666666666667
+    HISCORE = 611
+
+    Candidate 16 Weights:[-4.4, 2.4, -7.0, 1.2, -3.5, -1.7]
+         Candidate 16 Final Score: 66 Seed: 8
+         Candidate 16 Final Score: 69 Seed: 9
+         Candidate 16 Final Score: 71 Seed: 99
+         Candidate 16 Final Score: 52 Seed: 999
+         Candidate 16 Final Score: 138 Seed: 9999
+         Candidate 16 Final Score: 58 Seed: 9997
+    AVERAGE = 75.66666666666667
+    HISCORE = 138
+
+    Candidate 17 Weights:[5.1, -7.1, -3.7, 8.7, -3.6, -2.2]
+         Candidate 17 Final Score: 135 Seed: 8
+         Candidate 17 Final Score: 108 Seed: 9
+         Candidate 17 Final Score: 734 Seed: 99
+         Candidate 17 Final Score: 125 Seed: 999
+         Candidate 17 Final Score: 151 Seed: 9999
+         Candidate 17 Final Score: 47 Seed: 9997
+    AVERAGE = 216.66666666666666
+    HISCORE = 734
+
+    Candidate 18 Weights:[-7.9, -4.9, -2.3, -4.5, -7.4, -4.4]
+         Candidate 18 Final Score: 108 Seed: 8
+         Candidate 18 Final Score: 132 Seed: 9
+         Candidate 18 Final Score: 154 Seed: 99
+         Candidate 18 Final Score: 300 Seed: 999
+         Candidate 18 Final Score: 95 Seed: 9999
+         Candidate 18 Final Score: 212 Seed: 9997
+    AVERAGE = 166.83333333333334
+    HISCORE = 300
+
+    Candidate 19 Weights:[-2.1, 6.3, -8.1, 1.7, 6.3, 8.4]
+         Candidate 19 Final Score: 66 Seed: 8
+         Candidate 19 Final Score: 59 Seed: 9
+         Candidate 19 Final Score: 71 Seed: 99
+         Candidate 19 Final Score: 36 Seed: 999
+         Candidate 19 Final Score: 52 Seed: 9999
+         Candidate 19 Final Score: 66 Seed: 9997
+    AVERAGE = 58.333333333333336
+    HISCORE = 71
+
+    Candidate 20 Weights:[-0.8, -2.5, 8.3, -7.8, 0.3, -8.6]
+         Candidate 20 Final Score: 891 Seed: 8
+         Candidate 20 Final Score: 203 Seed: 9
+         Candidate 20 Final Score: 249 Seed: 99
+         Candidate 20 Final Score: 782 Seed: 999
+         Candidate 20 Final Score: 95 Seed: 9999
+         Candidate 20 Final Score: 342 Seed: 9997
+    AVERAGE = 427.0
+    HISCORE = 891
+
+Top performer of Generation 18
+NAME: Candidate 1
+WEIGHTS: [13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+HISCORE: 24107
+AVERAGE: 5533.333333333333
+
+Starting Generation 19
+    Candidate 1 Weights:[13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+    AVERAGE = 5533.333333333333
+    HISCORE = 24107
+
+    Candidate 2 Weights:[11.4, -0.5, 1.2, 4.4, 6.1, -0.4]
+    AVERAGE = 5416.0
+    HISCORE = 9042
+
+    Candidate 3 Weights:[10.2, 2.1, 1.5, 9.3, 7.8, 0.1]
+    AVERAGE = 4120.5
+    HISCORE = 8850
+
+    Candidate 4 Weights:[12.9, -0.7, -0.8, 5.8, 6.6, -2.1]
+         Candidate 4 Final Score: 3039 Seed: 8
+         Candidate 4 Final Score: 465 Seed: 9
+         Candidate 4 Final Score: 706 Seed: 99
+         Candidate 4 Final Score: 1066 Seed: 999
+         Candidate 4 Final Score: 356 Seed: 9999
+         Candidate 4 Final Score: 1516 Seed: 9997
+    AVERAGE = 1191.3333333333333
+    HISCORE = 3039
+
+    Candidate 5 Weights:[11.0, -0.2, -0.3, 5.7, 8.9, -1.1]
+         Candidate 5 Final Score: 5159 Seed: 8
+         Candidate 5 Final Score: 2154 Seed: 9
+         Candidate 5 Final Score: 353 Seed: 99
+         Candidate 5 Final Score: 1680 Seed: 999
+         Candidate 5 Final Score: 2350 Seed: 9999
+         Candidate 5 Final Score: 3882 Seed: 9997
+    AVERAGE = 2596.3333333333335
+    HISCORE = 5159
+
+    Candidate 6 Weights:[15.2, 3.5, 1.1, 8.3, 4.5, -2.6]
+         Candidate 6 Final Score: 308 Seed: 8
+         Candidate 6 Final Score: 410 Seed: 9
+         Candidate 6 Final Score: 1692 Seed: 99
+         Candidate 6 Final Score: 1033 Seed: 999
+         Candidate 6 Final Score: 1161 Seed: 9999
+         Candidate 6 Final Score: 1077 Seed: 9997
+    AVERAGE = 946.8333333333334
+    HISCORE = 1692
+
+    Candidate 7 Weights:[11.6, -1.2, -0.5, 7.3, 6.2, 0.5]
+         Candidate 7 Final Score: 76 Seed: 8
+         Candidate 7 Final Score: 26 Seed: 9
+         Candidate 7 Final Score: 98 Seed: 99
+         Candidate 7 Final Score: 36 Seed: 999
+         Candidate 7 Final Score: 64 Seed: 9999
+         Candidate 7 Final Score: 102 Seed: 9997
+    AVERAGE = 67.0
+    HISCORE = 102
+
+    Candidate 8 Weights:[13.1, 0.8, 0.7, 6.1, 3.8, -1.4]
+         Candidate 8 Final Score: 313 Seed: 8
+         Candidate 8 Final Score: 684 Seed: 9
+         Candidate 8 Final Score: 1933 Seed: 99
+         Candidate 8 Final Score: 1982 Seed: 999
+         Candidate 8 Final Score: 1672 Seed: 9999
+         Candidate 8 Final Score: 495 Seed: 9997
+    AVERAGE = 1179.8333333333333
+    HISCORE = 1982
+
+    Candidate 9 Weights:[11.8, -1.5, 0.1, 8.8, 8.0, 0.0]
+         Candidate 9 Final Score: 188 Seed: 8
+         Candidate 9 Final Score: 44 Seed: 9
+         Candidate 9 Final Score: 123 Seed: 99
+         Candidate 9 Final Score: 135 Seed: 999
+         Candidate 9 Final Score: 202 Seed: 9999
+         Candidate 9 Final Score: 97 Seed: 9997
+    AVERAGE = 131.5
+    HISCORE = 202
+
+    Candidate 10 Weights:[-3.6, 9.4, 2.2, -2.9, 4.2, -5.5]
+         Candidate 10 Final Score: 98 Seed: 8
+         Candidate 10 Final Score: 295 Seed: 9
+         Candidate 10 Final Score: 194 Seed: 99
+         Candidate 10 Final Score: 245 Seed: 999
+         Candidate 10 Final Score: 309 Seed: 9999
+         Candidate 10 Final Score: 112 Seed: 9997
+    AVERAGE = 208.83333333333334
+    HISCORE = 309
+
+    Candidate 11 Weights:[-7.2, -1.4, -0.5, 5.9, 5.6, -2.1]
+         Candidate 11 Final Score: 279 Seed: 8
+         Candidate 11 Final Score: 260 Seed: 9
+         Candidate 11 Final Score: 103 Seed: 99
+         Candidate 11 Final Score: 215 Seed: 999
+         Candidate 11 Final Score: 540 Seed: 9999
+         Candidate 11 Final Score: 126 Seed: 9997
+    AVERAGE = 253.83333333333334
+    HISCORE = 540
+
+    Candidate 12 Weights:[4.1, -7.7, 8.3, -7.5, 2.2, -6.0]
+         Candidate 12 Final Score: 183 Seed: 8
+         Candidate 12 Final Score: 203 Seed: 9
+         Candidate 12 Final Score: 1032 Seed: 99
+         Candidate 12 Final Score: 638 Seed: 999
+         Candidate 12 Final Score: 183 Seed: 9999
+         Candidate 12 Final Score: 222 Seed: 9997
+    AVERAGE = 410.1666666666667
+    HISCORE = 1032
+
+    Candidate 13 Weights:[-9.5, -2.2, 7.0, 0.9, 7.5, 3.8]
+         Candidate 13 Final Score: 56 Seed: 8
+         Candidate 13 Final Score: 44 Seed: 9
+         Candidate 13 Final Score: 98 Seed: 99
+         Candidate 13 Final Score: 36 Seed: 999
+         Candidate 13 Final Score: 91 Seed: 9999
+         Candidate 13 Final Score: 91 Seed: 9997
+    AVERAGE = 69.33333333333333
+    HISCORE = 98
+
+    Candidate 14 Weights:[7.1, -4.9, -0.3, 5.6, -5.2, 9.4]
+         Candidate 14 Final Score: 76 Seed: 8
+         Candidate 14 Final Score: 26 Seed: 9
+         Candidate 14 Final Score: 71 Seed: 99
+         Candidate 14 Final Score: 36 Seed: 999
+         Candidate 14 Final Score: 91 Seed: 9999
+         Candidate 14 Final Score: 71 Seed: 9997
+    AVERAGE = 61.833333333333336
+    HISCORE = 91
+
+    Candidate 15 Weights:[4.6, 0.1, 6.8, -3.9, -1.6, 2.5]
+         Candidate 15 Final Score: 97 Seed: 8
+         Candidate 15 Final Score: 88 Seed: 9
+         Candidate 15 Final Score: 98 Seed: 99
+         Candidate 15 Final Score: 104 Seed: 999
+         Candidate 15 Final Score: 105 Seed: 9999
+         Candidate 15 Final Score: 126 Seed: 9997
+    AVERAGE = 103.0
+    HISCORE = 126
+
+    Candidate 16 Weights:[9.4, -3.9, -2.2, 3.5, 3.4, 10.0]
+         Candidate 16 Final Score: 76 Seed: 8
+         Candidate 16 Final Score: 26 Seed: 9
+         Candidate 16 Final Score: 98 Seed: 99
+         Candidate 16 Final Score: 36 Seed: 999
+         Candidate 16 Final Score: 88 Seed: 9999
+         Candidate 16 Final Score: 81 Seed: 9997
+    AVERAGE = 67.5
+    HISCORE = 98
+
+    Candidate 17 Weights:[-6.4, -3.7, -5.5, -8.5, 2.6, -2.4]
+         Candidate 17 Final Score: 77 Seed: 8
+         Candidate 17 Final Score: 183 Seed: 9
+         Candidate 17 Final Score: 74 Seed: 99
+         Candidate 17 Final Score: 67 Seed: 999
+         Candidate 17 Final Score: 259 Seed: 9999
+         Candidate 17 Final Score: 188 Seed: 9997
+    AVERAGE = 141.33333333333334
+    HISCORE = 259
+
+    Candidate 18 Weights:[10.0, 4.7, 8.8, 9.5, 7.9, -0.1]
+         Candidate 18 Final Score: 159 Seed: 8
+         Candidate 18 Final Score: 880 Seed: 9
+         Candidate 18 Final Score: 2115 Seed: 99
+         Candidate 18 Final Score: 606 Seed: 999
+         Candidate 18 Final Score: 343 Seed: 9999
+         Candidate 18 Final Score: 1238 Seed: 9997
+    AVERAGE = 890.1666666666666
+    HISCORE = 2115
+
+    Candidate 19 Weights:[-2.4, 5.6, 8.1, 0.4, 5.8, 0.2]
+         Candidate 19 Final Score: 363 Seed: 8
+         Candidate 19 Final Score: 132 Seed: 9
+         Candidate 19 Final Score: 78 Seed: 99
+         Candidate 19 Final Score: 240 Seed: 999
+         Candidate 19 Final Score: 64 Seed: 9999
+         Candidate 19 Final Score: 70 Seed: 9997
+    AVERAGE = 157.83333333333334
+    HISCORE = 363
+
+    Candidate 20 Weights:[1.6, 5.5, 4.7, -5.0, -5.7, -4.9]
+         Candidate 20 Final Score: 323 Seed: 8
+         Candidate 20 Final Score: 212 Seed: 9
+         Candidate 20 Final Score: 379 Seed: 99
+         Candidate 20 Final Score: 115 Seed: 999
+         Candidate 20 Final Score: 426 Seed: 9999
+         Candidate 20 Final Score: 70 Seed: 9997
+    AVERAGE = 254.16666666666666
+    HISCORE = 426
+
+Top performer of Generation 19
+NAME: Candidate 1
+WEIGHTS: [13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+HISCORE: 24107
+AVERAGE: 5533.333333333333
+
