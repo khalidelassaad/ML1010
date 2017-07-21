@@ -131,6 +131,7 @@ def run_evolution(num_generations, num_candidates, board_seeds, *starting_weight
 			for seed in board_seeds:
 				score = run_sim(player, seed, scoredict)
 				scores.append(score)
+				print("        ",player.name,"Final Score:", score, "Seed:", player.seed)
 			average = avg_l(scores)
 			hiscore = max(scores)
 			print("    AVERAGE =",average)
@@ -161,13 +162,17 @@ def run_evolution(num_generations, num_candidates, board_seeds, *starting_weight
 	return top_weights
 
 
-# BEST WEIGHTS YET [13.4, 0.2, -0.7, 5.8, 5.1, -1.0]
+# BEST WEIGHTS YET [14.2, 0.6, 0.2, 1.5, 5.1, -0.3]
 def main():
-	known_good_weights = [
-	[13.4, 0.2, -0.7, 5.8, 5.1, -1.0],
+	known_good_weights = []#[14.2, 0.6, 0.2, 1.5, 5.1, -0.3,0]]
+	"""[13.4, 0.2, -0.7, 5.8, 5.1, -1.0],
 	[8.7, -6.9, 6.1, 0.5, 6.2, -1.5],
-	[6.0, -5.2, 9.0, -9.6, 9.5, -4.3]]
-	weights = run_evolution(20, 20, list(range(10)), *known_good_weights)
+	[6.0, -5.2, 9.0, -9.6, 9.5, -4.3],
+	[14.3, 1.2, 0.6, 3.5, 7.6, -0.3],
+	[14.2, 0.6, 0.2, 1.5, 5.1, -0.3],
+	[13.9, -0.1, 0.7, 3.2, 5.8, -0.8]]"""
+	#weights = run_evolution(20, 20, list(range(10)), *known_good_weights)
+	weights = run_evolution(3, 6, list(range(1)), *known_good_weights)
 
 if __name__ == "__main__":
 	main_rand = Random()

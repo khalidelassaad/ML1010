@@ -205,6 +205,14 @@ def MOVESCORE_switches(board, move):
     B = _board_copy_with_move_made(board, move)
     return _switches_score(B.grid)
 
+def MOVESCORE_count(board, move):
+    count = 0
+    for x in board.grid:
+        for y in x:
+            if y:
+                count += 1
+    return count
+
 
 STRATEGIES = [
 MOVESCORE_points,
@@ -212,4 +220,5 @@ MOVESCORE_density,
 MOVESCORE_fit,
 MOVESCORE_cavity,
 MOVESCORE_fragment,
-MOVESCORE_switches]
+MOVESCORE_switches,
+MOVESCORE_count]

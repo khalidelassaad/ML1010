@@ -37,6 +37,9 @@ class Player():
         self.weights = [1]*len(STRATEGIES)
         self.random = Random()
         self.seed = 0
+        self.show_board = False
+        self.show_round = False
+        self.step_by_step = False
 
     def adopt_weights(self, weights):
         i = 0
@@ -89,6 +92,11 @@ class Player():
             self.current_round.append(SHAPES[i])
         return
 
+    def print_round(self):
+        for shape in self.current_round:
+            print("----{}".format(shape.namestring))
+        return
+
     def play(self):
         self.random.seed(self.seed)
         self.board.clear()
@@ -96,6 +104,14 @@ class Player():
         self.current_round = list()
         self.next_round()
         while True:
+            if self.show_board:
+                self.board.draw()
+            if self.show_round:
+                self.print_round()
+            if self.step_by_step:
+                input()
+            if (self.show_round or self.show_board) and not self.step_by_step:
+                print()
             self.update_move_set()
             if len(self.move_set) == 0:
                 break
@@ -107,5 +123,5 @@ class Player():
             if self.current_round == list():
                 self.next_round()
             self.score += len(move.shape.blocks) + self.board.clear10()
-        print("        ",self.name,"Final Score:", self.score, "Seed:",self.seed)
+        #print("        ",self.name,"Final Score:", self.score, "Seed:",self.seed)
         return self.score
