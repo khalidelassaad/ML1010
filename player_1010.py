@@ -47,6 +47,7 @@ class Player():
         self.step_by_step = False
         self.last_move = Move()
         self.logfilename = ""
+        self.show_score = False
 
     def adopt_weights(self, weights):
         i = 0
@@ -101,16 +102,14 @@ class Player():
             self.current_round.append(SHAPES[i])
         return
 
-    def print_round(self):
-        for shape in self.current_round:
-            print("----{}".format(shape.namestring))
-        return
-
     def draw_from_bools(self):
         if self.show_board:
             self.board.draw(self.last_move)
+        if self.show_score:
+            print("Score:",self.score)
         if self.show_round:
-            self.print_round()
+            print()
+            print_round(self.current_round)
         if self.step_by_step:
             input()
         if (self.show_round or self.show_board) and not self.step_by_step:

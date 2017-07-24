@@ -172,7 +172,7 @@ def main():
 	[14.2, 0.6, 0.2, 1.5, 5.1, -0.3],
 	[13.9, -0.1, 0.7, 3.2, 5.8, -0.8]]"""
 	#weights = run_evolution(20, 20, list(range(10)), *known_good_weights)
-	weights = run_evolution(30, 20, [14,41,67,80,123,129], *known_good_weights)
+	weights = run_evolution(40, 20, [1004,1005,1006,1007,1008,1009,1010], *known_good_weights)
 
 if __name__ == "__main__":
 	main_rand = Random()
