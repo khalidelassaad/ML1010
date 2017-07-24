@@ -107,9 +107,9 @@ L_UR_2.add((0,1))
 L_UR_2.namestring="2x2 L (UR Corner)"
 
 L_DR_2  = Shape()
-L_DR_2.add((0,1))
-L_DR_2.add((1,1))
+L_DR_2.add((0,0))
 L_DR_2.add((1,0))
+L_DR_2.add((1,-1))
 L_DR_2.namestring="2x2 L (DR Corner)"
 
 L_UL_3  = Shape()
@@ -137,11 +137,11 @@ L_UR_3.add((2,2))
 L_UR_3.namestring="3x3 L (UR Corner)"
 
 L_DR_3  = Shape()
-L_DR_3.add((2,0))
-L_DR_3.add((2,1))
-L_DR_3.add((2,2))
-L_DR_3.add((1,2))
+L_DR_3.add((0,0))
+L_DR_3.add((0,1))
 L_DR_3.add((0,2))
+L_DR_3.add((-1,2))
+L_DR_3.add((-2,2))
 L_DR_3.namestring="3x3 L (DR Corner)"
 
 SHAPES  = [

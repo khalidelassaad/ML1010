@@ -1,0 +1,453 @@
+Score: 0 Col:0 Row:0 Shape: Hash: b4b147bc522828731f1a016bfa72c073
+Score: 4 Col:9 Row:6 Shape:Tall 4 Hash: d832d4388d081ec454dc1f380e3062b0
+Score: 7 Col:8 Row:7 Shape:Tall 3 Hash: e2fbf266c5d6625f84602b3c5b4aeb11
+Score: 9 Col:7 Row:8 Shape:Tall 2 Hash: e13ce4e2591423bcbfc310c7ee8511dc
+Score: 13 Col:5 Row:8 Shape:2x2 Square Hash: 20448236a257c35b9c6f850319a56ae7
+Score: 16 Col:5 Row:7 Shape:Wide 3 Hash: 44ac75e7b91e253e102d599a99849d09
+Score: 20 Col:4 Row:6 Shape:Tall 4 Hash: 63740c8a701365b145ecaaadc4ef19e7
+Score: 24 Col:3 Row:6 Shape:Tall 4 Hash: 2163f316021c4a5e96ea079f68e840e8
+Score: 28 Col:1 Row:8 Shape:2x2 Square Hash: c5c2c5f44e744465403e497bb1a1caee
+Score: 41 Col:0 Row:7 Shape:2x2 L (UL Corner) Hash: a86596a07e30dfa4b933afa1ad9fad5b
+Score: 56 Col:2 Row:5 Shape:3x3 L (UL Corner) Hash: 5ffe77efd6cee3c2c55b47f271d0df6f
+Score: 61 Col:3 Row:4 Shape:3x3 L (UR Corner) Hash: 6361db0b14ebd03a49b67b7be83c4ef9
+Score: 64 Col:0 Row:5 Shape:2x2 L (DL Corner) Hash: f800d490e56d4eff6c812dd3c7356888
+Score: 79 Col:6 Row:4 Shape:3x3 L (DL Corner) Hash: 820d5548f29e6b3f8d068c1ec2c89ea9
+Score: 82 Col:1 Row:5 Shape:2x2 L (DL Corner) Hash: 28b368d391bcefd916f7bc2f57243379
+Score: 85 Col:0 Row:6 Shape:2x2 L (DL Corner) Hash: a3ab80d20d2958db16e68537c88912db
+Score: 104 Col:7 Row:3 Shape:3x3 Square Hash: 83e410216e3aaa288c0561f2633a4709
+Score: 109 Col:7 Row:5 Shape:3x3 L (UR Corner) Hash: 92bfe3685e4a47a9ce3b5b74e3f016a4
+Score: 112 Col:7 Row:6 Shape:2x2 L (UR Corner) Hash: 327714047005f0b11d0e1ff5ca936d00
+Score: 123 Col:0 Row:9 Shape:1x1 Square Hash: f2705a0c04ed1b26f2ab3922e66d85ae
+Score: 128 Col:2 Row:5 Shape:Wide 5 Hash: d2d9cc19957a1c8ff6e661812d8de030
+Score: 133 Col:2 Row:3 Shape:Wide 5 Hash: 7bcc5e1abce0555cd1d105f3e7dc3fb6
+Score: 145 Col:0 Row:3 Shape:Wide 2 Hash: f93d0d00bc848cd2a6f0c9bbb097c5d6
+Score: 160 Col:0 Row:2 Shape:3x3 L (DL Corner) Hash: 623ea3b395fdb8e00d03a245ef4bb31e
+Score: 165 Col:1 Row:1 Shape:Tall 5 Hash: dfb7c5fa9f2862299fc4210fa208d40f
+Score: 170 Col:7 Row:4 Shape:3x3 L (DR Corner) Hash: 0e63d659834f5a25ba10d9d749e95acb
+Score: 173 Col:8 Row:2 Shape:2x2 L (DR Corner) Hash: 77d1b952c4a99e145593cc56eaa2df81
+Score: 175 Col:5 Row:6 Shape:Wide 2 Hash: b2b462f0ba681b6bcb089cfefa358020
+Score: 190 Col:2 Row:3 Shape:Wide 5 Hash: 7bcc5e1abce0555cd1d105f3e7dc3fb6
+Score: 202 Col:3 Row:6 Shape:Wide 2 Hash: 6f02dc60d1502fda42821eb09e1cfa5e
+Score: 215 Col:0 Row:5 Shape:2x2 L (DL Corner) Hash: f800d490e56d4eff6c812dd3c7356888
+Score: 220 Col:0 Row:3 Shape:3x3 L (DL Corner) Hash: 69c840c2d49e31c14ed1770312d82c2c
+Score: 223 Col:1 Row:3 Shape:2x2 L (UR Corner) Hash: 5d6207d7ab5f60ab8de94311bd449ce8
+Score: 227 Col:2 Row:6 Shape:Tall 4 Hash: cf6e0d5e57f6250d27f496cd42e91e71
+Score: 229 Col:8 Row:3 Shape:Wide 2 Hash: 81f1b47db8822672761cedeb65257e88
+Score: 231 Col:0 Row:0 Shape:Tall 2 Hash: 28d3eb7120f435536e759aeb00304037
+Score: 243 Col:0 Row:8 Shape:Tall 2 Hash: 475acc23954bc14ffe28ffe442058a97
+Score: 247 Col:8 Row:5 Shape:2x2 Square Hash: 1b1ccf1d0e78813718aee16a6e62a2b0
+Score: 250 Col:8 Row:8 Shape:2x2 L (UR Corner) Hash: 0b18061309fe9ea2c2662b085e3e1b17
+Score: 253 Col:6 Row:9 Shape:Wide 3 Hash: bbafa53cbd69ebb05907fc4f42b653e8
+Score: 272 Col:2 Row:0 Shape:3x3 Square Hash: fc7be3aee38bd56fceb603d46b22d8f4
+Score: 277 Col:2 Row:0 Shape:Tall 5 Hash: 2323ff538153a68ac2b9de91d3404e27
+Score: 281 Col:3 Row:3 Shape:Wide 4 Hash: 71fd2e5e21dbfd946be691ee81362a11
+Score: 315 Col:8 Row:0 Shape:2x2 Square Hash: 04ec692f6236e9aa99498e256c1eeaab
+Score: 324 Col:5 Row:0 Shape:3x3 Square Hash: df5a08f39a55ba6e5f7f068c8ef4d4c6
+Score: 327 Col:7 Row:3 Shape:2x2 L (UR Corner) Hash: 8e75f1675136e1b6f86a0d1ca112b93b
+Score: 330 Col:0 Row:0 Shape:2x2 L (UL Corner) Hash: ae27f6129d9fa48dfb7d71a25e7acdb1
+Score: 342 Col:1 Row:8 Shape:Tall 2 Hash: f193620e0ac30189d472cdd7bccc3579
+Score: 344 Col:3 Row:4 Shape:Wide 2 Hash: fa565ce5c47011f5472f18f54cbbda6b
+Score: 347 Col:1 Row:1 Shape:2x2 L (DR Corner) Hash: 278aba429457ec457736d347a5e8a430
+Score: 350 Col:2 Row:5 Shape:Wide 3 Hash: de2e02314f0d8195be179d095f4382fa
+Score: 353 Col:2 Row:6 Shape:Wide 3 Hash: c6c6a244d0572284120d1e5f23f9151a
+Score: 387 Col:8 Row:1 Shape:2x2 Square Hash: 73b2d9a94a93d291ed9198a3281b8338
+Score: 392 Col:7 Row:2 Shape:3x3 L (UR Corner) Hash: 46f6ce8b58d645bf028ada089b61e329
+Score: 404 Col:0 Row:3 Shape:Wide 2 Hash: f93d0d00bc848cd2a6f0c9bbb097c5d6
+Score: 407 Col:7 Row:3 Shape:Wide 3 Hash: 9a56722d63052987b7ef5743befdb274
+Score: 410 Col:8 Row:0 Shape:2x2 L (DR Corner) Hash: c12a26a12490407109aa8194efef7f57
+Score: 412 Col:9 Row:0 Shape:Tall 2 Hash: 892f1b5fdc150255436e90e1b989b5b7
+Score: 425 Col:1 Row:0 Shape:Tall 3 Hash: 3460babe4acb6eafa60848d4a6ffc2ee
+Score: 429 Col:0 Row:5 Shape:2x2 Square Hash: a9ea24902a150c0586983df090e00100
+Score: 432 Col:0 Row:3 Shape:2x2 L (UR Corner) Hash: 31ee3939122d5022249ccfc80e982394
+Score: 437 Col:0 Row:0 Shape:3x3 L (UL Corner) Hash: 70c57ec72f9c872b402b18dad21cbae4
+Score: 441 Col:6 Row:0 Shape:Wide 4 Hash: 2dd04ee97cb00948e928feb99332a4cf
+Score: 446 Col:4 Row:3 Shape:3x3 L (DR Corner) Hash: 631b1c23712ad1e4d0f9a888b71b4b8f
+Score: 459 Col:2 Row:2 Shape:2x2 L (DL Corner) Hash: adbb536f7cdc942b0ffe31c5f62f48e3
+Score: 463 Col:5 Row:0 Shape:Tall 4 Hash: 2aac41768e1cfb721d188d4fee992611
+Score: 464 Col:2 Row:1 Shape:1x1 Square Hash: 838bb68c996307785fa8d13bf844cdac
+Score: 498 Col:3 Row:1 Shape:2x2 Square Hash: ce048100f7ac33198653db689e71e2d4
+Score: 513 Col:5 Row:6 Shape:Wide 5 Hash: 5c291194ab2cbb6dc8910d149a095024
+Score: 514 Col:0 Row:4 Shape:1x1 Square Hash: a98debebc0d8b1d7bd5e90e22a59493f
+Score: 523 Col:7 Row:1 Shape:3x3 Square Hash: 6dd0e91ff1adee98928e9a1cca1eb605
+Score: 526 Col:6 Row:1 Shape:Tall 3 Hash: 197dc6ae9356c5dd9bba8449a845a07f
+Score: 527 Col:5 Row:1 Shape:1x1 Square Hash: ad45b165e4c2fdb49a774f5a31c365d2
+Score: 540 Col:3 Row:0 Shape:2x2 L (UR Corner) Hash: f375b6adcac49847b4a885b3adfce6d1
+Score: 543 Col:9 Row:8 Shape:2x2 L (DR Corner) Hash: 4d9380cd95d847e71611df44ac53af43
+Score: 547 Col:0 Row:6 Shape:Tall 4 Hash: d6ab6cff4742a4b96d981b70b4e2787c
+Score: 561 Col:0 Row:0 Shape:Tall 4 Hash: 4a2574f93cdfb0f61d577172ef2b43f5
+Score: 566 Col:0 Row:3 Shape:3x3 L (UL Corner) Hash: 3b7ac93c415335aba8ba1144ddf54420
+Score: 571 Col:3 Row:0 Shape:3x3 L (UL Corner) Hash: d2213b64b92f79a90b754774abb55493
+Score: 576 Col:0 Row:0 Shape:3x3 L (UR Corner) Hash: 3b73dc0ad6be5b7a630a30b2a52f6c1b
+Score: 581 Col:0 Row:6 Shape:3x3 L (UL Corner) Hash: 45fc435e4da71ff8eeb4fbeb4305ab14
+Score: 582 Col:5 Row:2 Shape:1x1 Square Hash: 246592c7f0ca40294b3f64ede33d380d
+Score: 596 Col:6 Row:0 Shape:Wide 4 Hash: 2dd04ee97cb00948e928feb99332a4cf
+Score: 609 Col:0 Row:1 Shape:2x2 L (UL Corner) Hash: 11e7586a93f10f676307ca1458335c1e
+Score: 610 Col:1 Row:2 Shape:1x1 Square Hash: 9e5fcbb66bd31750ad621c7a3424fdeb
+Score: 625 Col:2 Row:1 Shape:3x3 L (UR Corner) Hash: 1dc1ab4673b57dd169dbca3e2a213123
+Score: 637 Col:5 Row:4 Shape:Wide 2 Hash: c97b61a875e3fc15b95dca28c6078eba
+Score: 650 Col:3 Row:3 Shape:2x2 L (DL Corner) Hash: 1c6ca7c76059a237e839f676f7b82708
+Score: 655 Col:3 Row:6 Shape:3x3 L (DR Corner) Hash: 78a2e7a258d34f841d99dd0e867ff437
+Score: 660 Col:1 Row:7 Shape:3x3 L (UL Corner) Hash: df761d5a67cd63efb33cce44360fecc1
+Score: 663 Col:2 Row:8 Shape:2x2 L (UR Corner) Hash: 69b7d2ca1bebc182904473425ff86190
+Score: 678 Col:4 Row:8 Shape:Wide 5 Hash: ef1cc3d963d56d5cd5bf676a80fee855
+Score: 681 Col:0 Row:4 Shape:Wide 3 Hash: 9657e10291bdfc10e0b6ebd371bc59ac
+Score: 682 Col:2 Row:9 Shape:1x1 Square Hash: 6d0b8704596f4d3d08afff5d180bb9cb
+Score: 685 Col:0 Row:8 Shape:2x2 L (UL Corner) Hash: b8b93531c6163c7d42a2f4c8fc939c82
+Score: 697 Col:4 Row:9 Shape:Wide 2 Hash: 2f4b75ee4980647aef3d7aea10b88047
+Score: 700 Col:2 Row:8 Shape:2x2 L (UR Corner) Hash: 69b7d2ca1bebc182904473425ff86190
+Score: 709 Col:4 Row:7 Shape:3x3 Square Hash: 668a6e194106adb29c3f8ea063ea05b7
+Score: 724 Col:7 Row:7 Shape:3x3 L (UR Corner) Hash: 1e9153f609fd854606d16c71936dbbb9
+Score: 737 Col:7 Row:8 Shape:2x2 L (UL Corner) Hash: 1ddb0e9199f01cc76fbc8159650651b8
+Score: 742 Col:0 Row:0 Shape:Wide 5 Hash: fa08f404f2df0868c444719a45db7841
+Score: 745 Col:8 Row:8 Shape:2x2 L (UL Corner) Hash: f906bd18ebe72feeb3da6a3ff286708d
+Score: 750 Col:6 Row:4 Shape:Tall 5 Hash: 26541b1b635a9f504c2bf07f9b159f95
+Score: 819 Col:7 Row:4 Shape:3x3 Square Hash: ec61cea21f66914e2a7ae03d2f09f408
+Score: 824 Col:7 Row:6 Shape:3x3 L (UL Corner) Hash: 602a291920377484606e268c38a96ca6
+Score: 826 Col:5 Row:7 Shape:Tall 2 Hash: ef6f391d7b1594876f927f1e9ce79bbc
+Score: 841 Col:0 Row:7 Shape:3x3 L (DL Corner) Hash: a1832e764013b0a557b3937596ce2ed7
+Score: 846 Col:4 Row:6 Shape:3x3 L (UL Corner) Hash: 0814023b38ca5a5b203c96fc2e899919
+Score: 850 Col:0 Row:1 Shape:2x2 Square Hash: 9010d669ddb9168d491211a206c77a1f
+Score: 865 Col:1 Row:6 Shape:3x3 L (DL Corner) Hash: e15798e8d0bb20b86bcd21c3e7743090
+Score: 868 Col:2 Row:6 Shape:2x2 L (DL Corner) Hash: dcc537bee95e968294e6a8dca56dc86a
+Score: 869 Col:3 Row:6 Shape:1x1 Square Hash: 52045236f1fe2d4f45060ab511f38a84
+Score: 884 Col:0 Row:4 Shape:3x3 L (UL Corner) Hash: 6fdd356da267a412d3a3629f3c142ea0
+Score: 896 Col:8 Row:7 Shape:Wide 2 Hash: e75843bde7251e71d2de2d77b63a4cc0
+Score: 898 Col:2 Row:2 Shape:Tall 2 Hash: dbeb258df1fdc3f4bc9dca3d6f739c90
+Score: 903 Col:1 Row:5 Shape:3x3 L (UR Corner) Hash: d86ee3491cd24e0f69e5633cd5fbf693
+Score: 906 Col:0 Row:6 Shape:Wide 3 Hash: 19a97128003a87bd7f7902a7f9f02493
+Score: 908 Col:3 Row:3 Shape:Tall 2 Hash: fb1473321225221585757b81a190da95
+Score: 923 Col:0 Row:9 Shape:3x3 L (DR Corner) Hash: e146bc46739f39419c4ab734091fdd6f
+Score: 926 Col:0 Row:7 Shape:2x2 L (UL Corner) Hash: a86596a07e30dfa4b933afa1ad9fad5b
+Score: 929 Col:2 Row:7 Shape:2x2 L (DR Corner) Hash: 5e6473020995f660dc7e938147cdf426
+Score: 934 Col:2 Row:2 Shape:Tall 5 Hash: 92878e2a3bf00940abaf88f9d7ecf578
+Score: 939 Col:2 Row:9 Shape:Wide 5 Hash: b240557a176611e2bb2b3a437db22189
+Score: 944 Col:5 Row:0 Shape:3x3 L (UL Corner) Hash: cfcce67bf8b9d30cebe0f36624121f57
+Score: 959 Col:7 Row:7 Shape:3x3 L (DL Corner) Hash: 4e84bdf5dd862f69c58b807f21527855
+Score: 963 Col:0 Row:9 Shape:Wide 4 Hash: 90d97b04929ba2b6f1cd6036d69540fe
+Score: 968 Col:4 Row:7 Shape:3x3 L (UR Corner) Hash: cec57816490521bbfd006e50aefe1bb4
+Score: 979 Col:0 Row:3 Shape:1x1 Square Hash: 149307bb4de8e349837207a90917d8a6
+Score: 982 Col:3 Row:8 Shape:Wide 3 Hash: 0d4988c907576efd036bc109e7700462
+Score: 987 Col:6 Row:1 Shape:3x3 L (UL Corner) Hash: 9a8ada77d36668d9c92568c273ebf8c5
+Score: 1000 Col:3 Row:2 Shape:2x2 L (UR Corner) Hash: f74309ffde877581d714826d5eea4ac3
+Score: 1012 Col:2 Row:0 Shape:Tall 2 Hash: eabb86d6e9adf0fa8a6928c0deb48448
+Score: 1026 Col:0 Row:3 Shape:Wide 4 Hash: 105f1aa10907e94447362658a3c1d73e
+Score: 1029 Col:8 Row:0 Shape:2x2 L (UR Corner) Hash: 78779e1bc39992fecac9943e860bcf5e
+Score: 1033 Col:2 Row:1 Shape:2x2 Square Hash: ad4d901764d174a21f48147cec00cf68
+Score: 1035 Col:1 Row:2 Shape:Tall 2 Hash: c1765551315fdfba8728dbb3e2944350
+Score: 1050 Col:6 Row:4 Shape:3x3 L (DL Corner) Hash: 820d5548f29e6b3f8d068c1ec2c89ea9
+Score: 1055 Col:6 Row:5 Shape:Tall 5 Hash: 0bb531acda65df3bb8e6acbb71bec5bd
+Score: 1057 Col:6 Row:0 Shape:Tall 2 Hash: a15db9f74f459c6c351aff3666817a3a
+Score: 1072 Col:6 Row:2 Shape:3x3 L (UL Corner) Hash: e48ea20d1da586fe66b05c8232f32140
+Score: 1077 Col:4 Row:9 Shape:3x3 L (DR Corner) Hash: cbe84e2510b592332c928a97d92a77ea
+Score: 1079 Col:2 Row:0 Shape:Wide 2 Hash: e9cb96fed383e449655d1a0f8b1be9e7
+Score: 1094 Col:4 Row:4 Shape:3x3 L (UL Corner) Hash: d24d0741db2abe6e0f6aa121af3dd1af
+Score: 1097 Col:0 Row:0 Shape:2x2 L (UR Corner) Hash: 6901f56416cb506c33f4ad46cf4fc090
+Score: 1099 Col:0 Row:1 Shape:Tall 2 Hash: 632de07c1b250a1d6fc6c2301551e432
+Score: 1104 Col:4 Row:0 Shape:Tall 5 Hash: 82b86eae425510e1dbc3e5c17c73c231
+Score: 1107 Col:6 Row:2 Shape:2x2 L (DR Corner) Hash: 850c944c80e5835c220f81c1d6cf6121
+Score: 1120 Col:5 Row:5 Shape:2x2 L (UL Corner) Hash: 1b4cd536fb8c9a3eacc81ffcda1ac740
+Score: 1133 Col:5 Row:0 Shape:2x2 L (UR Corner) Hash: 8e4be381522275c757e17674c91d326e
+Score: 1147 Col:5 Row:1 Shape:Tall 4 Hash: 8a7c1b6553d4bfa04386ddf25ba2e389
+Score: 1158 Col:9 Row:2 Shape:1x1 Square Hash: ffe2d07492651a938ae30c70ba37bd72
+Score: 1173 Col:7 Row:3 Shape:3x3 L (UR Corner) Hash: bbddee0bf000dd4d69da970feaa5d55c
+Score: 1176 Col:8 Row:7 Shape:2x2 L (UL Corner) Hash: 1f4db25e48218bc51bc7772138ad171c
+Score: 1179 Col:7 Row:4 Shape:2x2 L (UR Corner) Hash: 7931e9a8faa005d98b077e2212b0c860
+Score: 1188 Col:3 Row:7 Shape:3x3 Square Hash: 11d8342d7fa7366f89d1afe6d86dacea
+Score: 1191 Col:5 Row:5 Shape:2x2 L (DL Corner) Hash: 51160f95fca83ea6fb1d26c17a742c61
+Score: 1205 Col:6 Row:0 Shape:Tall 4 Hash: c89bafa3b9e182690c26f51054682b9d
+Score: 1208 Col:6 Row:6 Shape:Tall 3 Hash: 7ce517150bcd91833d7faa35ff5cc474
+Score: 1213 Col:5 Row:3 Shape:Wide 5 Hash: 5d94b585f08a5e7f095af1f2b76fcfbf
+Score: 1216 Col:3 Row:5 Shape:2x2 L (UR Corner) Hash: a8211c3c8aa0081fb25049f548d36e98
+Score: 1230 Col:4 Row:0 Shape:Tall 4 Hash: 95776b6aa9213d095c7b095088c4318a
+Score: 1243 Col:5 Row:0 Shape:Tall 3 Hash: 676863b6e6c32db7a17db3ca4be3dd64
+Score: 1248 Col:4 Row:5 Shape:Tall 5 Hash: e2adbebc4eb6c5988010dea5ed68ab9d
+Score: 1253 Col:5 Row:9 Shape:Wide 5 Hash: 87e2d5d89848258219a51b8a3cb88d35
+Score: 1268 Col:6 Row:0 Shape:3x3 L (UR Corner) Hash: c13c1d3cec1b6071d4213c964f7eeaba
+Score: 1269 Col:3 Row:6 Shape:1x1 Square Hash: 52045236f1fe2d4f45060ab511f38a84
+Score: 1274 Col:6 Row:5 Shape:3x3 L (UR Corner) Hash: 281ab72f0ef13ee3291d40d7fd4935d9
+Score: 1287 Col:7 Row:1 Shape:2x2 L (UL Corner) Hash: e8f883de2c41ddd1ce3460337cab04c8
+Score: 1292 Col:4 Row:4 Shape:Wide 5 Hash: 44e61232a4f000daeb1f8cfa60ce0325
+Score: 1305 Col:5 Row:1 Shape:2x2 L (UR Corner) Hash: 79fbbed193819ae6fe457aa9bb7e5138
+Score: 1319 Col:4 Row:0 Shape:Tall 4 Hash: 95776b6aa9213d095c7b095088c4318a
+Score: 1324 Col:7 Row:0 Shape:3x3 L (UR Corner) Hash: 6754da1260d5018c87c8adf7772ef121
+Score: 1339 Col:3 Row:0 Shape:Tall 5 Hash: 1befa2711dfc6f0ebfdf863b2a3ce5bd
+Score: 1344 Col:7 Row:6 Shape:3x3 L (DL Corner) Hash: c4a797a73dc7d07d85eb9e1d829a003e
+Score: 1346 Col:7 Row:9 Shape:Wide 2 Hash: ed428c8de445387d323d961e340c91cb
+Score: 1359 Col:8 Row:2 Shape:2x2 L (DR Corner) Hash: 77d1b952c4a99e145593cc56eaa2df81
+Score: 1363 Col:8 Row:6 Shape:Tall 4 Hash: e32ba07690676a484cfb93c7581cc116
+Score: 1368 Col:4 Row:5 Shape:Wide 5 Hash: 5ae5c7e160c4e8b873a24040b911ab10
+Score: 1381 Col:6 Row:1 Shape:2x2 L (UR Corner) Hash: 48863075d71f165434a0d7fbab47e988
+Score: 1396 Col:8 Row:0 Shape:Tall 5 Hash: 8bdb81cc6c5811ddd13ab21d9df48b4d
+Score: 1409 Col:8 Row:6 Shape:2x2 L (UL Corner) Hash: 65b3bcc125560c34cd65342efd533baa
+Score: 1414 Col:7 Row:6 Shape:3x3 L (DL Corner) Hash: c4a797a73dc7d07d85eb9e1d829a003e
+Score: 1417 Col:6 Row:4 Shape:2x2 L (UR Corner) Hash: f7c96d1f669f65cb6339e7d3a0ecf022
+Score: 1419 Col:8 Row:9 Shape:Wide 2 Hash: 2aeaffb19c0b3be5937df5f5833ee79f
+Score: 1422 Col:9 Row:5 Shape:Tall 3 Hash: 9bf962f3d37b6ca2cc23e257a40f6c2f
+Score: 1425 Col:6 Row:6 Shape:Tall 3 Hash: 7ce517150bcd91833d7faa35ff5cc474
+Score: 1426 Col:8 Row:5 Shape:1x1 Square Hash: 55b9f6e78ac56162432748d7e2947786
+Score: 1431 Col:3 Row:6 Shape:3x3 L (UR Corner) Hash: f13eacaef6c2b06d9c2fc54c44957355
+Score: 1446 Col:0 Row:6 Shape:3x3 L (DR Corner) Hash: 5bde377c112232f3bd70b981d740b8bb
+Score: 1450 Col:8 Row:3 Shape:2x2 Square Hash: 1a8399534f66e459eb039924913ae4f8
+Score: 1455 Col:3 Row:4 Shape:3x3 L (DL Corner) Hash: 0519f0548830c56c76b1c87cb07f8d1a
+Score: 1460 Col:0 Row:4 Shape:3x3 L (DL Corner) Hash: 49d7918b539c664a27004c1d328b5b73
+Score: 1471 Col:1 Row:5 Shape:1x1 Square Hash: eddba732ed398aa097e6ff752035302b
+Score: 1476 Col:2 Row:7 Shape:3x3 L (UR Corner) Hash: 153c08a41f0c8115230bcbee3b80ad25
+Score: 1479 Col:4 Row:4 Shape:2x2 L (DL Corner) Hash: b7b5e668d917c61539090bebf9cb0896
+Score: 1493 Col:1 Row:1 Shape:Tall 4 Hash: 44a0708e07ea75d5e73e2eddb44221d5
+Score: 1508 Col:4 Row:0 Shape:Tall 5 Hash: 82b86eae425510e1dbc3e5c17c73c231
+Score: 1513 Col:2 Row:5 Shape:3x3 L (UR Corner) Hash: de1f7c25d8075c0ce9b2c3eb4e3be677
+Score: 1518 Col:0 Row:0 Shape:3x3 L (UL Corner) Hash: 70c57ec72f9c872b402b18dad21cbae4
+Score: 1532 Col:6 Row:6 Shape:Wide 4 Hash: 060e031ddb255fd5a01a192138f61fd9
+Score: 1541 Col:2 Row:1 Shape:3x3 Square Hash: be5d24d4bf50a894eadb03c917f2266d
+Score: 1546 Col:1 Row:4 Shape:3x3 L (DL Corner) Hash: c415607ed53b1ea3287ad0723478cab9
+Score: 1561 Col:0 Row:8 Shape:Wide 5 Hash: f4a7840edfb52989bc4ba6afc087a01a
+Score: 1575 Col:0 Row:7 Shape:2x2 Square Hash: 09e8b890bc061d05115384ac6eb43f3f
+Score: 1579 Col:2 Row:4 Shape:Wide 4 Hash: c9414799928a5a43c153069af13c4685
+Score: 1592 Col:7 Row:1 Shape:Wide 3 Hash: aa3e36e74e599dfd843f45102045c033
+Score: 1596 Col:0 Row:3 Shape:Tall 4 Hash: 3d57bd1001edb7b2e10eaf4cd6c83c57
+Score: 1598 Col:0 Row:7 Shape:Wide 2 Hash: 7ab3fe54e9441362bb3318b34629bd01
+Score: 1603 Col:2 Row:7 Shape:3x3 L (UL Corner) Hash: cec25f3a10053e47381c1792ce575ab1
+Score: 1616 Col:3 Row:0 Shape:2x2 L (DR Corner) Hash: 967cca290057f58e6c8b456ed021e66f
+Score: 1620 Col:2 Row:2 Shape:Tall 4 Hash: 354fae7740328bc6a236afaa93581e9a
+Score: 1624 Col:2 Row:6 Shape:Tall 4 Hash: cf6e0d5e57f6250d27f496cd42e91e71
+Score: 1629 Col:9 Row:4 Shape:Tall 5 Hash: 94ff10e136e2b64849d1648cf5f5efcb
+Score: 1630 Col:4 Row:6 Shape:1x1 Square Hash: 085990734d31e6bc6eb3a27b5660a6a9
+Score: 1645 Col:7 Row:0 Shape:3x3 L (UR Corner) Hash: 6754da1260d5018c87c8adf7772ef121
+Score: 1658 Col:3 Row:8 Shape:2x2 L (DL Corner) Hash: 93404bff26bf1f4cec8cafd4bf0412e3
+Score: 1662 Col:3 Row:2 Shape:Tall 4 Hash: 008f7bcd5fbf47bbd87a7da5263a0e32
+Score: 1675 Col:2 Row:0 Shape:2x2 L (DL Corner) Hash: 9f66272784b1f026d7781adf118175a7
+Score: 1680 Col:2 Row:0 Shape:3x3 L (UL Corner) Hash: 4e2fc335476b2aa4faf5d0062d2f729c
+Score: 1683 Col:2 Row:3 Shape:Tall 3 Hash: ee6e74818ece69279de4a7ac2780128d
+Score: 1698 Col:5 Row:2 Shape:Wide 5 Hash: b8b4ab4800b6efc1511060ce7998dc14
+Score: 1707 Col:5 Row:1 Shape:3x3 Square Hash: fe8bbdb60c88330eb22b2fa8bd183e50
+Score: 1720 Col:8 Row:2 Shape:2x2 L (UR Corner) Hash: 2f0981f239c02114e59770ae9f977cfc
+Score: 1735 Col:0 Row:2 Shape:Wide 5 Hash: dace96c85ffd591cb66a8e810a7781e9
+Score: 1749 Col:6 Row:4 Shape:Wide 4 Hash: afe924ce6ccdb37c407f34099677fe6b
+Score: 1753 Col:2 Row:6 Shape:Tall 4 Hash: cf6e0d5e57f6250d27f496cd42e91e71
+Score: 1768 Col:0 Row:4 Shape:3x3 L (DR Corner) Hash: 1fdb7c0422f1d4405e6956b588fd7d92
+Score: 1773 Col:3 Row:8 Shape:3x3 L (DR Corner) Hash: 88d8bfa9b41700bd2da70af2191a00bc
+Score: 1787 Col:4 Row:1 Shape:Tall 4 Hash: 167303b1b8c6e3bd268d14737c9ff00f
+Score: 1792 Col:4 Row:0 Shape:3x3 L (UL Corner) Hash: 66b0be6b9fa995075d72f0f4a11648e0
+Score: 1807 Col:3 Row:4 Shape:3x3 L (DR Corner) Hash: eb627b88ba2e707832f6f132775bbfc4
+Score: 1811 Col:0 Row:9 Shape:Wide 4 Hash: 90d97b04929ba2b6f1cd6036d69540fe
+Score: 1815 Col:2 Row:6 Shape:2x2 Square Hash: 474f906cc0bc1a8c10cdaa562f8cfb79
+Score: 1827 Col:3 Row:2 Shape:Tall 2 Hash: 49b515a7bafa03d1f83de33b5c1db230
+Score: 1831 Col:2 Row:4 Shape:2x2 Square Hash: 0889e44a5eb4f3c48daeb955929c8744
+Score: 1836 Col:5 Row:0 Shape:Tall 5 Hash: 910168759bbabfaf72469abfbc7501ab
+Score: 1839 Col:2 Row:3 Shape:Wide 3 Hash: 6a9c0aba3beb2ac954222ca760341b63
+Score: 1842 Col:0 Row:2 Shape:2x2 L (DL Corner) Hash: 14b7452a930e78c769b4e691e675461f
+Score: 1851 Col:6 Row:2 Shape:3x3 Square Hash: 5cdb69c64db7bc76278bacc929a54bb8
+Score: 1884 Col:9 Row:2 Shape:Tall 3 Hash: 1818a2ce3d5a39e8ed984398da808943
+Score: 1899 Col:1 Row:2 Shape:3x3 L (UL Corner) Hash: fbf33c1153355e930efece3a14ef54c3
+Score: 1912 Col:1 Row:1 Shape:2x2 L (UL Corner) Hash: b147b280b00fb7919e92b36b4dc60625
+Score: 1917 Col:1 Row:5 Shape:Tall 5 Hash: b4f4f9c0df518e6f27f33a8190b17252
+Score: 1922 Col:1 Row:0 Shape:3x3 L (UL Corner) Hash: dbaca8dde4eb157f7f501a09becd0668
+Score: 1935 Col:9 Row:0 Shape:Tall 3 Hash: e8e7c2d84430fc9f52dc5ffea171f706
+Score: 1940 Col:0 Row:0 Shape:3x3 L (UL Corner) Hash: 70c57ec72f9c872b402b18dad21cbae4
+Score: 1941 Col:2 Row:8 Shape:1x1 Square Hash: e21d3290f229389e0d9bafa3e1dd1f76
+Score: 1960 Col:2 Row:2 Shape:3x3 Square Hash: 88188f1085ee2ea1be228d719606a6d7
+Score: 1965 Col:0 Row:4 Shape:3x3 L (DR Corner) Hash: 1fdb7c0422f1d4405e6956b588fd7d92
+Score: 1970 Col:2 Row:5 Shape:3x3 L (DL Corner) Hash: d6983c0fdca343822851cec804e32056
+Score: 1985 Col:5 Row:7 Shape:Wide 5 Hash: 6fdb939345a4ecaa792d98da000f7877
+Score: 1999 Col:5 Row:2 Shape:Wide 4 Hash: 139d9dceaa11115a4efb4e3a3bcd401b
+Score: 2004 Col:0 Row:2 Shape:3x3 L (DR Corner) Hash: fa49c26642621bf481d9dd51b041d482
+Score: 2023 Col:2 Row:7 Shape:3x3 Square Hash: c7576d18efafb04df0b989eea04f0e77
+Score: 2026 Col:4 Row:5 Shape:2x2 L (DR Corner) Hash: 8ce44b10a068d6084ed5ba4616a743ef
+Score: 2030 Col:2 Row:1 Shape:2x2 Square Hash: ad4d901764d174a21f48147cec00cf68
+Score: 2041 Col:8 Row:1 Shape:1x1 Square Hash: f2e6210be4d233b8579315b9c651a208
+Score: 2046 Col:0 Row:7 Shape:3x3 L (DR Corner) Hash: f9e6573eb8adedb7ebbb6900e7060532
+Score: 2047 Col:2 Row:4 Shape:1x1 Square Hash: 846cc33214a43326219ebf51bd9864cd
+Score: 2062 Col:4 Row:0 Shape:3x3 L (UL Corner) Hash: 66b0be6b9fa995075d72f0f4a11648e0
+Score: 2075 Col:3 Row:0 Shape:2x2 L (UL Corner) Hash: 6b12223e434b9f136e500780d41673ff
+Score: 2079 Col:0 Row:3 Shape:Wide 4 Hash: 105f1aa10907e94447362658a3c1d73e
+Score: 2113 Col:0 Row:1 Shape:Wide 4 Hash: c8aba15db191e65f6ca24bbc674b61d6
+Score: 2117 Col:0 Row:0 Shape:Wide 4 Hash: ba1d1dcec7c9e7cd69be8aa3110316c1
+Score: 2119 Col:0 Row:1 Shape:Wide 2 Hash: 67ca2687d1a955aea670e2df07adef8d
+Score: 2138 Col:7 Row:0 Shape:3x3 Square Hash: ee320db65a4c57c62bbca0586fbb27a7
+Score: 2143 Col:1 Row:2 Shape:Tall 5 Hash: da401406768b02bc78c1e586ee3a72e1
+Score: 2146 Col:0 Row:2 Shape:Tall 3 Hash: f70cbeb38fe1632d7635c650ab383d7d
+Score: 2151 Col:3 Row:4 Shape:3x3 L (DL Corner) Hash: 0519f0548830c56c76b1c87cb07f8d1a
+Score: 2154 Col:0 Row:6 Shape:2x2 L (DL Corner) Hash: a3ab80d20d2958db16e68537c88912db
+Score: 2157 Col:4 Row:1 Shape:2x2 L (DR Corner) Hash: e16b2142ad6e8f2d615d30c984be2373
+Score: 2170 Col:5 Row:1 Shape:2x2 L (UR Corner) Hash: 79fbbed193819ae6fe457aa9bb7e5138
+Score: 2185 Col:3 Row:0 Shape:3x3 L (UR Corner) Hash: 788ca193cf6443cafc0fd517f9497325
+Score: 2188 Col:3 Row:7 Shape:Wide 3 Hash: 7ec0bbe95b989e987bbee311aa93b965
+Score: 2202 Col:6 Row:7 Shape:Wide 4 Hash: 84030ce6d02f9878159f20dcfaa9c774
+Score: 2206 Col:4 Row:2 Shape:Tall 4 Hash: 25b9e45cdbba7bb6d2bb588ee5ca4f8b
+Score: 2207 Col:0 Row:5 Shape:1x1 Square Hash: ca7770c0388f919d70fdeb574a256bd9
+Score: 2212 Col:0 Row:0 Shape:3x3 L (DL Corner) Hash: f07a0235ace92b70be28ef33f474a106
+Score: 2217 Col:9 Row:5 Shape:Tall 5 Hash: ca324be7dd1dad34a64f073bf76407fc
+Score: 2219 Col:3 Row:1 Shape:Wide 2 Hash: 8e97fed89e4db251d9f0a1c66bb0e2ce
+Score: 2234 Col:9 Row:0 Shape:Tall 5 Hash: 01e8393e351de682b58486b5bc780946
+Score: 2249 Col:5 Row:3 Shape:Wide 5 Hash: 5d94b585f08a5e7f095af1f2b76fcfbf
+Score: 2252 Col:1 Row:0 Shape:2x2 L (UL Corner) Hash: 131c12aa7b368c1e85eed7ae87b5713d
+Score: 2257 Col:0 Row:7 Shape:3x3 L (UL Corner) Hash: 296efea63fbd7cf79b00abd681c71407
+Score: 2262 Col:1 Row:9 Shape:3x3 L (DR Corner) Hash: dc57487603f3b8bfa5555a2d390f2dc5
+Score: 2265 Col:8 Row:8 Shape:2x2 L (UR Corner) Hash: 0b18061309fe9ea2c2662b085e3e1b17
+Score: 2280 Col:0 Row:3 Shape:Wide 5 Hash: 99c5fc7883fd97384f2aa503a4512398
+Score: 2299 Col:4 Row:7 Shape:3x3 Square Hash: 668a6e194106adb29c3f8ea063ea05b7
+Score: 2301 Col:4 Row:0 Shape:Tall 2 Hash: 7ec4391d743c735d94737bc738f7d173
+Score: 2313 Col:1 Row:8 Shape:Wide 2 Hash: 628eb58d45b2fdaefc91ef2aa005a98a
+Score: 2328 Col:3 Row:2 Shape:3x3 L (UR Corner) Hash: 1c494084843fe123324e522a85662da5
+Score: 2340 Col:2 Row:1 Shape:Wide 2 Hash: e482afac5a42181a52070e4ec1ff0135
+Score: 2355 Col:3 Row:5 Shape:3x3 L (UL Corner) Hash: d9c04e7629cea944f2016136c850b033
+Score: 2358 Col:2 Row:0 Shape:2x2 L (UL Corner) Hash: 648675421caf00e4a8a13a6aab9f72f2
+Score: 2360 Col:7 Row:8 Shape:Tall 2 Hash: e13ce4e2591423bcbfc310c7ee8511dc
+Score: 2369 Col:7 Row:5 Shape:3x3 Square Hash: ce0f3120d280d25ed5a25f1d805190ee
+Score: 2374 Col:1 Row:0 Shape:3x3 L (DL Corner) Hash: 5a8347d9e13c3c280ccb6072d2ba08b9
+Score: 2379 Col:4 Row:4 Shape:3x3 L (UR Corner) Hash: fc65d99e38a8c86011ce55f3408b0bd4
+Score: 2393 Col:6 Row:0 Shape:Tall 4 Hash: c89bafa3b9e182690c26f51054682b9d
+Score: 2398 Col:0 Row:1 Shape:3x3 L (DL Corner) Hash: 0a7fe1ee009251b37f4d050c89d20648
+Score: 2403 Col:0 Row:4 Shape:3x3 L (UR Corner) Hash: cfe38f95f4e5445ccf52ac1188299d95
+Score: 2418 Col:7 Row:0 Shape:Tall 5 Hash: db1ed5fd7b5551c5d0e3594f803d840d
+Score: 2421 Col:3 Row:3 Shape:2x2 L (UL Corner) Hash: 2578720fc33a80f8168356e88303d831
+Score: 2434 Col:3 Row:8 Shape:2x2 L (DL Corner) Hash: 93404bff26bf1f4cec8cafd4bf0412e3
+Score: 2449 Col:4 Row:6 Shape:3x3 L (DL Corner) Hash: 9ca49f78cfd5d6d68a7e5ed99852ee45
+Score: 2464 Col:8 Row:0 Shape:Tall 5 Hash: 8bdb81cc6c5811ddd13ab21d9df48b4d
+Score: 2466 Col:5 Row:9 Shape:Wide 2 Hash: 011f81b221421650f6ebfa9269bcee69
+Score: 2470 Col:0 Row:5 Shape:2x2 Square Hash: a9ea24902a150c0586983df090e00100
+Score: 2474 Col:7 Row:8 Shape:2x2 Square Hash: f12b872a201ba173a816271ec088a44f
+Score: 2478 Col:7 Row:6 Shape:2x2 Square Hash: 0f6cc9ed70200a634ac8c5eaf2da18f5
+Score: 2493 Col:9 Row:0 Shape:Tall 5 Hash: 01e8393e351de682b58486b5bc780946
+Score: 2496 Col:5 Row:6 Shape:2x2 L (DL Corner) Hash: 7788b62344266a0baf2a962d94f06369
+Score: 2497 Col:6 Row:6 Shape:1x1 Square Hash: 2fda48617b7ce32f2691cc840fe5780d
+Score: 2512 Col:0 Row:9 Shape:3x3 L (DR Corner) Hash: e146bc46739f39419c4ab734091fdd6f
+Score: 2516 Col:9 Row:6 Shape:Tall 4 Hash: d832d4388d081ec454dc1f380e3062b0
+Score: 2519 Col:2 Row:0 Shape:Tall 3 Hash: 5e3d29cb06aa7928c750d8bffc0aaced
+Score: 2533 Col:0 Row:7 Shape:2x2 Square Hash: 09e8b890bc061d05115384ac6eb43f3f
+Score: 2537 Col:6 Row:4 Shape:2x2 Square Hash: fb416b8b63f05ccfcbfe309bbf8990f5
+Score: 2540 Col:4 Row:5 Shape:2x2 L (UL Corner) Hash: 74991215b8bce2c5c2c9900e40fea9d4
+Score: 2559 Col:1 Row:4 Shape:3x3 Square Hash: d7ba1fe82f3839b232746317b06dcede
+Score: 2563 Col:1 Row:0 Shape:Tall 4 Hash: 699bfd018cd4c728f525a3589d3d6c7a
+Score: 2566 Col:3 Row:0 Shape:Tall 3 Hash: e885d86d8a2c68cee6f3e9f528904d2e
+Score: 2580 Col:1 Row:7 Shape:Wide 4 Hash: 77d596c26cf10db986f16c2f2f5396df
+Score: 2594 Col:8 Row:4 Shape:2x2 Square Hash: 29230b832e9bd4e47baffeec9b79f997
+Score: 2609 Col:4 Row:0 Shape:Tall 5 Hash: 82b86eae425510e1dbc3e5c17c73c231
+Score: 2614 Col:5 Row:0 Shape:3x3 L (DL Corner) Hash: c5fb7f57409e01a681fb0554a8c7bf5c
+Score: 2627 Col:9 Row:1 Shape:2x2 L (DR Corner) Hash: 630f59aeb6caf21d7e1b162acf28ba32
+Score: 2630 Col:1 Row:7 Shape:Tall 3 Hash: 79706101b24f8f15f117832d3b7e12e9
+Score: 2634 Col:2 Row:2 Shape:2x2 Square Hash: 09d8ee84b096c638194529c12e19f824
+Score: 2637 Col:2 Row:7 Shape:Tall 3 Hash: cd4340420cdc7f5e45bfb3fdbcd25de3
+Score: 2650 Col:3 Row:7 Shape:2x2 L (DL Corner) Hash: f244871d33feafcda2c4fd0f9a9f382a
+Score: 2664 Col:3 Row:8 Shape:2x2 Square Hash: 99e871ef9d009572c708d89a9b228717
+Score: 2667 Col:1 Row:8 Shape:2x2 L (UL Corner) Hash: 4d40a2d808f6a9bc566b69f282864b69
+Score: 2670 Col:5 Row:8 Shape:2x2 L (DR Corner) Hash: 52721cdc7e410e58d1741008fa0c3d0d
+Score: 2672 Col:0 Row:2 Shape:Wide 2 Hash: 25ee4638d75fcc9a21b49ca3e79b7804
+Score: 2675 Col:4 Row:2 Shape:2x2 L (UR Corner) Hash: 368bed6c23cb44e58f1fc0d1fe8d2bdf
+Score: 2678 Col:6 Row:8 Shape:2x2 L (DL Corner) Hash: b11562aa75734d3d507723723713c731
+Score: 2693 Col:1 Row:4 Shape:3x3 L (DL Corner) Hash: c415607ed53b1ea3287ad0723478cab9
+Score: 2694 Col:3 Row:9 Shape:1x1 Square Hash: 490b474793abb2b3f14c53cba782c34c
+Score: 2695 Col:2 Row:9 Shape:1x1 Square Hash: 6d0b8704596f4d3d08afff5d180bb9cb
+Score: 2708 Col:1 Row:4 Shape:2x2 L (UR Corner) Hash: 20bc73e6f6711add17500a470e67f2c7
+Score: 2713 Col:6 Row:0 Shape:3x3 L (UL Corner) Hash: 71f0b27111eeec3a251a400b7a911354
+Score: 2718 Col:2 Row:4 Shape:Wide 5 Hash: 2711e8afd42fd935a0a10598c8949fc8
+Score: 2732 Col:3 Row:5 Shape:Wide 4 Hash: 2bcc1b4f805d7770cdcd3b1f867da550
+Score: 2745 Col:4 Row:6 Shape:2x2 L (DL Corner) Hash: 7d8fd977c9be99be4acb8057fec25c31
+Score: 2756 Col:5 Row:6 Shape:1x1 Square Hash: 784fe0a0965543607b4232422961396a
+Score: 2760 Col:7 Row:1 Shape:2x2 Square Hash: 81930c203b3f3d6830577f072fbfaebe
+Score: 2765 Col:5 Row:1 Shape:3x3 L (DL Corner) Hash: 6068971bfce89b95f0d8b5b698686e2e
+Score: 2766 Col:9 Row:0 Shape:1x1 Square Hash: b86c59d9f7750930776ab422d070f250
+Score: 2780 Col:1 Row:1 Shape:Wide 4 Hash: 303c79f77080831938f82ecb8e105ed8
+Score: 2789 Col:7 Row:4 Shape:3x3 Square Hash: ec61cea21f66914e2a7ae03d2f09f408
+Score: 2794 Col:3 Row:9 Shape:3x3 L (DR Corner) Hash: 32a11e7b3af55ca846bbc3ead638874f
+Score: 2796 Col:6 Row:6 Shape:Tall 2 Hash: cbf79928c9e89b6acdd8831d1f8f3a9d
+Score: 2799 Col:7 Row:7 Shape:2x2 L (UL Corner) Hash: 885356e3048354b06d731db1b6f39b74
+Score: 2804 Col:0 Row:7 Shape:3x3 L (DL Corner) Hash: a1832e764013b0a557b3937596ce2ed7
+Score: 2837 Col:6 Row:1 Shape:Wide 3 Hash: afac130c00913ef81ebb2e874ca48e84
+Score: 2841 Col:3 Row:7 Shape:2x2 Square Hash: d5856789bdc1b2b3758ea924cd56df6f
+Score: 2845 Col:1 Row:7 Shape:2x2 Square Hash: 2e487ba5dc69e286c6b75286c33c3c54
+Score: 2854 Col:3 Row:4 Shape:3x3 Square Hash: 25844136702552ed12a737d0e7682c32
+Score: 2866 Col:5 Row:0 Shape:Tall 2 Hash: dd59d3e176f23060ef4a522004d815a1
+Score: 2868 Col:8 Row:3 Shape:Wide 2 Hash: 81f1b47db8822672761cedeb65257e88
+Score: 2882 Col:8 Row:8 Shape:2x2 Square Hash: 7613fe7b5250e5c67f32408f38398e10
+Score: 2887 Col:0 Row:4 Shape:3x3 L (DL Corner) Hash: 49d7918b539c664a27004c1d328b5b73
+Score: 2900 Col:0 Row:0 Shape:2x2 L (UL Corner) Hash: ae27f6129d9fa48dfb7d71a25e7acdb1
+Score: 2914 Col:4 Row:0 Shape:Tall 4 Hash: 95776b6aa9213d095c7b095088c4318a
+Score: 2928 Col:3 Row:0 Shape:Tall 4 Hash: 9cd3ca462d897275873487a18e7b039e
+Score: 2933 Col:1 Row:5 Shape:3x3 L (UR Corner) Hash: d86ee3491cd24e0f69e5633cd5fbf693
+Score: 2946 Col:1 Row:1 Shape:Tall 3 Hash: 9cd88fc1cb9bc1aa68af55c63c15be01
+Score: 2948 Col:3 Row:8 Shape:Tall 2 Hash: b98df2513d6f78fd342172c827b8c738
+Score: 2951 Col:2 Row:3 Shape:2x2 L (UR Corner) Hash: bfb8cddd0633b909ce20d2c645c7d0c5
+Score: 2966 Col:3 Row:0 Shape:3x3 L (UL Corner) Hash: d2213b64b92f79a90b754774abb55493
+Score: 2981 Col:0 Row:2 Shape:3x3 L (DR Corner) Hash: fa49c26642621bf481d9dd51b041d482
+Score: 2982 Col:9 Row:7 Shape:1x1 Square Hash: f81a84e24577fb50c662fb147137bbce
+Score: 2991 Col:6 Row:7 Shape:3x3 Square Hash: 00b33a59ca40013e2f4aad002839cf42
+Score: 2996 Col:6 Row:6 Shape:3x3 L (DR Corner) Hash: 2256f387a24c8469416e40bb47d2dc32
+Score: 2997 Col:8 Row:3 Shape:1x1 Square Hash: 06cb0b46b0a6e3534b492725e1cc22c2
+Score: 3010 Col:9 Row:1 Shape:2x2 L (DR Corner) Hash: 630f59aeb6caf21d7e1b162acf28ba32
+Score: 3023 Col:8 Row:0 Shape:2x2 L (UL Corner) Hash: 784104dfa5e5bc19961c66b983b14f20
+Score: 3026 Col:0 Row:0 Shape:2x2 L (UR Corner) Hash: 6901f56416cb506c33f4ad46cf4fc090
+Score: 3030 Col:8 Row:8 Shape:2x2 Square Hash: 7613fe7b5250e5c67f32408f38398e10
+Score: 3033 Col:8 Row:6 Shape:2x2 L (DL Corner) Hash: 9867269ba01330ac0c46576b3f0dbc5b
+Score: 3036 Col:8 Row:5 Shape:2x2 L (UR Corner) Hash: 314e14aef517a471320e07a498fb1915
+Score: 3050 Col:9 Row:1 Shape:Tall 4 Hash: 0da7b3543c7f7209c9a77d78e88756f5
+Score: 3059 Col:3 Row:7 Shape:3x3 Square Hash: 11d8342d7fa7366f89d1afe6d86dacea
+Score: 3062 Col:6 Row:4 Shape:2x2 L (DL Corner) Hash: 3f071b49d639e16f8264d4887a317d80
+Score: 3067 Col:3 Row:4 Shape:3x3 L (DL Corner) Hash: 0519f0548830c56c76b1c87cb07f8d1a
+Score: 3070 Col:4 Row:4 Shape:2x2 L (UR Corner) Hash: 7ac13f223d1a849a2f94c75fa76419b8
+Score: 3072 Col:9 Row:8 Shape:Tall 2 Hash: 5cf40b7c386218772b35ef0c910615a0
+Score: 3077 Col:0 Row:3 Shape:Wide 5 Hash: 99c5fc7883fd97384f2aa503a4512398
+Score: 3080 Col:4 Row:1 Shape:2x2 L (DR Corner) Hash: e16b2142ad6e8f2d615d30c984be2373
+Score: 3093 Col:3 Row:0 Shape:2x2 L (DR Corner) Hash: 967cca290057f58e6c8b456ed021e66f
+Score: 3108 Col:2 Row:5 Shape:3x3 L (UL Corner) Hash: 5ffe77efd6cee3c2c55b47f271d0df6f
+Score: 3112 Col:3 Row:6 Shape:2x2 Square Hash: bdb1ec1f99ee568d0d4fb08b237d2818
+Score: 3115 Col:3 Row:3 Shape:2x2 L (DR Corner) Hash: 8246327c6d4752a2af54ade9a3e36a24
+Score: 3130 Col:0 Row:9 Shape:Wide 5 Hash: 85ea187717f0f35309998db0e97c4305
+Score: 3135 Col:2 Row:2 Shape:3x3 L (DR Corner) Hash: 91ca02df189e4da2c6aeffe86349fdf6
+Score: 3140 Col:7 Row:4 Shape:3x3 L (DR Corner) Hash: 0e63d659834f5a25ba10d9d749e95acb
+Score: 3154 Col:5 Row:2 Shape:Wide 4 Hash: 139d9dceaa11115a4efb4e3a3bcd401b
+Score: 3156 Col:2 Row:0 Shape:Wide 2 Hash: e9cb96fed383e449655d1a0f8b1be9e7
+Score: 3159 Col:4 Row:3 Shape:2x2 L (UL Corner) Hash: 39209eef406c51f60f8af3ce81307d84
+Score: 3173 Col:6 Row:0 Shape:Wide 4 Hash: 2dd04ee97cb00948e928feb99332a4cf
+Score: 3177 Col:1 Row:4 Shape:Tall 4 Hash: 3c63e0c96ec782ce34ba1448a9696c93
+Score: 3189 Col:0 Row:4 Shape:Tall 2 Hash: 8712c670f5b2c31658779009b2916a2c
+Score: 3202 Col:6 Row:3 Shape:Wide 3 Hash: 4f49370b01b3d3c853171f4b2d8358ba
+Score: 3204 Col:0 Row:6 Shape:Tall 2 Hash: 805e62840e3879e31f9d5b5d0b933784
+Score: 3215 Col:9 Row:7 Shape:1x1 Square Hash: f81a84e24577fb50c662fb147137bbce
+Score: 3230 Col:7 Row:4 Shape:3x3 L (UR Corner) Hash: fdbe0a77b5d6240d652e613f191a9864
+Score: 3245 Col:4 Row:5 Shape:3x3 L (DL Corner) Hash: ac53de76115167ffdbb36bbbd2ecef9d
+Score: 3254 Col:7 Row:5 Shape:3x3 Square Hash: ce0f3120d280d25ed5a25f1d805190ee
+Score: 3259 Col:0 Row:0 Shape:3x3 L (DL Corner) Hash: f07a0235ace92b70be28ef33f474a106
+Score: 3264 Col:1 Row:3 Shape:3x3 L (DR Corner) Hash: 2c95f673bdf6e2c9e0c3a7b6bb521c2c
+Score: 3267 Col:6 Row:4 Shape:Tall 3 Hash: 185a08dea38629e7cccd6c2163045ac7
+Score: 3269 Col:5 Row:5 Shape:Tall 2 Hash: 4505dc98574511ab1680e285b3d40e75
+Score: 3272 Col:0 Row:3 Shape:2x2 L (DL Corner) Hash: ddd0e953a167b7709e911f1b023898aa
+Score: 3273 Col:1 Row:0 Shape:1x1 Square Hash: 377b552bcda611c83c848646cb9d1cc1
+Score: 3287 Col:2 Row:4 Shape:Wide 4 Hash: c9414799928a5a43c153069af13c4685
+Score: 3291 Col:4 Row:2 Shape:2x2 Square Hash: abe44e2437535dec79d9f4b0150293d7
+Score: 3294 Col:4 Row:4 Shape:2x2 L (UL Corner) Hash: cf4832351010f4b7654ee7b792972696
+Score: 3297 Col:2 Row:0 Shape:Wide 3 Hash: db5f1011a4f87aab2e948c42803f14bf
+Score: 3311 Col:3 Row:8 Shape:2x2 Square Hash: 99e871ef9d009572c708d89a9b228717
+Score: 3316 Col:2 Row:4 Shape:3x3 L (DR Corner) Hash: 20da3b2a3d909395788c717da56f7362
+Score: 3335 Col:2 Row:5 Shape:3x3 Square Hash: 99b8fb13ee59704a51419a7c1f479b68
+Score: 3344 Col:6 Row:2 Shape:3x3 Square Hash: 5cdb69c64db7bc76278bacc929a54bb8
+Score: 3346 Col:8 Row:9 Shape:Wide 2 Hash: 2aeaffb19c0b3be5937df5f5833ee79f
+Score: 3351 Col:1 Row:8 Shape:3x3 L (DR Corner) Hash: d77e6f4370e1a018bb893af6de660cbf
+Score: 3363 Col:1 Row:9 Shape:Wide 2 Hash: a8029e14a907c66c33218b8ea4252efd
+Score: 3402 Col:0 Row:5 Shape:3x3 Square Hash: d9c89afd8aac60fcffbcc475190377d9
+Score: 3417 Col:1 Row:7 Shape:3x3 L (DR Corner) Hash: 164d71254151f229baf1ffdadde269d7
+Score: 3436 Col:0 Row:4 Shape:3x3 Square Hash: 550409e583951c3a6582ff5f604d1768
+Score: 3439 Col:5 Row:9 Shape:Wide 3 Hash: 95ff02a8388a1630ccd6995e9f2cb4ad
+Score: 3444 Col:1 Row:3 Shape:3x3 L (UR Corner) Hash: 68d736389c81deb2421b6db03e158a20
+Score: 3446 Col:2 Row:2 Shape:Wide 2 Hash: 10876f0acf3ae47e977dda7f52e33fb0
+Score: 3449 Col:1 Row:0 Shape:2x2 L (UR Corner) Hash: 21fa14ad118c31fdd17c1ce7d80621da
+Score: 3461 Col:2 Row:8 Shape:Tall 2 Hash: 9d3043db898a09700533f17f6c8a1bff
+Score: 3466 Col:4 Row:5 Shape:Tall 5 Hash: e2adbebc4eb6c5988010dea5ed68ab9d
+Score: 3479 Col:4 Row:0 Shape:2x2 L (UL Corner) Hash: 8b25658f79985808a4a06ed9d093e8d7
+Score: 3482 Col:1 Row:2 Shape:2x2 L (UR Corner) Hash: 0e46f178921e420b370b5e2dc32d599d
+Score: 3485 Col:1 Row:1 Shape:Wide 3 Hash: 62d003103c61612c00e6a8d7a457a25e
+Score: 3486 Col:2 Row:0 Shape:1x1 Square Hash: 76e42045c5dacb1106f36d950b686bc5
+Score: 3505 Col:0 Row:7 Shape:3x3 Square Hash: cd16aab4b8e9524e7b212f880933b515
+Score: 3508 Col:4 Row:0 Shape:2x2 L (DL Corner) Hash: da9fc61e5ca512e6a4720c0888afab0b
+Score: 3509 Col:3 Row:0 Shape:1x1 Square Hash: b26c901665dc4984314b489a41e95bf6
+Score: 3513 Col:6 Row:0 Shape:2x2 Square Hash: 29a3f127cf084d45365c262872e62c6e
+Score: 3515 Col:4 Row:2 Shape:Tall 2 Hash: b721a477488d7b8af12f65761e627fbb
+Score: 3518 Col:4 Row:4 Shape:2x2 L (DL Corner) Hash: b7b5e668d917c61539090bebf9cb0896
+Score: 3533 Col:7 Row:5 Shape:3x3 L (DL Corner) Hash: fa07d99a75dc3a90c99e71b52b55fea2
+Score: 3536 Col:0 Row:4 Shape:Wide 3 Hash: 9657e10291bdfc10e0b6ebd371bc59ac
+Score: 3540 Col:4 Row:7 Shape:Wide 4 Hash: 0c59f424fbc987d87023c5625d3ba4d5
+Score: 3553 Col:1 Row:5 Shape:2x2 L (UL Corner) Hash: c207a6d894373f20e162f5d02b4c7fb0
+Score: 3566 Col:0 Row:7 Shape:2x2 L (UL Corner) Hash: a86596a07e30dfa4b933afa1ad9fad5b
+Score: 3585 Col:6 Row:5 Shape:3x3 Square Hash: 7d2ae4150139fa7f35e324486c824d18
+Score: 3590 Col:1 Row:7 Shape:3x3 L (UL Corner) Hash: df761d5a67cd63efb33cce44360fecc1
+Score: 3603 Col:0 Row:6 Shape:Wide 3 Hash: 19a97128003a87bd7f7902a7f9f02493

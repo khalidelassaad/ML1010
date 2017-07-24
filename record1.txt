@@ -1,0 +1,76 @@
+         82749952 function calls in 218.437 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000  218.437  218.437 <string>:1(<module>)
+   650640   27.427    0.000   27.427    0.000 board_1010.py:17(copy)
+   909026    2.594    0.000    2.594    0.000 board_1010.py:22(check_place)
+   652595    1.637    0.000    3.683    0.000 board_1010.py:37(place)
+   650640    0.724    0.000    4.392    0.000 board_1010.py:43(make_move)
+   195500    0.187    0.000    0.187    0.000 board_1010.py:46(is_color)
+   650642    6.434    0.000    7.892    0.000 board_1010.py:5(__init__)
+     1955    0.515    0.000    1.486    0.001 board_1010.py:52(draw)
+        1    0.000    0.000    0.000    0.000 board_1010.py:70(clear)
+   652595   27.260    0.000   27.489    0.000 board_1010.py:74(clear10)
+   130129    0.226    0.000    0.341    0.000 move_1010.py:4(__init__)
+     1955    0.009    0.000    1.509    0.001 player_1010.py:104(draw_from_bools)
+     3912    0.542    0.000    1.459    0.000 player_1010.py:11(set_moves_for_shape)
+        1    0.038    0.038  218.436  218.436 player_1010.py:115(play)
+        1    0.000    0.000    0.000    0.000 player_1010.py:32(__init__)
+        1    0.000    0.000    0.000    0.000 player_1010.py:46(adopt_weights)
+     1956    0.079    0.000    1.551    0.001 player_1010.py:55(update_move_set)
+     2143    0.009    0.000    0.033    0.000 player_1010.py:6(my_hash)
+     1955    3.725    0.002  215.210    0.110 player_1010.py:61(pick_move)
+     2143    0.014    0.000    0.047    0.000 player_1010.py:87(<lambda>)
+      652    0.006    0.000    0.020    0.000 player_1010.py:91(next_round)
+     1956    0.005    0.000    0.011    0.000 random.py:170(randrange)
+     1956    0.003    0.000    0.014    0.000 random.py:214(randint)
+     1956    0.005    0.000    0.007    0.000 random.py:220(_randbelow)
+        1    0.000    0.000    0.000    0.000 random.py:84(__init__)
+        2    0.000    0.000    0.000    0.000 random.py:93(seed)
+   130129    0.115    0.000    0.115    0.000 shapes_1010.py:5(__init__)
+        1    0.000    0.000  218.437  218.437 singleplayer_1010.py:4(run_x_times)
+   130128    0.555    0.000   13.950    0.000 strategies_1010.py:11(MOVESCORE_points)
+   260256   11.186    0.000   50.266    0.000 strategies_1010.py:121(_count_cavities)
+   130128    0.239    0.000   64.609    0.000 strategies_1010.py:129(MOVESCORE_cavity)
+ 26025600   41.159    0.000   41.159    0.000 strategies_1010.py:135(_is_fragment)
+   260256   10.964    0.000   52.124    0.000 strategies_1010.py:163(_count_fragments)
+   130128    0.250    0.000   66.360    0.001 strategies_1010.py:171(MOVESCORE_fragment)
+  1301280    3.793    0.000    3.793    0.000 strategies_1010.py:177(_row_changes)
+  1301280    3.654    0.000    3.654    0.000 strategies_1010.py:186(_col_changes)
+ 10540368    8.056    0.000    8.056    0.000 strategies_1010.py:19(_density_scan_assess)
+   130128    1.413    0.000    8.860    0.000 strategies_1010.py:195(_switches_score)
+   130128    0.199    0.000   22.911    0.000 strategies_1010.py:204(MOVESCORE_switches)
+   520512    1.799    0.000   55.549    0.000 strategies_1010.py:3(_board_copy_with_move_made)
+   130128   18.359    0.000   26.415    0.000 strategies_1010.py:44(_density_score_of_new_board)
+   130128    0.176    0.000   40.198    0.000 strategies_1010.py:58(MOVESCORE_density)
+   130128    1.306    0.000    1.824    0.000 strategies_1010.py:62(_blocks_around_shape)
+   130128    1.162    0.000    3.010    0.000 strategies_1010.py:74(_percentage_filled)
+   130128    0.362    0.000    3.372    0.000 strategies_1010.py:89(MOVESCORE_fit)
+ 26025600   39.080    0.000   39.080    0.000 strategies_1010.py:93(_is_cavity)
+        1    0.000    0.000  218.437  218.437 {built-in method exec}
+        1    0.000    0.000    0.000    0.000 {built-in method from_bytes}
+        2    0.000    0.000    0.000    0.000 {built-in method isinstance}
+  1700140    0.310    0.000    0.310    0.000 {built-in method len}
+     1956    0.012    0.000    0.058    0.000 {built-in method max}
+     2143    0.008    0.000    0.008    0.000 {built-in method openssl_md5}
+   238512    0.797    0.000    0.797    0.000 {built-in method print}
+        1    0.000    0.000    0.000    0.000 {built-in method round}
+        1    0.000    0.000    0.000    0.000 {built-in method sum}
+        1    0.000    0.000    0.000    0.000 {built-in method urandom}
+        2    0.000    0.000    0.000    0.000 {function Random.seed at 0x10294a378}
+  1711664    0.441    0.000    0.441    0.000 {method 'add' of 'set' objects}
+  6517900    1.461    0.000    1.461    0.000 {method 'append' of 'list' objects}
+     1956    0.000    0.000    0.000    0.000 {method 'bit_length' of 'int' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+     2143    0.003    0.000    0.003    0.000 {method 'encode' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+     3308    0.002    0.000    0.002    0.000 {method 'getrandbits' of '_random.Random' objects}
+     2143    0.009    0.000    0.009    0.000 {method 'hexdigest' of '_hashlib.HASH' objects}
+     1955    0.001    0.000    0.001    0.000 {method 'items' of 'dict' objects}
+     1955    0.002    0.000    0.002    0.000 {method 'remove' of 'list' objects}
+   377235    0.106    0.000    0.106    0.000 {method 'remove' of 'set' objects}
+     3912    0.013    0.000    0.013    0.000 {method 'union' of 'set' objects}
+     2143    0.003    0.000    0.003    0.000 {method 'update' of '_hashlib.HASH' objects}
+

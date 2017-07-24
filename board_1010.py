@@ -1,7 +1,7 @@
 class Board:
     #WHEN REFERENCING GRID:
     #grid[x][y] (x is row, y is column). (0,0) is top left)
-
+    colormode = True #SET THIS TO FALSE IF WINDOWS USER
     def __init__(self):
         self.grid = []
         for x in range(10):
@@ -43,13 +43,26 @@ class Board:
     def make_move(self, move):
         self.place((move.row,move.col),move.shape)
 
-    def draw(self):
+    def is_color(self, move, x, y):
+        if not move:
+            return False
+        return ((x - move.row),(y - move.col)) in move.shape.blocks
+
+
+    def draw(self, move = None):
+        clearcolor = "\033[92m"
+        maincolor = "\033[91m"
+        endcolor = "\033[0m"
         print("  0 1 2 3 4 5 6 7 8 9")
         for x in range(10):
             print(x, end=" ")
             for y in range(10):
-                if self.grid[x][y]:
+                if self.grid[x][y] and self.is_color(move, x, y) and Board.colormode:
+                    print(maincolor+"#"+endcolor, end = " ")
+                elif self.grid[x][y]:
                     print("#",end=" ")
+                elif not self.grid[x][y] and self.is_color(move, x, y) and Board.colormode:
+                    print(clearcolor+"o"+endcolor, end = " ")
                 else:
                     print(".",end=" ")
             print()
