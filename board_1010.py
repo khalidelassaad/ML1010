@@ -16,8 +16,7 @@ class Board:
 
     def copy(self, source):
         for x in range(10):
-            for y in range(10):
-                self.grid[x][y] = source.grid[x][y]
+            self.grid[x] = source.grid[x][:]
 
     def check_place(self, point, shape):
         for block in shape.blocks:

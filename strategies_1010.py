@@ -19,26 +19,20 @@ def MOVESCORE_points(board, move):
 def _density_scan_assess(s1, s2, s3, s4):
     WEIGHTS = [-6,6,4,3,2,-1]
     if s1 and not s2 and not s3 and s4:#Diagonal: -4
-        score = -WEIGHTS[0]
-        return score
+        return WEIGHTS[0]
     if not s1 and s2 and s3 and not s4:#Diagonal: -4
-        score = -WEIGHTS[0]
-        return score
+        return WEIGHTS[0]
     if s1 and s2 and s3 and s4:#Full: +4
-        score = WEIGHTS[1]
-        return score
+        return WEIGHTS[1]
     if not s1 and not s2 and not s3 and not s4:#Empty: +1
-        score = WEIGHTS[2]
-        return score
-    if (s1 + s2 + s3 + s4) == 2:#2 along an edge
-        score = WEIGHTS[3]
-        return score
-    if (s1 + s2 + s3 + s4) == 3:#3 in a corner: 22
-        score = WEIGHTS[4]
-        return score
-    if (s1 + s2 + s3 + s4) == 1:#1 in a corner: -2
-        score = -WEIGHTS[5]
-        return score
+        return WEIGHTS[2]
+    x = s1 + s2 + s3 + s4
+    if x == 2:#2 along an edge
+        return WEIGHTS[3]
+    if x == 3:#3 in a corner: 22
+        return WEIGHTS[4]
+    if x == 1:#1 in a corner: -2
+        return WEIGHTS[5]
     return 0
 
 def _density_score_of_new_board(result_board):
@@ -91,32 +85,11 @@ def MOVESCORE_fit(board, move):
     return int(score)
 
 def _is_cavity(board, x, y):
-    main  = False
-    up    = False
-    down  = False
-    left  = False
-    right = False
-    if board.grid[x][y] == 0:
-        main = True
-    if x == 9:
-        down = True
-    elif x == 0:
-        up = True
-    else:
-        if board.grid[x+1][y]:
-            down = True
-        if board.grid[x-1][y]:
-            up = True
-    if y == 9:
-        right = True
-    elif y == 0:
-        left = True
-    else:
-        if board.grid[x][y+1]:
-            right = True
-        if board.grid[x][y-1]:
-            left = True
-    return main and up and down and left and right
+    return (board.grid[x][y] == 0) \
+    and (x == 0 or board.grid[x-1][y] == 1) \
+    and (x == 9 or board.grid[x+1][y] == 1) \
+    and (y == 0 or board.grid[x][y-1] == 1) \
+    and (y == 9 or board.grid[x][y+1] == 1)
 
 def _count_cavities(board):
     count = 0
@@ -133,32 +106,11 @@ def MOVESCORE_cavity(board, move):
     return old_cavities - new_cavities
 
 def _is_fragment(board, x, y):
-    main  = False
-    up    = False
-    down  = False
-    left  = False
-    right = False
-    if board.grid[x][y] == 1:
-        main = True
-    if x == 9:
-        down = True
-    elif x == 0:
-        up = True
-    else:
-        if board.grid[x+1][y] == 0:
-            down = True
-        if board.grid[x-1][y] == 0:
-            up = True
-    if y == 9:
-        right = True
-    elif y == 0:
-        left = True
-    else:
-        if board.grid[x][y+1] == 0:
-            right = True
-        if board.grid[x][y-1] == 0:
-            left = True
-    return main and up and down and left and right
+    return (board.grid[x][y] == 1) \
+    and (x == 0 or board.grid[x-1][y] == 0) \
+    and (x == 9 or board.grid[x+1][y] == 0) \
+    and (y == 0 or board.grid[x][y-1] == 0) \
+    and (y == 9 or board.grid[x][y+1] == 0)
 
 def _count_fragments(board):
     count = 0
